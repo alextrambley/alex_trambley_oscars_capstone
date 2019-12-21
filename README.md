@@ -26,13 +26,13 @@ This API is sourced using information found from [the IMDB official site](https:
 -----
 # Working With The Data
 
-To start working with the data, I imported my complete films table into a Jupyter Notebook using Python. I then filtered out the films by category, searching by the categories associated with "Best Picture". This included 
+To start working with the data, I imported my complete films table into a Jupyter Notebook using Python. I then filtered out the films by category, searching by the categories associated with "Best Picture". This included:
 <b>
-*BEST PICTURE
-*OUTSTANDING PICTURE
-*OUTSTANDING PRODUCTION
-*OUTSTANDING MOTION PICTURE
-*BEST MOTION PICTURE
+* BEST PICTURE
+* OUTSTANDING PICTURE
+* OUTSTANDING PRODUCTION
+* OUTSTANDING MOTION PICTURE
+* BEST MOTION PICTURE
 </b> 
  as the name of the category has changed over time.
 
