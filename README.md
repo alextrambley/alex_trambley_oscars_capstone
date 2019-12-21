@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="337" src="https://github.com/alextrambley/alex_trambley_oscars_capstone/blob/master/Oscars-Logo-Statue.jpg">
+  <img src="https://github.com/alextrambley/alex_trambley_oscars_capstone/blob/master/oscars_logo.jpg">
 </p>
 
 # Alex Trambley's Oscars Capstone
