@@ -33,7 +33,8 @@ To start working with the data, I imported my complete films table into a Jupyte
 * OUTSTANDING PRODUCTION
 * OUTSTANDING MOTION PICTURE
 * BEST MOTION PICTURE
-</b> 
- as the name of the category has changed over time.
+</b>
+This was necessary as the names of the categories changed over time. 
 
+-----
 Then, I filtered out the categories associated with acting (any categories that included the letters "ACT" in the title.
