@@ -9,7 +9,7 @@ This is my Capstone project for the Data Analytics Cohort 1. I decided to focus 
 # Sourcing the Data
 ![Oscars-DB-logo](https://github.com/alextrambley/alex_trambley_oscars_capstone/blob/master/oscars_database_logo.png)
 
-## Academy Awards - Gotta Get Em' All
+## Academy Award Films - Gotta Get Em' All
 I first needed to find a list of all of the films that have been nominated by the Academy for any category during its history. 
 I sourced this search via a table I found on [another Github sourcing all of the Oscar winners from 1927 - 2017](https://datahub.io/rufuspollock/oscars-nominees-and-winners) that scraped the [Academy Awards Database website](http://awardsdatabase.oscars.org/).
 
@@ -37,4 +37,4 @@ To start working with the data, I imported my complete films table into a Jupyte
 This was necessary as the names of the categories changed over time. 
 
 -----
-Then, I filtered out the categories associated with acting (any categories that included the letters "ACT" in the title.
+Then, I filtered out the categories associated with acting (any categories that included the letters "ACT" in the title) so that I could use this table as a source of nominations in categories other than Best Picture. I also did this same filtering for all of the other categories __NOT__ associated with acting as their own dataframe so that their values could be referenced against the Best Picture values in a separate table.
