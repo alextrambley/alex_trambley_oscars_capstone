@@ -1,0 +1,1709 @@
+year,category,winner,entity
+1927,ACTOR,False,Richard Barthelmess
+1927,ACTOR,True,Emil Jannings
+1927,ACTRESS,False,Louise Dresser
+1927,ACTRESS,True,Janet Gaynor
+1927,ACTRESS,False,Gloria Swanson
+1928,ACTOR,False,George Bancroft
+1928,ACTOR,True,Warner Baxter
+1928,ACTOR,False,Chester Morris
+1928,ACTOR,False,Paul Muni
+1928,ACTOR,False,Lewis Stone
+1928,ACTRESS,False,Ruth Chatterton
+1928,ACTRESS,False,Betty Compson
+1928,ACTRESS,False,Jeanne Eagels
+1928,ACTRESS,False,Corinne Griffith
+1928,ACTRESS,False,Bessie Love
+1928,ACTRESS,True,Mary Pickford
+1929,ACTOR,True,George Arliss
+1929,ACTOR,False,George Arliss
+1929,ACTOR,False,Wallace Beery
+1929,ACTOR,False,Maurice Chevalier
+1929,ACTOR,False,Ronald Colman
+1929,ACTOR,False,Lawrence Tibbett
+1929,ACTRESS,False,Nancy Carroll
+1929,ACTRESS,False,Ruth Chatterton
+1929,ACTRESS,False,Greta Garbo
+1929,ACTRESS,True,Norma Shearer
+1929,ACTRESS,False,Norma Shearer
+1929,ACTRESS,False,Gloria Swanson
+1930,ACTOR,True,Lionel Barrymore
+1930,ACTOR,False,Jackie Cooper
+1930,ACTOR,False,Richard Dix
+1930,ACTOR,False,Fredric March
+1930,ACTOR,False,Adolphe Menjou
+1930,ACTRESS,False,Marlene Dietrich
+1930,ACTRESS,True,Marie Dressler
+1930,ACTRESS,False,Irene Dunne
+1930,ACTRESS,False,Ann Harding
+1930,ACTRESS,False,Norma Shearer
+1931,ACTOR,True,Wallace Beery
+1931,ACTOR,False,Alfred Lunt
+1931,ACTOR,True,Fredric March
+1931,ACTRESS,False,Marie Dressler
+1931,ACTRESS,False,Lynn Fontanne
+1931,ACTRESS,True,Helen Hayes
+1932,ACTOR,False,Leslie Howard
+1932,ACTOR,True,Charles Laughton
+1932,ACTOR,False,Paul Muni
+1932,ACTRESS,True,Katharine Hepburn
+1932,ACTRESS,False,May Robson
+1932,ACTRESS,False,Diana Wynyard
+1934,ACTOR,True,Clark Gable
+1934,ACTOR,False,Frank Morgan
+1934,ACTOR,False,William Powell
+1934,ACTRESS,True,Claudette Colbert
+1934,ACTRESS,False,Bette Davis
+1934,ACTRESS,False,Grace Moore
+1934,ACTRESS,False,Norma Shearer
+1935,ACTOR,False,Clark Gable
+1935,ACTOR,False,Charles Laughton
+1935,ACTOR,True,Victor McLaglen
+1935,ACTOR,False,Paul Muni
+1935,ACTOR,False,Franchot Tone
+1935,ACTRESS,False,Elisabeth Bergner
+1935,ACTRESS,False,Claudette Colbert
+1935,ACTRESS,True,Bette Davis
+1935,ACTRESS,False,Katharine Hepburn
+1935,ACTRESS,False,Miriam Hopkins
+1935,ACTRESS,False,Merle Oberon
+1936,ACTOR,False,Gary Cooper
+1936,ACTOR,False,Walter Huston
+1936,ACTOR,True,Paul Muni
+1936,ACTOR,False,William Powell
+1936,ACTOR,False,Spencer Tracy
+1936,ACTOR IN A SUPPORTING ROLE,False,Mischa Auer
+1936,ACTOR IN A SUPPORTING ROLE,True,Walter Brennan
+1936,ACTOR IN A SUPPORTING ROLE,False,Stuart Erwin
+1936,ACTOR IN A SUPPORTING ROLE,False,Basil Rathbone
+1936,ACTOR IN A SUPPORTING ROLE,False,Akim Tamiroff
+1936,ACTRESS,False,Irene Dunne
+1936,ACTRESS,False,Gladys George
+1936,ACTRESS,False,Carole Lombard
+1936,ACTRESS,True,Luise Rainer
+1936,ACTRESS,False,Norma Shearer
+1936,ACTRESS IN A SUPPORTING ROLE,False,Beulah Bondi
+1936,ACTRESS IN A SUPPORTING ROLE,False,Alice Brady
+1936,ACTRESS IN A SUPPORTING ROLE,False,Bonita Granville
+1936,ACTRESS IN A SUPPORTING ROLE,False,Maria Ouspenskaya
+1936,ACTRESS IN A SUPPORTING ROLE,True,Gale Sondergaard
+1937,ACTOR,False,Charles Boyer
+1937,ACTOR,False,Fredric March
+1937,ACTOR,False,Robert Montgomery
+1937,ACTOR,False,Paul Muni
+1937,ACTOR,True,Spencer Tracy
+1937,ACTOR IN A SUPPORTING ROLE,False,Ralph Bellamy
+1937,ACTOR IN A SUPPORTING ROLE,False,Thomas Mitchell
+1937,ACTOR IN A SUPPORTING ROLE,True,Joseph Schildkraut
+1937,ACTOR IN A SUPPORTING ROLE,False,H. B. Warner
+1937,ACTOR IN A SUPPORTING ROLE,False,Roland Young
+1937,ACTRESS,False,Irene Dunne
+1937,ACTRESS,False,Greta Garbo
+1937,ACTRESS,False,Janet Gaynor
+1937,ACTRESS,True,Luise Rainer
+1937,ACTRESS,False,Barbara Stanwyck
+1937,ACTRESS IN A SUPPORTING ROLE,True,Alice Brady
+1937,ACTRESS IN A SUPPORTING ROLE,False,Andrea Leeds
+1937,ACTRESS IN A SUPPORTING ROLE,False,Anne Shirley
+1937,ACTRESS IN A SUPPORTING ROLE,False,Claire Trevor
+1937,ACTRESS IN A SUPPORTING ROLE,False,Dame May Whitty
+1938,ACTOR,False,Charles Boyer
+1938,ACTOR,False,James Cagney
+1938,ACTOR,False,Robert Donat
+1938,ACTOR,False,Leslie Howard
+1938,ACTOR,True,Spencer Tracy
+1938,ACTOR IN A SUPPORTING ROLE,True,Walter Brennan
+1938,ACTOR IN A SUPPORTING ROLE,False,John Garfield
+1938,ACTOR IN A SUPPORTING ROLE,False,Gene Lockhart
+1938,ACTOR IN A SUPPORTING ROLE,False,Robert Morley
+1938,ACTOR IN A SUPPORTING ROLE,False,Basil Rathbone
+1938,ACTRESS,False,Fay Bainter
+1938,ACTRESS,True,Bette Davis
+1938,ACTRESS,False,Wendy Hiller
+1938,ACTRESS,False,Norma Shearer
+1938,ACTRESS,False,Margaret Sullavan
+1938,ACTRESS IN A SUPPORTING ROLE,True,Fay Bainter
+1938,ACTRESS IN A SUPPORTING ROLE,False,Beulah Bondi
+1938,ACTRESS IN A SUPPORTING ROLE,False,Billie Burke
+1938,ACTRESS IN A SUPPORTING ROLE,False,Spring Byington
+1938,ACTRESS IN A SUPPORTING ROLE,False,Miliza Korjus
+1939,ACTOR,True,Robert Donat
+1939,ACTOR,False,Clark Gable
+1939,ACTOR,False,Laurence Olivier
+1939,ACTOR,False,Mickey Rooney
+1939,ACTOR,False,James Stewart
+1939,ACTOR IN A SUPPORTING ROLE,False,Brian Aherne
+1939,ACTOR IN A SUPPORTING ROLE,False,Harry Carey
+1939,ACTOR IN A SUPPORTING ROLE,False,Brian Donlevy
+1939,ACTOR IN A SUPPORTING ROLE,True,Thomas Mitchell
+1939,ACTOR IN A SUPPORTING ROLE,False,Claude Rains
+1939,ACTRESS,False,Bette Davis
+1939,ACTRESS,False,Irene Dunne
+1939,ACTRESS,False,Greta Garbo
+1939,ACTRESS,False,Greer Garson
+1939,ACTRESS,True,Vivien Leigh
+1939,ACTRESS IN A SUPPORTING ROLE,False,Olivia de Havilland
+1939,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Fitzgerald
+1939,ACTRESS IN A SUPPORTING ROLE,True,Hattie McDaniel
+1939,ACTRESS IN A SUPPORTING ROLE,False,Edna May Oliver
+1939,ACTRESS IN A SUPPORTING ROLE,False,Maria Ouspenskaya
+1940,ACTOR,False,Charles Chaplin
+1940,ACTOR,False,Henry Fonda
+1940,ACTOR,False,Raymond Massey
+1940,ACTOR,False,Laurence Olivier
+1940,ACTOR,True,James Stewart
+1940,ACTOR IN A SUPPORTING ROLE,False,Albert Basserman
+1940,ACTOR IN A SUPPORTING ROLE,True,Walter Brennan
+1940,ACTOR IN A SUPPORTING ROLE,False,William Gargan
+1940,ACTOR IN A SUPPORTING ROLE,False,Jack Oakie
+1940,ACTOR IN A SUPPORTING ROLE,False,James Stephenson
+1940,ACTRESS,False,Bette Davis
+1940,ACTRESS,False,Joan Fontaine
+1940,ACTRESS,False,Katharine Hepburn
+1940,ACTRESS,True,Ginger Rogers
+1940,ACTRESS,False,Martha Scott
+1940,ACTRESS IN A SUPPORTING ROLE,False,Judith Anderson
+1940,ACTRESS IN A SUPPORTING ROLE,True,Jane Darwell
+1940,ACTRESS IN A SUPPORTING ROLE,False,Ruth Hussey
+1940,ACTRESS IN A SUPPORTING ROLE,False,Barbara O'Neil
+1940,ACTRESS IN A SUPPORTING ROLE,False,Marjorie Rambeau
+1941,ACTOR,True,Gary Cooper
+1941,ACTOR,False,Cary Grant
+1941,ACTOR,False,Walter Huston
+1941,ACTOR,False,Robert Montgomery
+1941,ACTOR,False,Orson Welles
+1941,ACTOR IN A SUPPORTING ROLE,False,Walter Brennan
+1941,ACTOR IN A SUPPORTING ROLE,False,Charles Coburn
+1941,ACTOR IN A SUPPORTING ROLE,True,Donald Crisp
+1941,ACTOR IN A SUPPORTING ROLE,False,James Gleason
+1941,ACTOR IN A SUPPORTING ROLE,False,Sydney Greenstreet
+1941,ACTRESS,False,Bette Davis
+1941,ACTRESS,False,Olivia de Havilland
+1941,ACTRESS,True,Joan Fontaine
+1941,ACTRESS,False,Greer Garson
+1941,ACTRESS,False,Barbara Stanwyck
+1941,ACTRESS IN A SUPPORTING ROLE,False,Sara Allgood
+1941,ACTRESS IN A SUPPORTING ROLE,True,Mary Astor
+1941,ACTRESS IN A SUPPORTING ROLE,False,Patricia Collinge
+1941,ACTRESS IN A SUPPORTING ROLE,False,Teresa Wright
+1941,ACTRESS IN A SUPPORTING ROLE,False,Margaret Wycherly
+1942,ACTOR,True,James Cagney
+1942,ACTOR,False,Ronald Colman
+1942,ACTOR,False,Gary Cooper
+1942,ACTOR,False,Walter Pidgeon
+1942,ACTOR,False,Monty Woolley
+1942,ACTOR IN A SUPPORTING ROLE,False,William Bendix
+1942,ACTOR IN A SUPPORTING ROLE,True,Van Heflin
+1942,ACTOR IN A SUPPORTING ROLE,False,Walter Huston
+1942,ACTOR IN A SUPPORTING ROLE,False,Frank Morgan
+1942,ACTOR IN A SUPPORTING ROLE,False,Henry Travers
+1942,ACTRESS,False,Bette Davis
+1942,ACTRESS,True,Greer Garson
+1942,ACTRESS,False,Katharine Hepburn
+1942,ACTRESS,False,Rosalind Russell
+1942,ACTRESS,False,Teresa Wright
+1942,ACTRESS IN A SUPPORTING ROLE,False,Gladys Cooper
+1942,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead
+1942,ACTRESS IN A SUPPORTING ROLE,False,Susan Peters
+1942,ACTRESS IN A SUPPORTING ROLE,False,Dame May Whitty
+1942,ACTRESS IN A SUPPORTING ROLE,True,Teresa Wright
+1943,ACTOR,False,Humphrey Bogart
+1943,ACTOR,False,Gary Cooper
+1943,ACTOR,True,Paul Lukas
+1943,ACTOR,False,Walter Pidgeon
+1943,ACTOR,False,Mickey Rooney
+1943,ACTOR IN A SUPPORTING ROLE,False,Charles Bickford
+1943,ACTOR IN A SUPPORTING ROLE,True,Charles Coburn
+1943,ACTOR IN A SUPPORTING ROLE,False,J. Carrol Naish
+1943,ACTOR IN A SUPPORTING ROLE,False,Claude Rains
+1943,ACTOR IN A SUPPORTING ROLE,False,Akim Tamiroff
+1943,ACTRESS,False,Jean Arthur
+1943,ACTRESS,False,Ingrid Bergman
+1943,ACTRESS,False,Joan Fontaine
+1943,ACTRESS,False,Greer Garson
+1943,ACTRESS,True,Jennifer Jones
+1943,ACTRESS IN A SUPPORTING ROLE,False,Gladys Cooper
+1943,ACTRESS IN A SUPPORTING ROLE,False,Paulette Goddard
+1943,ACTRESS IN A SUPPORTING ROLE,True,Katina Paxinou
+1943,ACTRESS IN A SUPPORTING ROLE,False,Anne Revere
+1943,ACTRESS IN A SUPPORTING ROLE,False,Lucile Watson
+1944,ACTOR,False,Charles Boyer
+1944,ACTOR,True,Bing Crosby
+1944,ACTOR,False,Barry Fitzgerald
+1944,ACTOR,False,Cary Grant
+1944,ACTOR,False,Alexander Knox
+1944,ACTOR IN A SUPPORTING ROLE,False,Hume Cronyn
+1944,ACTOR IN A SUPPORTING ROLE,True,Barry Fitzgerald
+1944,ACTOR IN A SUPPORTING ROLE,False,Claude Rains
+1944,ACTOR IN A SUPPORTING ROLE,False,Clifton Webb
+1944,ACTOR IN A SUPPORTING ROLE,False,Monty Woolley
+1944,ACTRESS,True,Ingrid Bergman
+1944,ACTRESS,False,Claudette Colbert
+1944,ACTRESS,False,Bette Davis
+1944,ACTRESS,False,Greer Garson
+1944,ACTRESS,False,Barbara Stanwyck
+1944,ACTRESS IN A SUPPORTING ROLE,True,Ethel Barrymore
+1944,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Jones
+1944,ACTRESS IN A SUPPORTING ROLE,False,Angela Lansbury
+1944,ACTRESS IN A SUPPORTING ROLE,False,Aline MacMahon
+1944,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead
+1945,ACTOR,False,Bing Crosby
+1945,ACTOR,False,Gene Kelly
+1945,ACTOR,True,Ray Milland
+1945,ACTOR,False,Gregory Peck
+1945,ACTOR,False,Cornel Wilde
+1945,ACTOR IN A SUPPORTING ROLE,False,Michael Chekhov
+1945,ACTOR IN A SUPPORTING ROLE,False,John Dall
+1945,ACTOR IN A SUPPORTING ROLE,True,James Dunn
+1945,ACTOR IN A SUPPORTING ROLE,False,Robert Mitchum
+1945,ACTOR IN A SUPPORTING ROLE,False,J. Carrol Naish
+1945,ACTRESS,False,Ingrid Bergman
+1945,ACTRESS,True,Joan Crawford
+1945,ACTRESS,False,Greer Garson
+1945,ACTRESS,False,Jennifer Jones
+1945,ACTRESS,False,Gene Tierney
+1945,ACTRESS IN A SUPPORTING ROLE,False,Eve Arden
+1945,ACTRESS IN A SUPPORTING ROLE,False,Ann Blyth
+1945,ACTRESS IN A SUPPORTING ROLE,False,Angela Lansbury
+1945,ACTRESS IN A SUPPORTING ROLE,False,Joan Lorring
+1945,ACTRESS IN A SUPPORTING ROLE,True,Anne Revere
+1946,ACTOR,True,Fredric March
+1946,ACTOR,False,Laurence Olivier
+1946,ACTOR,False,Larry Parks
+1946,ACTOR,False,Gregory Peck
+1946,ACTOR,False,James Stewart
+1946,ACTOR IN A SUPPORTING ROLE,False,Charles Coburn
+1946,ACTOR IN A SUPPORTING ROLE,False,William Demarest
+1946,ACTOR IN A SUPPORTING ROLE,False,Claude Rains
+1946,ACTOR IN A SUPPORTING ROLE,True,Harold Russell
+1946,ACTOR IN A SUPPORTING ROLE,False,Clifton Webb
+1946,ACTRESS,True,Olivia de Havilland
+1946,ACTRESS,False,Celia Johnson
+1946,ACTRESS,False,Jennifer Jones
+1946,ACTRESS,False,Rosalind Russell
+1946,ACTRESS,False,Jane Wyman
+1946,ACTRESS IN A SUPPORTING ROLE,False,Ethel Barrymore
+1946,ACTRESS IN A SUPPORTING ROLE,True,Anne Baxter
+1946,ACTRESS IN A SUPPORTING ROLE,False,Lillian Gish
+1946,ACTRESS IN A SUPPORTING ROLE,False,Flora Robson
+1946,ACTRESS IN A SUPPORTING ROLE,False,Gale Sondergaard
+1947,ACTOR,True,Ronald Colman
+1947,ACTOR,False,John Garfield
+1947,ACTOR,False,Gregory Peck
+1947,ACTOR,False,William Powell
+1947,ACTOR,False,Michael Redgrave
+1947,ACTOR IN A SUPPORTING ROLE,False,Charles Bickford
+1947,ACTOR IN A SUPPORTING ROLE,False,Thomas Gomez
+1947,ACTOR IN A SUPPORTING ROLE,True,Edmund Gwenn
+1947,ACTOR IN A SUPPORTING ROLE,False,Robert Ryan
+1947,ACTOR IN A SUPPORTING ROLE,False,Richard Widmark
+1947,ACTRESS,False,Joan Crawford
+1947,ACTRESS,False,Susan Hayward
+1947,ACTRESS,False,Dorothy McGuire
+1947,ACTRESS,False,Rosalind Russell
+1947,ACTRESS,True,Loretta Young
+1947,ACTRESS IN A SUPPORTING ROLE,False,Ethel Barrymore
+1947,ACTRESS IN A SUPPORTING ROLE,False,Gloria Grahame
+1947,ACTRESS IN A SUPPORTING ROLE,True,Celeste Holm
+1947,ACTRESS IN A SUPPORTING ROLE,False,Marjorie Main
+1947,ACTRESS IN A SUPPORTING ROLE,False,Anne Revere
+1948,ACTOR,False,Lew Ayres
+1948,ACTOR,False,Montgomery Clift
+1948,ACTOR,False,Dan Dailey
+1948,ACTOR,True,Laurence Olivier
+1948,ACTOR,False,Clifton Webb
+1948,ACTOR IN A SUPPORTING ROLE,False,Charles Bickford
+1948,ACTOR IN A SUPPORTING ROLE,False,José Ferrer
+1948,ACTOR IN A SUPPORTING ROLE,False,Oscar Homolka
+1948,ACTOR IN A SUPPORTING ROLE,True,Walter Huston
+1948,ACTOR IN A SUPPORTING ROLE,False,Cecil Kellaway
+1948,ACTRESS,False,Ingrid Bergman
+1948,ACTRESS,False,Olivia de Havilland
+1948,ACTRESS,False,Irene Dunne
+1948,ACTRESS,False,Barbara Stanwyck
+1948,ACTRESS,True,Jane Wyman
+1948,ACTRESS IN A SUPPORTING ROLE,False,Barbara Bel Geddes
+1948,ACTRESS IN A SUPPORTING ROLE,False,Ellen Corby
+1948,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead
+1948,ACTRESS IN A SUPPORTING ROLE,False,Jean Simmons
+1948,ACTRESS IN A SUPPORTING ROLE,True,Claire Trevor
+1949,ACTOR,True,Broderick Crawford
+1949,ACTOR,False,Kirk Douglas
+1949,ACTOR,False,Gregory Peck
+1949,ACTOR,False,Richard Todd
+1949,ACTOR,False,John Wayne
+1949,ACTOR IN A SUPPORTING ROLE,False,John Ireland
+1949,ACTOR IN A SUPPORTING ROLE,True,Dean Jagger
+1949,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy
+1949,ACTOR IN A SUPPORTING ROLE,False,Ralph Richardson
+1949,ACTOR IN A SUPPORTING ROLE,False,James Whitmore
+1949,ACTRESS,False,Jeanne Crain
+1949,ACTRESS,True,Olivia de Havilland
+1949,ACTRESS,False,Susan Hayward
+1949,ACTRESS,False,Deborah Kerr
+1949,ACTRESS,False,Loretta Young
+1949,ACTRESS IN A SUPPORTING ROLE,False,Ethel Barrymore
+1949,ACTRESS IN A SUPPORTING ROLE,False,Celeste Holm
+1949,ACTRESS IN A SUPPORTING ROLE,False,Elsa Lanchester
+1949,ACTRESS IN A SUPPORTING ROLE,True,Mercedes McCambridge
+1949,ACTRESS IN A SUPPORTING ROLE,False,Ethel Waters
+1950,ACTOR,False,Louis Calhern
+1950,ACTOR,True,José Ferrer
+1950,ACTOR,False,William Holden
+1950,ACTOR,False,James Stewart
+1950,ACTOR,False,Spencer Tracy
+1950,ACTOR IN A SUPPORTING ROLE,False,Jeff Chandler
+1950,ACTOR IN A SUPPORTING ROLE,False,Edmund Gwenn
+1950,ACTOR IN A SUPPORTING ROLE,False,Sam Jaffe
+1950,ACTOR IN A SUPPORTING ROLE,True,George Sanders
+1950,ACTOR IN A SUPPORTING ROLE,False,Erich von Stroheim
+1950,ACTRESS,False,Anne Baxter
+1950,ACTRESS,False,Bette Davis
+1950,ACTRESS,True,Judy Holliday
+1950,ACTRESS,False,Eleanor Parker
+1950,ACTRESS,False,Gloria Swanson
+1950,ACTRESS IN A SUPPORTING ROLE,False,Hope Emerson
+1950,ACTRESS IN A SUPPORTING ROLE,False,Celeste Holm
+1950,ACTRESS IN A SUPPORTING ROLE,True,Josephine Hull
+1950,ACTRESS IN A SUPPORTING ROLE,False,Nancy Olson
+1950,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter
+1951,ACTOR,True,Humphrey Bogart
+1951,ACTOR,False,Marlon Brando
+1951,ACTOR,False,Montgomery Clift
+1951,ACTOR,False,Arthur Kennedy
+1951,ACTOR,False,Fredric March
+1951,ACTOR IN A SUPPORTING ROLE,False,Leo Genn
+1951,ACTOR IN A SUPPORTING ROLE,False,Kevin McCarthy
+1951,ACTOR IN A SUPPORTING ROLE,True,Karl Malden
+1951,ACTOR IN A SUPPORTING ROLE,False,Peter Ustinov
+1951,ACTOR IN A SUPPORTING ROLE,False,Gig Young
+1951,ACTRESS,False,Katharine Hepburn
+1951,ACTRESS,True,Vivien Leigh
+1951,ACTRESS,False,Eleanor Parker
+1951,ACTRESS,False,Shelley Winters
+1951,ACTRESS,False,Jane Wyman
+1951,ACTRESS IN A SUPPORTING ROLE,False,Joan Blondell
+1951,ACTRESS IN A SUPPORTING ROLE,False,Mildred Dunnock
+1951,ACTRESS IN A SUPPORTING ROLE,False,Lee Grant
+1951,ACTRESS IN A SUPPORTING ROLE,True,Kim Hunter
+1951,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter
+1952,ACTOR,False,Marlon Brando
+1952,ACTOR,True,Gary Cooper
+1952,ACTOR,False,Kirk Douglas
+1952,ACTOR,False,José Ferrer
+1952,ACTOR,False,Alec Guinness
+1952,ACTOR IN A SUPPORTING ROLE,False,Richard Burton
+1952,ACTOR IN A SUPPORTING ROLE,False,Arthur Hunnicutt
+1952,ACTOR IN A SUPPORTING ROLE,False,Victor McLaglen
+1952,ACTOR IN A SUPPORTING ROLE,False,Jack Palance
+1952,ACTOR IN A SUPPORTING ROLE,True,Anthony Quinn
+1952,ACTRESS,True,Shirley Booth
+1952,ACTRESS,False,Joan Crawford
+1952,ACTRESS,False,Bette Davis
+1952,ACTRESS,False,Julie Harris
+1952,ACTRESS,False,Susan Hayward
+1952,ACTRESS IN A SUPPORTING ROLE,True,Gloria Grahame
+1952,ACTRESS IN A SUPPORTING ROLE,False,Jean Hagen
+1952,ACTRESS IN A SUPPORTING ROLE,False,Colette Marchand
+1952,ACTRESS IN A SUPPORTING ROLE,False,Terry Moore
+1952,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter
+1953,ACTOR,False,Marlon Brando
+1953,ACTOR,False,Richard Burton
+1953,ACTOR,False,Montgomery Clift
+1953,ACTOR,True,William Holden
+1953,ACTOR,False,Burt Lancaster
+1953,ACTOR IN A SUPPORTING ROLE,False,Eddie Albert
+1953,ACTOR IN A SUPPORTING ROLE,False,Brandon De Wilde
+1953,ACTOR IN A SUPPORTING ROLE,False,Jack Palance
+1953,ACTOR IN A SUPPORTING ROLE,True,Frank Sinatra
+1953,ACTOR IN A SUPPORTING ROLE,False,Robert Strauss
+1953,ACTRESS,False,Leslie Caron
+1953,ACTRESS,False,Ava Gardner
+1953,ACTRESS,True,Audrey Hepburn
+1953,ACTRESS,False,Deborah Kerr
+1953,ACTRESS,False,Maggie McNamara
+1953,ACTRESS IN A SUPPORTING ROLE,False,Grace Kelly
+1953,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page
+1953,ACTRESS IN A SUPPORTING ROLE,False,Marjorie Rambeau
+1953,ACTRESS IN A SUPPORTING ROLE,True,Donna Reed
+1953,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter
+1954,ACTOR,False,Humphrey Bogart
+1954,ACTOR,True,Marlon Brando
+1954,ACTOR,False,Bing Crosby
+1954,ACTOR,False,James Mason
+1954,ACTOR,False,Dan O'Herlihy
+1954,ACTOR IN A SUPPORTING ROLE,False,Lee J. Cobb
+1954,ACTOR IN A SUPPORTING ROLE,False,Karl Malden
+1954,ACTOR IN A SUPPORTING ROLE,True,Edmond O'Brien
+1954,ACTOR IN A SUPPORTING ROLE,False,Rod Steiger
+1954,ACTOR IN A SUPPORTING ROLE,False,Tom Tully
+1954,ACTRESS,False,Dorothy Dandridge
+1954,ACTRESS,False,Judy Garland
+1954,ACTRESS,False,Audrey Hepburn
+1954,ACTRESS,True,Grace Kelly
+1954,ACTRESS,False,Jane Wyman
+1954,ACTRESS IN A SUPPORTING ROLE,False,Nina Foch
+1954,ACTRESS IN A SUPPORTING ROLE,False,Katy Jurado
+1954,ACTRESS IN A SUPPORTING ROLE,True,Eva Marie Saint
+1954,ACTRESS IN A SUPPORTING ROLE,False,Jan Sterling
+1954,ACTRESS IN A SUPPORTING ROLE,False,Claire Trevor
+1955,ACTOR,True,Ernest Borgnine
+1955,ACTOR,False,James Cagney
+1955,ACTOR,False,James Dean
+1955,ACTOR,False,Frank Sinatra
+1955,ACTOR,False,Spencer Tracy
+1955,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy
+1955,ACTOR IN A SUPPORTING ROLE,True,Jack Lemmon
+1955,ACTOR IN A SUPPORTING ROLE,False,Joe Mantell
+1955,ACTOR IN A SUPPORTING ROLE,False,Sal Mineo
+1955,ACTOR IN A SUPPORTING ROLE,False,Arthur O'Connell
+1955,ACTRESS,False,Susan Hayward
+1955,ACTRESS,False,Katharine Hepburn
+1955,ACTRESS,False,Jennifer Jones
+1955,ACTRESS,True,Anna Magnani
+1955,ACTRESS,False,Eleanor Parker
+1955,ACTRESS IN A SUPPORTING ROLE,False,Betsy Blair
+1955,ACTRESS IN A SUPPORTING ROLE,False,Peggy Lee
+1955,ACTRESS IN A SUPPORTING ROLE,False,Marisa Pavan
+1955,ACTRESS IN A SUPPORTING ROLE,True,Jo Van Fleet
+1955,ACTRESS IN A SUPPORTING ROLE,False,Natalie Wood
+1956,ACTOR,True,Yul Brynner
+1956,ACTOR,False,James Dean
+1956,ACTOR,False,Kirk Douglas
+1956,ACTOR,False,Rock Hudson
+1956,ACTOR,False,Sir Laurence Olivier
+1956,ACTOR IN A SUPPORTING ROLE,False,Don Murray
+1956,ACTOR IN A SUPPORTING ROLE,False,Anthony Perkins
+1956,ACTOR IN A SUPPORTING ROLE,True,Anthony Quinn
+1956,ACTOR IN A SUPPORTING ROLE,False,Mickey Rooney
+1956,ACTOR IN A SUPPORTING ROLE,False,Robert Stack
+1956,ACTRESS,False,Carroll Baker
+1956,ACTRESS,True,Ingrid Bergman
+1956,ACTRESS,False,Katharine Hepburn
+1956,ACTRESS,False,Nancy Kelly
+1956,ACTRESS,False,Deborah Kerr
+1956,ACTRESS IN A SUPPORTING ROLE,False,Mildred Dunnock
+1956,ACTRESS IN A SUPPORTING ROLE,False,Eileen Heckart
+1956,ACTRESS IN A SUPPORTING ROLE,False,Mercedes McCambridge
+1956,ACTRESS IN A SUPPORTING ROLE,False,Patty McCormack
+1956,ACTRESS IN A SUPPORTING ROLE,True,Dorothy Malone
+1957,ACTOR,False,Marlon Brando
+1957,ACTOR,False,Anthony Franciosa
+1957,ACTOR,True,Alec Guinness
+1957,ACTOR,False,Charles Laughton
+1957,ACTOR,False,Anthony Quinn
+1957,ACTOR IN A SUPPORTING ROLE,True,Red Buttons
+1957,ACTOR IN A SUPPORTING ROLE,False,Vittorio De Sica
+1957,ACTOR IN A SUPPORTING ROLE,False,Sessue Hayakawa
+1957,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy
+1957,ACTOR IN A SUPPORTING ROLE,False,Russ Tamblyn
+1957,ACTRESS,False,Deborah Kerr
+1957,ACTRESS,False,Anna Magnani
+1957,ACTRESS,False,Elizabeth Taylor
+1957,ACTRESS,False,Lana Turner
+1957,ACTRESS,True,Joanne Woodward
+1957,ACTRESS IN A SUPPORTING ROLE,False,Carolyn Jones
+1957,ACTRESS IN A SUPPORTING ROLE,False,Elsa Lanchester
+1957,ACTRESS IN A SUPPORTING ROLE,False,Hope Lange
+1957,ACTRESS IN A SUPPORTING ROLE,True,Miyoshi Umeki
+1957,ACTRESS IN A SUPPORTING ROLE,False,Diane Varsi
+1958,ACTOR,False,Tony Curtis
+1958,ACTOR,False,Paul Newman
+1958,ACTOR,True,David Niven
+1958,ACTOR,False,Sidney Poitier
+1958,ACTOR,False,Spencer Tracy
+1958,ACTOR IN A SUPPORTING ROLE,False,Theodore Bikel
+1958,ACTOR IN A SUPPORTING ROLE,False,Lee J. Cobb
+1958,ACTOR IN A SUPPORTING ROLE,True,Burl Ives
+1958,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy
+1958,ACTOR IN A SUPPORTING ROLE,False,Gig Young
+1958,ACTRESS,True,Susan Hayward
+1958,ACTRESS,False,Deborah Kerr
+1958,ACTRESS,False,Shirley MacLaine
+1958,ACTRESS,False,Rosalind Russell
+1958,ACTRESS,False,Elizabeth Taylor
+1958,ACTRESS IN A SUPPORTING ROLE,False,Peggy Cass
+1958,ACTRESS IN A SUPPORTING ROLE,True,Wendy Hiller
+1958,ACTRESS IN A SUPPORTING ROLE,False,Martha Hyer
+1958,ACTRESS IN A SUPPORTING ROLE,False,Maureen Stapleton
+1958,ACTRESS IN A SUPPORTING ROLE,False,Cara Williams
+1959,ACTOR,False,Laurence Harvey
+1959,ACTOR,True,Charlton Heston
+1959,ACTOR,False,Jack Lemmon
+1959,ACTOR,False,Paul Muni
+1959,ACTOR,False,James Stewart
+1959,ACTOR IN A SUPPORTING ROLE,True,Hugh Griffith
+1959,ACTOR IN A SUPPORTING ROLE,False,Arthur O'Connell
+1959,ACTOR IN A SUPPORTING ROLE,False,George C. Scott
+1959,ACTOR IN A SUPPORTING ROLE,False,Robert Vaughn
+1959,ACTOR IN A SUPPORTING ROLE,False,Ed Wynn
+1959,ACTRESS,False,Doris Day
+1959,ACTRESS,False,Audrey Hepburn
+1959,ACTRESS,False,Katharine Hepburn
+1959,ACTRESS,True,Simone Signoret
+1959,ACTRESS,False,Elizabeth Taylor
+1959,ACTRESS IN A SUPPORTING ROLE,False,Hermione Baddeley
+1959,ACTRESS IN A SUPPORTING ROLE,False,Susan Kohner
+1959,ACTRESS IN A SUPPORTING ROLE,False,Juanita Moore
+1959,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter
+1959,ACTRESS IN A SUPPORTING ROLE,True,Shelley Winters
+1960,ACTOR,False,Trevor Howard
+1960,ACTOR,True,Burt Lancaster
+1960,ACTOR,False,Jack Lemmon
+1960,ACTOR,False,Laurence Olivier
+1960,ACTOR,False,Spencer Tracy
+1960,ACTOR IN A SUPPORTING ROLE,False,Peter Falk
+1960,ACTOR IN A SUPPORTING ROLE,False,Jack Kruschen
+1960,ACTOR IN A SUPPORTING ROLE,False,Sal Mineo
+1960,ACTOR IN A SUPPORTING ROLE,True,Peter Ustinov
+1960,ACTOR IN A SUPPORTING ROLE,False,Chill Wills
+1960,ACTRESS,False,Greer Garson
+1960,ACTRESS,False,Deborah Kerr
+1960,ACTRESS,False,Shirley MacLaine
+1960,ACTRESS,False,Melina Mercouri
+1960,ACTRESS,True,Elizabeth Taylor
+1960,ACTRESS IN A SUPPORTING ROLE,False,Glynis Johns
+1960,ACTRESS IN A SUPPORTING ROLE,True,Shirley Jones
+1960,ACTRESS IN A SUPPORTING ROLE,False,Shirley Knight
+1960,ACTRESS IN A SUPPORTING ROLE,False,Janet Leigh
+1960,ACTRESS IN A SUPPORTING ROLE,False,Mary Ure
+1961,ACTOR,False,Charles Boyer
+1961,ACTOR,False,Paul Newman
+1961,ACTOR,True,Maximilian Schell
+1961,ACTOR,False,Spencer Tracy
+1961,ACTOR,False,Stuart Whitman
+1961,ACTOR IN A SUPPORTING ROLE,True,George Chakiris
+1961,ACTOR IN A SUPPORTING ROLE,False,Montgomery Clift
+1961,ACTOR IN A SUPPORTING ROLE,False,Peter Falk
+1961,ACTOR IN A SUPPORTING ROLE,False,Jackie Gleason
+1961,ACTOR IN A SUPPORTING ROLE,False,George C. Scott
+1961,ACTRESS,False,Audrey Hepburn
+1961,ACTRESS,False,Piper Laurie
+1961,ACTRESS,True,Sophia Loren
+1961,ACTRESS,False,Geraldine Page
+1961,ACTRESS,False,Natalie Wood
+1961,ACTRESS IN A SUPPORTING ROLE,False,Fay Bainter
+1961,ACTRESS IN A SUPPORTING ROLE,False,Judy Garland
+1961,ACTRESS IN A SUPPORTING ROLE,False,Lotte Lenya
+1961,ACTRESS IN A SUPPORTING ROLE,False,Una Merkel
+1961,ACTRESS IN A SUPPORTING ROLE,True,Rita Moreno
+1962,ACTOR,False,Burt Lancaster
+1962,ACTOR,False,Jack Lemmon
+1962,ACTOR,False,Marcello Mastroianni
+1962,ACTOR,False,Peter O'Toole
+1962,ACTOR,True,Gregory Peck
+1962,ACTOR IN A SUPPORTING ROLE,True,Ed Begley
+1962,ACTOR IN A SUPPORTING ROLE,False,Victor Buono
+1962,ACTOR IN A SUPPORTING ROLE,False,Telly Savalas
+1962,ACTOR IN A SUPPORTING ROLE,False,Omar Sharif
+1962,ACTOR IN A SUPPORTING ROLE,False,Terence Stamp
+1962,ACTRESS,True,Anne Bancroft
+1962,ACTRESS,False,Bette Davis
+1962,ACTRESS,False,Katharine Hepburn
+1962,ACTRESS,False,Geraldine Page
+1962,ACTRESS,False,Lee Remick
+1962,ACTRESS IN A SUPPORTING ROLE,False,Mary Badham
+1962,ACTRESS IN A SUPPORTING ROLE,True,Patty Duke
+1962,ACTRESS IN A SUPPORTING ROLE,False,Shirley Knight
+1962,ACTRESS IN A SUPPORTING ROLE,False,Angela Lansbury
+1962,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter
+1963,ACTOR,False,Albert Finney
+1963,ACTOR,False,Richard Harris
+1963,ACTOR,False,Rex Harrison
+1963,ACTOR,False,Paul Newman
+1963,ACTOR,True,Sidney Poitier
+1963,ACTOR IN A SUPPORTING ROLE,False,Nick Adams
+1963,ACTOR IN A SUPPORTING ROLE,False,Bobby Darin
+1963,ACTOR IN A SUPPORTING ROLE,True,Melvyn Douglas
+1963,ACTOR IN A SUPPORTING ROLE,False,Hugh Griffith
+1963,ACTOR IN A SUPPORTING ROLE,False,John Huston
+1963,ACTRESS,False,Leslie Caron
+1963,ACTRESS,False,Shirley MacLaine
+1963,ACTRESS,True,Patricia Neal
+1963,ACTRESS,False,Rachel Roberts
+1963,ACTRESS,False,Natalie Wood
+1963,ACTRESS IN A SUPPORTING ROLE,False,Diane Cilento
+1963,ACTRESS IN A SUPPORTING ROLE,False,Dame Edith Evans
+1963,ACTRESS IN A SUPPORTING ROLE,False,Joyce Redman
+1963,ACTRESS IN A SUPPORTING ROLE,True,Margaret Rutherford
+1963,ACTRESS IN A SUPPORTING ROLE,False,Lilia Skala
+1964,ACTOR,False,Richard Burton
+1964,ACTOR,True,Rex Harrison
+1964,ACTOR,False,Peter O'Toole
+1964,ACTOR,False,Anthony Quinn
+1964,ACTOR,False,Peter Sellers
+1964,ACTOR IN A SUPPORTING ROLE,False,John Gielgud
+1964,ACTOR IN A SUPPORTING ROLE,False,Stanley Holloway
+1964,ACTOR IN A SUPPORTING ROLE,False,Edmond O'Brien
+1964,ACTOR IN A SUPPORTING ROLE,False,Lee Tracy
+1964,ACTOR IN A SUPPORTING ROLE,True,Peter Ustinov
+1964,ACTRESS,True,Julie Andrews
+1964,ACTRESS,False,Anne Bancroft
+1964,ACTRESS,False,Sophia Loren
+1964,ACTRESS,False,Debbie Reynolds
+1964,ACTRESS,False,Kim Stanley
+1964,ACTRESS IN A SUPPORTING ROLE,False,Gladys Cooper
+1964,ACTRESS IN A SUPPORTING ROLE,False,Dame Edith Evans
+1964,ACTRESS IN A SUPPORTING ROLE,False,Grayson Hall
+1964,ACTRESS IN A SUPPORTING ROLE,True,Lila Kedrova
+1964,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead
+1965,ACTOR,False,Richard Burton
+1965,ACTOR,True,Lee Marvin
+1965,ACTOR,False,Laurence Olivier
+1965,ACTOR,False,Rod Steiger
+1965,ACTOR,False,Oskar Werner
+1965,ACTOR IN A SUPPORTING ROLE,True,Martin Balsam
+1965,ACTOR IN A SUPPORTING ROLE,False,Ian Bannen
+1965,ACTOR IN A SUPPORTING ROLE,False,Tom Courtenay
+1965,ACTOR IN A SUPPORTING ROLE,False,Michael Dunn
+1965,ACTOR IN A SUPPORTING ROLE,False,Frank Finlay
+1965,ACTRESS,False,Julie Andrews
+1965,ACTRESS,True,Julie Christie
+1965,ACTRESS,False,Samantha Eggar
+1965,ACTRESS,False,Elizabeth Hartman
+1965,ACTRESS,False,Simone Signoret
+1965,ACTRESS IN A SUPPORTING ROLE,False,Ruth Gordon
+1965,ACTRESS IN A SUPPORTING ROLE,False,Joyce Redman
+1965,ACTRESS IN A SUPPORTING ROLE,False,Maggie Smith
+1965,ACTRESS IN A SUPPORTING ROLE,True,Shelley Winters
+1965,ACTRESS IN A SUPPORTING ROLE,False,Peggy Wood
+1966,ACTOR,False,Alan Arkin
+1966,ACTOR,False,Richard Burton
+1966,ACTOR,False,Michael Caine
+1966,ACTOR,False,Steve McQueen
+1966,ACTOR,True,Paul Scofield
+1966,ACTOR IN A SUPPORTING ROLE,False,Mako
+1966,ACTOR IN A SUPPORTING ROLE,False,James Mason
+1966,ACTOR IN A SUPPORTING ROLE,True,Walter Matthau
+1966,ACTOR IN A SUPPORTING ROLE,False,George Segal
+1966,ACTOR IN A SUPPORTING ROLE,False,Robert Shaw
+1966,ACTRESS,False,Anouk Aimee
+1966,ACTRESS,False,Ida Kaminska
+1966,ACTRESS,False,Lynn Redgrave
+1966,ACTRESS,False,Vanessa Redgrave
+1966,ACTRESS,True,Elizabeth Taylor
+1966,ACTRESS IN A SUPPORTING ROLE,True,Sandy Dennis
+1966,ACTRESS IN A SUPPORTING ROLE,False,Wendy Hiller
+1966,ACTRESS IN A SUPPORTING ROLE,False,Jocelyne Lagarde
+1966,ACTRESS IN A SUPPORTING ROLE,False,Vivien Merchant
+1966,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page
+1967,ACTOR,False,Warren Beatty
+1967,ACTOR,False,Dustin Hoffman
+1967,ACTOR,False,Paul Newman
+1967,ACTOR,True,Rod Steiger
+1967,ACTOR,False,Spencer Tracy
+1967,ACTOR IN A SUPPORTING ROLE,False,John Cassavetes
+1967,ACTOR IN A SUPPORTING ROLE,False,Gene Hackman
+1967,ACTOR IN A SUPPORTING ROLE,False,Cecil Kellaway
+1967,ACTOR IN A SUPPORTING ROLE,True,George Kennedy
+1967,ACTOR IN A SUPPORTING ROLE,False,Michael J. Pollard
+1967,ACTRESS,False,Anne Bancroft
+1967,ACTRESS,False,Faye Dunaway
+1967,ACTRESS,False,Dame Edith Evans
+1967,ACTRESS,False,Audrey Hepburn
+1967,ACTRESS,True,Katharine Hepburn
+1967,ACTRESS IN A SUPPORTING ROLE,False,Carol Channing
+1967,ACTRESS IN A SUPPORTING ROLE,False,Mildred Natwick
+1967,ACTRESS IN A SUPPORTING ROLE,True,Estelle Parsons
+1967,ACTRESS IN A SUPPORTING ROLE,False,Beah Richards
+1967,ACTRESS IN A SUPPORTING ROLE,False,Katharine Ross
+1968,ACTOR,False,Alan Arkin
+1968,ACTOR,False,Alan Bates
+1968,ACTOR,False,Ron Moody
+1968,ACTOR,False,Peter O'Toole
+1968,ACTOR,True,Cliff Robertson
+1968,ACTOR IN A SUPPORTING ROLE,True,Jack Albertson
+1968,ACTOR IN A SUPPORTING ROLE,False,Seymour Cassel
+1968,ACTOR IN A SUPPORTING ROLE,False,Daniel Massey
+1968,ACTOR IN A SUPPORTING ROLE,False,Jack Wild
+1968,ACTOR IN A SUPPORTING ROLE,False,Gene Wilder
+1968,ACTRESS,True,Katharine Hepburn
+1968,ACTRESS,False,Patricia Neal
+1968,ACTRESS,False,Vanessa Redgrave
+1968,ACTRESS,True,Barbra Streisand
+1968,ACTRESS,False,Joanne Woodward
+1968,ACTRESS IN A SUPPORTING ROLE,False,Lynn Carlin
+1968,ACTRESS IN A SUPPORTING ROLE,True,Ruth Gordon
+1968,ACTRESS IN A SUPPORTING ROLE,False,Sondra Locke
+1968,ACTRESS IN A SUPPORTING ROLE,False,Kay Medford
+1968,ACTRESS IN A SUPPORTING ROLE,False,Estelle Parsons
+1969,ACTOR,False,Richard Burton
+1969,ACTOR,False,Dustin Hoffman
+1969,ACTOR,False,Peter O'Toole
+1969,ACTOR,False,Jon Voight
+1969,ACTOR,True,John Wayne
+1969,ACTOR IN A SUPPORTING ROLE,False,Rupert Crosse
+1969,ACTOR IN A SUPPORTING ROLE,False,Elliott Gould
+1969,ACTOR IN A SUPPORTING ROLE,False,Jack Nicholson
+1969,ACTOR IN A SUPPORTING ROLE,False,Anthony Quayle
+1969,ACTOR IN A SUPPORTING ROLE,True,Gig Young
+1969,ACTRESS,False,Genevieve Bujold
+1969,ACTRESS,False,Jane Fonda
+1969,ACTRESS,False,Liza Minnelli
+1969,ACTRESS,False,Jean Simmons
+1969,ACTRESS,True,Maggie Smith
+1969,ACTRESS IN A SUPPORTING ROLE,False,Catherine Burns
+1969,ACTRESS IN A SUPPORTING ROLE,False,Dyan Cannon
+1969,ACTRESS IN A SUPPORTING ROLE,True,Goldie Hawn
+1969,ACTRESS IN A SUPPORTING ROLE,False,Sylvia Miles
+1969,ACTRESS IN A SUPPORTING ROLE,False,Susannah York
+1970,ACTOR,False,Melvyn Douglas
+1970,ACTOR,False,James Earl Jones
+1970,ACTOR,False,Jack Nicholson
+1970,ACTOR,False,Ryan O'Neal
+1970,ACTOR,True,George C. Scott
+1970,ACTOR IN A SUPPORTING ROLE,False,Richard Castellano
+1970,ACTOR IN A SUPPORTING ROLE,False,Chief Dan George
+1970,ACTOR IN A SUPPORTING ROLE,False,Gene Hackman
+1970,ACTOR IN A SUPPORTING ROLE,False,John Marley
+1970,ACTOR IN A SUPPORTING ROLE,True,John Mills
+1970,ACTRESS,False,Jane Alexander
+1970,ACTRESS,True,Glenda Jackson
+1970,ACTRESS,False,Ali MacGraw
+1970,ACTRESS,False,Sarah Miles
+1970,ACTRESS,False,Carrie Snodgress
+1970,ACTRESS IN A SUPPORTING ROLE,False,Karen Black
+1970,ACTRESS IN A SUPPORTING ROLE,False,Lee Grant
+1970,ACTRESS IN A SUPPORTING ROLE,True,Helen Hayes
+1970,ACTRESS IN A SUPPORTING ROLE,False,Sally Kellerman
+1970,ACTRESS IN A SUPPORTING ROLE,False,Maureen Stapleton
+1971,ACTOR,False,Peter Finch
+1971,ACTOR,True,Gene Hackman
+1971,ACTOR,False,Walter Matthau
+1971,ACTOR,False,George C. Scott
+1971,ACTOR,False,Topol
+1971,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges
+1971,ACTOR IN A SUPPORTING ROLE,False,Leonard Frey
+1971,ACTOR IN A SUPPORTING ROLE,False,Richard Jaeckel
+1971,ACTOR IN A SUPPORTING ROLE,True,Ben Johnson
+1971,ACTOR IN A SUPPORTING ROLE,False,Roy Scheider
+1971,ACTRESS,False,Julie Christie
+1971,ACTRESS,True,Jane Fonda
+1971,ACTRESS,False,Glenda Jackson
+1971,ACTRESS,False,Vanessa Redgrave
+1971,ACTRESS,False,Janet Suzman
+1971,ACTRESS IN A SUPPORTING ROLE,False,Ann-Margret
+1971,ACTRESS IN A SUPPORTING ROLE,False,Ellen Burstyn
+1971,ACTRESS IN A SUPPORTING ROLE,False,Barbara Harris
+1971,ACTRESS IN A SUPPORTING ROLE,True,Cloris Leachman
+1971,ACTRESS IN A SUPPORTING ROLE,False,Margaret Leighton
+1972,ACTOR,True,Marlon Brando
+1972,ACTOR,False,Michael Caine
+1972,ACTOR,False,Laurence Olivier
+1972,ACTOR,False,Peter O'Toole
+1972,ACTOR,False,Paul Winfield
+1972,ACTOR IN A SUPPORTING ROLE,False,Eddie Albert
+1972,ACTOR IN A SUPPORTING ROLE,False,James Caan
+1972,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall
+1972,ACTOR IN A SUPPORTING ROLE,True,Joel Grey
+1972,ACTOR IN A SUPPORTING ROLE,False,Al Pacino
+1972,ACTRESS,True,Liza Minnelli
+1972,ACTRESS,False,Diana Ross
+1972,ACTRESS,False,Maggie Smith
+1972,ACTRESS,False,Cicely Tyson
+1972,ACTRESS,False,Liv Ullmann
+1972,ACTRESS IN A SUPPORTING ROLE,False,Jeannie Berlin
+1972,ACTRESS IN A SUPPORTING ROLE,True,Eileen Heckart
+1972,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page
+1972,ACTRESS IN A SUPPORTING ROLE,False,Susan Tyrrell
+1972,ACTRESS IN A SUPPORTING ROLE,False,Shelley Winters
+1973,ACTOR,False,Marlon Brando
+1973,ACTOR,True,Jack Lemmon
+1973,ACTOR,False,Jack Nicholson
+1973,ACTOR,False,Al Pacino
+1973,ACTOR,False,Robert Redford
+1973,ACTOR IN A SUPPORTING ROLE,False,Vincent Gardenia
+1973,ACTOR IN A SUPPORTING ROLE,False,Jack Gilford
+1973,ACTOR IN A SUPPORTING ROLE,True,John Houseman
+1973,ACTOR IN A SUPPORTING ROLE,False,Jason Miller
+1973,ACTOR IN A SUPPORTING ROLE,False,Randy Quaid
+1973,ACTRESS,False,Ellen Burstyn
+1973,ACTRESS,True,Glenda Jackson
+1973,ACTRESS,False,Marsha Mason
+1973,ACTRESS,False,Barbra Streisand
+1973,ACTRESS,False,Joanne Woodward
+1973,ACTRESS IN A SUPPORTING ROLE,False,Linda Blair
+1973,ACTRESS IN A SUPPORTING ROLE,False,Candy Clark
+1973,ACTRESS IN A SUPPORTING ROLE,False,Madeline Kahn
+1973,ACTRESS IN A SUPPORTING ROLE,True,Tatum O'Neal
+1973,ACTRESS IN A SUPPORTING ROLE,False,Sylvia Sidney
+1974,ACTOR,True,Art Carney
+1974,ACTOR,False,Albert Finney
+1974,ACTOR,False,Dustin Hoffman
+1974,ACTOR,False,Jack Nicholson
+1974,ACTOR,False,Al Pacino
+1974,ACTOR IN A SUPPORTING ROLE,False,Fred Astaire
+1974,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges
+1974,ACTOR IN A SUPPORTING ROLE,True,Robert De Niro
+1974,ACTOR IN A SUPPORTING ROLE,False,Michael V. Gazzo
+1974,ACTOR IN A SUPPORTING ROLE,False,Lee Strasberg
+1974,ACTRESS,True,Ellen Burstyn
+1974,ACTRESS,False,Diahann Carroll
+1974,ACTRESS,False,Faye Dunaway
+1974,ACTRESS,False,Valerie Perrine
+1974,ACTRESS,False,Gena Rowlands
+1974,ACTRESS IN A SUPPORTING ROLE,True,Ingrid Bergman
+1974,ACTRESS IN A SUPPORTING ROLE,False,Valentina Cortese
+1974,ACTRESS IN A SUPPORTING ROLE,False,Madeline Kahn
+1974,ACTRESS IN A SUPPORTING ROLE,False,Diane Ladd
+1974,ACTRESS IN A SUPPORTING ROLE,False,Talia Shire
+1975,ACTOR,False,Walter Matthau
+1975,ACTOR,True,Jack Nicholson
+1975,ACTOR,False,Al Pacino
+1975,ACTOR,False,Maximilian Schell
+1975,ACTOR,False,James Whitmore
+1975,ACTOR IN A SUPPORTING ROLE,True,George Burns
+1975,ACTOR IN A SUPPORTING ROLE,False,Brad Dourif
+1975,ACTOR IN A SUPPORTING ROLE,False,Burgess Meredith
+1975,ACTOR IN A SUPPORTING ROLE,False,Chris Sarandon
+1975,ACTOR IN A SUPPORTING ROLE,False,Jack Warden
+1975,ACTRESS,False,Isabelle Adjani
+1975,ACTRESS,False,Ann-Margret
+1975,ACTRESS,True,Louise Fletcher
+1975,ACTRESS,False,Glenda Jackson
+1975,ACTRESS,False,Carol Kane
+1975,ACTRESS IN A SUPPORTING ROLE,False,Ronee Blakley
+1975,ACTRESS IN A SUPPORTING ROLE,True,Lee Grant
+1975,ACTRESS IN A SUPPORTING ROLE,False,Sylvia Miles
+1975,ACTRESS IN A SUPPORTING ROLE,False,Lily Tomlin
+1975,ACTRESS IN A SUPPORTING ROLE,False,Brenda Vaccaro
+1976,ACTOR IN A LEADING ROLE,False,Robert De Niro
+1976,ACTOR IN A LEADING ROLE,True,Peter Finch
+1976,ACTOR IN A LEADING ROLE,False,Giancarlo Giannini
+1976,ACTOR IN A LEADING ROLE,False,William Holden
+1976,ACTOR IN A LEADING ROLE,False,Sylvester Stallone
+1976,ACTOR IN A SUPPORTING ROLE,False,Ned Beatty
+1976,ACTOR IN A SUPPORTING ROLE,False,Burgess Meredith
+1976,ACTOR IN A SUPPORTING ROLE,False,Laurence Olivier
+1976,ACTOR IN A SUPPORTING ROLE,True,Jason Robards
+1976,ACTOR IN A SUPPORTING ROLE,False,Burt Young
+1976,ACTRESS IN A LEADING ROLE,False,Marie-Christine Barrault
+1976,ACTRESS IN A LEADING ROLE,True,Faye Dunaway
+1976,ACTRESS IN A LEADING ROLE,False,Talia Shire
+1976,ACTRESS IN A LEADING ROLE,False,Sissy Spacek
+1976,ACTRESS IN A LEADING ROLE,False,Liv Ullmann
+1976,ACTRESS IN A SUPPORTING ROLE,False,Jane Alexander
+1976,ACTRESS IN A SUPPORTING ROLE,False,Jodie Foster
+1976,ACTRESS IN A SUPPORTING ROLE,False,Lee Grant
+1976,ACTRESS IN A SUPPORTING ROLE,False,Piper Laurie
+1976,ACTRESS IN A SUPPORTING ROLE,True,Beatrice Straight
+1977,ACTOR IN A LEADING ROLE,False,Woody Allen
+1977,ACTOR IN A LEADING ROLE,False,Richard Burton
+1977,ACTOR IN A LEADING ROLE,True,Richard Dreyfuss
+1977,ACTOR IN A LEADING ROLE,False,Marcello Mastroianni
+1977,ACTOR IN A LEADING ROLE,False,John Travolta
+1977,ACTOR IN A SUPPORTING ROLE,False,Mikhail Baryshnikov
+1977,ACTOR IN A SUPPORTING ROLE,False,Peter Firth
+1977,ACTOR IN A SUPPORTING ROLE,False,Alec Guinness
+1977,ACTOR IN A SUPPORTING ROLE,True,Jason Robards
+1977,ACTOR IN A SUPPORTING ROLE,False,Maximilian Schell
+1977,ACTRESS IN A LEADING ROLE,False,Anne Bancroft
+1977,ACTRESS IN A LEADING ROLE,False,Jane Fonda
+1977,ACTRESS IN A LEADING ROLE,True,Diane Keaton
+1977,ACTRESS IN A LEADING ROLE,False,Shirley MacLaine
+1977,ACTRESS IN A LEADING ROLE,False,Marsha Mason
+1977,ACTRESS IN A SUPPORTING ROLE,False,Leslie Browne
+1977,ACTRESS IN A SUPPORTING ROLE,False,Quinn Cummings
+1977,ACTRESS IN A SUPPORTING ROLE,False,Melinda Dillon
+1977,ACTRESS IN A SUPPORTING ROLE,True,Vanessa Redgrave
+1977,ACTRESS IN A SUPPORTING ROLE,False,Tuesday Weld
+1978,ACTOR IN A LEADING ROLE,False,Warren Beatty
+1978,ACTOR IN A LEADING ROLE,False,Gary Busey
+1978,ACTOR IN A LEADING ROLE,False,Robert De Niro
+1978,ACTOR IN A LEADING ROLE,False,Laurence Olivier
+1978,ACTOR IN A LEADING ROLE,True,Jon Voight
+1978,ACTOR IN A SUPPORTING ROLE,False,Bruce Dern
+1978,ACTOR IN A SUPPORTING ROLE,False,Richard Farnsworth
+1978,ACTOR IN A SUPPORTING ROLE,False,John Hurt
+1978,ACTOR IN A SUPPORTING ROLE,True,Christopher Walken
+1978,ACTOR IN A SUPPORTING ROLE,False,Jack Warden
+1978,ACTRESS IN A LEADING ROLE,False,Ingrid Bergman
+1978,ACTRESS IN A LEADING ROLE,False,Ellen Burstyn
+1978,ACTRESS IN A LEADING ROLE,False,Jill Clayburgh
+1978,ACTRESS IN A LEADING ROLE,True,Jane Fonda
+1978,ACTRESS IN A LEADING ROLE,False,Geraldine Page
+1978,ACTRESS IN A SUPPORTING ROLE,False,Dyan Cannon
+1978,ACTRESS IN A SUPPORTING ROLE,False,Penelope Milford
+1978,ACTRESS IN A SUPPORTING ROLE,True,Maggie Smith
+1978,ACTRESS IN A SUPPORTING ROLE,False,Maureen Stapleton
+1978,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep
+1979,ACTOR IN A LEADING ROLE,True,Dustin Hoffman
+1979,ACTOR IN A LEADING ROLE,False,Jack Lemmon
+1979,ACTOR IN A LEADING ROLE,False,Al Pacino
+1979,ACTOR IN A LEADING ROLE,False,Roy Scheider
+1979,ACTOR IN A LEADING ROLE,False,Peter Sellers
+1979,ACTOR IN A SUPPORTING ROLE,True,Melvyn Douglas
+1979,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall
+1979,ACTOR IN A SUPPORTING ROLE,False,Frederic Forrest
+1979,ACTOR IN A SUPPORTING ROLE,False,Justin Henry
+1979,ACTOR IN A SUPPORTING ROLE,False,Mickey Rooney
+1979,ACTRESS IN A LEADING ROLE,False,Jill Clayburgh
+1979,ACTRESS IN A LEADING ROLE,True,Sally Field
+1979,ACTRESS IN A LEADING ROLE,False,Jane Fonda
+1979,ACTRESS IN A LEADING ROLE,False,Marsha Mason
+1979,ACTRESS IN A LEADING ROLE,False,Bette Midler
+1979,ACTRESS IN A SUPPORTING ROLE,False,Jane Alexander
+1979,ACTRESS IN A SUPPORTING ROLE,False,Barbara Barrie
+1979,ACTRESS IN A SUPPORTING ROLE,False,Candice Bergen
+1979,ACTRESS IN A SUPPORTING ROLE,False,Mariel Hemingway
+1979,ACTRESS IN A SUPPORTING ROLE,True,Meryl Streep
+1980,ACTOR IN A LEADING ROLE,True,Robert De Niro
+1980,ACTOR IN A LEADING ROLE,False,Robert Duvall
+1980,ACTOR IN A LEADING ROLE,False,John Hurt
+1980,ACTOR IN A LEADING ROLE,False,Jack Lemmon
+1980,ACTOR IN A LEADING ROLE,False,Peter O'Toole
+1980,ACTOR IN A SUPPORTING ROLE,False,Judd Hirsch
+1980,ACTOR IN A SUPPORTING ROLE,True,Timothy Hutton
+1980,ACTOR IN A SUPPORTING ROLE,False,Michael O'Keefe
+1980,ACTOR IN A SUPPORTING ROLE,False,Joe Pesci
+1980,ACTOR IN A SUPPORTING ROLE,False,Jason Robards
+1980,ACTRESS IN A LEADING ROLE,False,Ellen Burstyn
+1980,ACTRESS IN A LEADING ROLE,False,Goldie Hawn
+1980,ACTRESS IN A LEADING ROLE,False,Mary Tyler Moore
+1980,ACTRESS IN A LEADING ROLE,False,Gena Rowlands
+1980,ACTRESS IN A LEADING ROLE,True,Sissy Spacek
+1980,ACTRESS IN A SUPPORTING ROLE,False,Eileen Brennan
+1980,ACTRESS IN A SUPPORTING ROLE,False,Eva Le Gallienne
+1980,ACTRESS IN A SUPPORTING ROLE,False,Cathy Moriarty
+1980,ACTRESS IN A SUPPORTING ROLE,False,Diana Scarwid
+1980,ACTRESS IN A SUPPORTING ROLE,True,Mary Steenburgen
+1981,ACTOR IN A LEADING ROLE,False,Warren Beatty
+1981,ACTOR IN A LEADING ROLE,True,Henry Fonda
+1981,ACTOR IN A LEADING ROLE,False,Burt Lancaster
+1981,ACTOR IN A LEADING ROLE,False,Dudley Moore
+1981,ACTOR IN A LEADING ROLE,False,Paul Newman
+1981,ACTOR IN A SUPPORTING ROLE,False,James Coco
+1981,ACTOR IN A SUPPORTING ROLE,True,John Gielgud
+1981,ACTOR IN A SUPPORTING ROLE,False,Ian Holm
+1981,ACTOR IN A SUPPORTING ROLE,False,Jack Nicholson
+1981,ACTOR IN A SUPPORTING ROLE,False,"Howard E. Rollins, Jr."
+1981,ACTRESS IN A LEADING ROLE,True,Katharine Hepburn
+1981,ACTRESS IN A LEADING ROLE,False,Diane Keaton
+1981,ACTRESS IN A LEADING ROLE,False,Marsha Mason
+1981,ACTRESS IN A LEADING ROLE,False,Susan Sarandon
+1981,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1981,ACTRESS IN A SUPPORTING ROLE,False,Melinda Dillon
+1981,ACTRESS IN A SUPPORTING ROLE,False,Jane Fonda
+1981,ACTRESS IN A SUPPORTING ROLE,False,Joan Hackett
+1981,ACTRESS IN A SUPPORTING ROLE,False,Elizabeth McGovern
+1981,ACTRESS IN A SUPPORTING ROLE,True,Maureen Stapleton
+1982,ACTOR IN A LEADING ROLE,False,Dustin Hoffman
+1982,ACTOR IN A LEADING ROLE,True,Ben Kingsley
+1982,ACTOR IN A LEADING ROLE,False,Jack Lemmon
+1982,ACTOR IN A LEADING ROLE,False,Paul Newman
+1982,ACTOR IN A LEADING ROLE,False,Peter O'Toole
+1982,ACTOR IN A SUPPORTING ROLE,False,Charles Durning
+1982,ACTOR IN A SUPPORTING ROLE,True,"Louis Gossett, Jr."
+1982,ACTOR IN A SUPPORTING ROLE,False,John Lithgow
+1982,ACTOR IN A SUPPORTING ROLE,False,James Mason
+1982,ACTOR IN A SUPPORTING ROLE,False,Robert Preston
+1982,ACTRESS IN A LEADING ROLE,False,Julie Andrews
+1982,ACTRESS IN A LEADING ROLE,False,Jessica Lange
+1982,ACTRESS IN A LEADING ROLE,False,Sissy Spacek
+1982,ACTRESS IN A LEADING ROLE,True,Meryl Streep
+1982,ACTRESS IN A LEADING ROLE,False,Debra Winger
+1982,ACTRESS IN A SUPPORTING ROLE,False,Glenn Close
+1982,ACTRESS IN A SUPPORTING ROLE,False,Teri Garr
+1982,ACTRESS IN A SUPPORTING ROLE,True,Jessica Lange
+1982,ACTRESS IN A SUPPORTING ROLE,False,Kim Stanley
+1982,ACTRESS IN A SUPPORTING ROLE,False,Lesley Ann Warren
+1983,ACTOR IN A LEADING ROLE,False,Michael Caine
+1983,ACTOR IN A LEADING ROLE,False,Tom Conti
+1983,ACTOR IN A LEADING ROLE,False,Tom Courtenay
+1983,ACTOR IN A LEADING ROLE,True,Robert Duvall
+1983,ACTOR IN A LEADING ROLE,False,Albert Finney
+1983,ACTOR IN A SUPPORTING ROLE,False,Charles Durning
+1983,ACTOR IN A SUPPORTING ROLE,False,John Lithgow
+1983,ACTOR IN A SUPPORTING ROLE,True,Jack Nicholson
+1983,ACTOR IN A SUPPORTING ROLE,False,Sam Shepard
+1983,ACTOR IN A SUPPORTING ROLE,False,Rip Torn
+1983,ACTRESS IN A LEADING ROLE,False,Jane Alexander
+1983,ACTRESS IN A LEADING ROLE,True,Shirley MacLaine
+1983,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1983,ACTRESS IN A LEADING ROLE,False,Julie Walters
+1983,ACTRESS IN A LEADING ROLE,False,Debra Winger
+1983,ACTRESS IN A SUPPORTING ROLE,False,Cher
+1983,ACTRESS IN A SUPPORTING ROLE,False,Glenn Close
+1983,ACTRESS IN A SUPPORTING ROLE,True,Linda Hunt
+1983,ACTRESS IN A SUPPORTING ROLE,False,Amy Irving
+1983,ACTRESS IN A SUPPORTING ROLE,False,Alfre Woodard
+1984,ACTOR IN A LEADING ROLE,True,F. Murray Abraham
+1984,ACTOR IN A LEADING ROLE,False,Jeff Bridges
+1984,ACTOR IN A LEADING ROLE,False,Albert Finney
+1984,ACTOR IN A LEADING ROLE,False,Tom Hulce
+1984,ACTOR IN A LEADING ROLE,False,Sam Waterston
+1984,ACTOR IN A SUPPORTING ROLE,False,Adolph Caesar
+1984,ACTOR IN A SUPPORTING ROLE,False,John Malkovich
+1984,ACTOR IN A SUPPORTING ROLE,False,Noriyuki 'Pat' Morita
+1984,ACTOR IN A SUPPORTING ROLE,True,Haing S. Ngor
+1984,ACTOR IN A SUPPORTING ROLE,False,Ralph Richardson
+1984,ACTRESS IN A LEADING ROLE,False,Judy Davis
+1984,ACTRESS IN A LEADING ROLE,True,Sally Field
+1984,ACTRESS IN A LEADING ROLE,False,Jessica Lange
+1984,ACTRESS IN A LEADING ROLE,False,Vanessa Redgrave
+1984,ACTRESS IN A LEADING ROLE,False,Sissy Spacek
+1984,ACTRESS IN A SUPPORTING ROLE,True,Peggy Ashcroft
+1984,ACTRESS IN A SUPPORTING ROLE,False,Glenn Close
+1984,ACTRESS IN A SUPPORTING ROLE,False,Lindsay Crouse
+1984,ACTRESS IN A SUPPORTING ROLE,False,Christine Lahti
+1984,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page
+1985,ACTOR IN A LEADING ROLE,False,Harrison Ford
+1985,ACTOR IN A LEADING ROLE,False,James Garner
+1985,ACTOR IN A LEADING ROLE,True,William Hurt
+1985,ACTOR IN A LEADING ROLE,False,Jack Nicholson
+1985,ACTOR IN A LEADING ROLE,False,Jon Voight
+1985,ACTOR IN A SUPPORTING ROLE,True,Don Ameche
+1985,ACTOR IN A SUPPORTING ROLE,False,Klaus Maria Brandauer
+1985,ACTOR IN A SUPPORTING ROLE,False,William Hickey
+1985,ACTOR IN A SUPPORTING ROLE,False,Robert Loggia
+1985,ACTOR IN A SUPPORTING ROLE,False,Eric Roberts
+1985,ACTRESS IN A LEADING ROLE,False,Anne Bancroft
+1985,ACTRESS IN A LEADING ROLE,False,Whoopi Goldberg
+1985,ACTRESS IN A LEADING ROLE,False,Jessica Lange
+1985,ACTRESS IN A LEADING ROLE,True,Geraldine Page
+1985,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1985,ACTRESS IN A SUPPORTING ROLE,False,Margaret Avery
+1985,ACTRESS IN A SUPPORTING ROLE,True,Anjelica Huston
+1985,ACTRESS IN A SUPPORTING ROLE,False,Amy Madigan
+1985,ACTRESS IN A SUPPORTING ROLE,False,Meg Tilly
+1985,ACTRESS IN A SUPPORTING ROLE,False,Oprah Winfrey
+1986,ACTOR IN A LEADING ROLE,False,Dexter Gordon
+1986,ACTOR IN A LEADING ROLE,False,Bob Hoskins
+1986,ACTOR IN A LEADING ROLE,False,William Hurt
+1986,ACTOR IN A LEADING ROLE,True,Paul Newman
+1986,ACTOR IN A LEADING ROLE,False,James Woods
+1986,ACTOR IN A SUPPORTING ROLE,False,Tom Berenger
+1986,ACTOR IN A SUPPORTING ROLE,True,Michael Caine
+1986,ACTOR IN A SUPPORTING ROLE,False,Willem Dafoe
+1986,ACTOR IN A SUPPORTING ROLE,False,Denholm Elliott
+1986,ACTOR IN A SUPPORTING ROLE,False,Dennis Hopper
+1986,ACTRESS IN A LEADING ROLE,False,Jane Fonda
+1986,ACTRESS IN A LEADING ROLE,True,Marlee Matlin
+1986,ACTRESS IN A LEADING ROLE,False,Sissy Spacek
+1986,ACTRESS IN A LEADING ROLE,False,Kathleen Turner
+1986,ACTRESS IN A LEADING ROLE,False,Sigourney Weaver
+1986,ACTRESS IN A SUPPORTING ROLE,False,Tess Harper
+1986,ACTRESS IN A SUPPORTING ROLE,False,Piper Laurie
+1986,ACTRESS IN A SUPPORTING ROLE,False,Mary Elizabeth Mastrantonio
+1986,ACTRESS IN A SUPPORTING ROLE,False,Maggie Smith
+1986,ACTRESS IN A SUPPORTING ROLE,True,Dianne Wiest
+1987,ACTOR IN A LEADING ROLE,True,Michael Douglas
+1987,ACTOR IN A LEADING ROLE,False,William Hurt
+1987,ACTOR IN A LEADING ROLE,False,Marcello Mastroianni
+1987,ACTOR IN A LEADING ROLE,False,Jack Nicholson
+1987,ACTOR IN A LEADING ROLE,False,Robin Williams
+1987,ACTOR IN A SUPPORTING ROLE,False,Albert Brooks
+1987,ACTOR IN A SUPPORTING ROLE,True,Sean Connery
+1987,ACTOR IN A SUPPORTING ROLE,False,Morgan Freeman
+1987,ACTOR IN A SUPPORTING ROLE,False,Vincent Gardenia
+1987,ACTOR IN A SUPPORTING ROLE,False,Denzel Washington
+1987,ACTRESS IN A LEADING ROLE,True,Cher
+1987,ACTRESS IN A LEADING ROLE,False,Glenn Close
+1987,ACTRESS IN A LEADING ROLE,False,Holly Hunter
+1987,ACTRESS IN A LEADING ROLE,False,Sally Kirkland
+1987,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1987,ACTRESS IN A SUPPORTING ROLE,False,Norma Aleandro
+1987,ACTRESS IN A SUPPORTING ROLE,False,Anne Archer
+1987,ACTRESS IN A SUPPORTING ROLE,True,Olympia Dukakis
+1987,ACTRESS IN A SUPPORTING ROLE,False,Anne Ramsey
+1987,ACTRESS IN A SUPPORTING ROLE,False,Ann Sothern
+1988,ACTOR IN A LEADING ROLE,False,Gene Hackman
+1988,ACTOR IN A LEADING ROLE,False,Tom Hanks
+1988,ACTOR IN A LEADING ROLE,True,Dustin Hoffman
+1988,ACTOR IN A LEADING ROLE,False,Edward James Olmos
+1988,ACTOR IN A LEADING ROLE,False,Max von Sydow
+1988,ACTOR IN A SUPPORTING ROLE,False,Alec Guinness
+1988,ACTOR IN A SUPPORTING ROLE,True,Kevin Kline
+1988,ACTOR IN A SUPPORTING ROLE,False,Martin Landau
+1988,ACTOR IN A SUPPORTING ROLE,False,River Phoenix
+1988,ACTOR IN A SUPPORTING ROLE,False,Dean Stockwell
+1988,ACTRESS IN A LEADING ROLE,False,Glenn Close
+1988,ACTRESS IN A LEADING ROLE,True,Jodie Foster
+1988,ACTRESS IN A LEADING ROLE,False,Melanie Griffith
+1988,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1988,ACTRESS IN A LEADING ROLE,False,Sigourney Weaver
+1988,ACTRESS IN A SUPPORTING ROLE,False,Joan Cusack
+1988,ACTRESS IN A SUPPORTING ROLE,True,Geena Davis
+1988,ACTRESS IN A SUPPORTING ROLE,False,Frances McDormand
+1988,ACTRESS IN A SUPPORTING ROLE,False,Michelle Pfeiffer
+1988,ACTRESS IN A SUPPORTING ROLE,False,Sigourney Weaver
+1989,ACTOR IN A LEADING ROLE,False,Kenneth Branagh
+1989,ACTOR IN A LEADING ROLE,False,Tom Cruise
+1989,ACTOR IN A LEADING ROLE,True,Daniel Day Lewis
+1989,ACTOR IN A LEADING ROLE,False,Morgan Freeman
+1989,ACTOR IN A LEADING ROLE,False,Robin Williams
+1989,ACTOR IN A SUPPORTING ROLE,False,Danny Aiello
+1989,ACTOR IN A SUPPORTING ROLE,False,Dan Aykroyd
+1989,ACTOR IN A SUPPORTING ROLE,False,Marlon Brando
+1989,ACTOR IN A SUPPORTING ROLE,False,Martin Landau
+1989,ACTOR IN A SUPPORTING ROLE,True,Denzel Washington
+1989,ACTRESS IN A LEADING ROLE,False,Isabelle Adjani
+1989,ACTRESS IN A LEADING ROLE,False,Pauline Collins
+1989,ACTRESS IN A LEADING ROLE,False,Jessica Lange
+1989,ACTRESS IN A LEADING ROLE,False,Michelle Pfeiffer
+1989,ACTRESS IN A LEADING ROLE,True,Jessica Tandy
+1989,ACTRESS IN A SUPPORTING ROLE,True,Brenda Fricker
+1989,ACTRESS IN A SUPPORTING ROLE,False,Anjelica Huston
+1989,ACTRESS IN A SUPPORTING ROLE,False,Lena Olin
+1989,ACTRESS IN A SUPPORTING ROLE,False,Julia Roberts
+1989,ACTRESS IN A SUPPORTING ROLE,False,Dianne Wiest
+1990,ACTOR IN A LEADING ROLE,False,Kevin Costner
+1990,ACTOR IN A LEADING ROLE,False,Robert De Niro
+1990,ACTOR IN A LEADING ROLE,False,Gerard Depardieu
+1990,ACTOR IN A LEADING ROLE,False,Richard Harris
+1990,ACTOR IN A LEADING ROLE,True,Jeremy Irons
+1990,ACTOR IN A SUPPORTING ROLE,False,Bruce Davison
+1990,ACTOR IN A SUPPORTING ROLE,False,Andy Garcia
+1990,ACTOR IN A SUPPORTING ROLE,False,Graham Greene
+1990,ACTOR IN A SUPPORTING ROLE,False,Al Pacino
+1990,ACTOR IN A SUPPORTING ROLE,True,Joe Pesci
+1990,ACTRESS IN A LEADING ROLE,True,Kathy Bates
+1990,ACTRESS IN A LEADING ROLE,False,Anjelica Huston
+1990,ACTRESS IN A LEADING ROLE,False,Julia Roberts
+1990,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1990,ACTRESS IN A LEADING ROLE,False,Joanne Woodward
+1990,ACTRESS IN A SUPPORTING ROLE,False,Annette Bening
+1990,ACTRESS IN A SUPPORTING ROLE,False,Lorraine Bracco
+1990,ACTRESS IN A SUPPORTING ROLE,True,Whoopi Goldberg
+1990,ACTRESS IN A SUPPORTING ROLE,False,Diane Ladd
+1990,ACTRESS IN A SUPPORTING ROLE,False,Mary McDonnell
+1991,ACTOR IN A LEADING ROLE,False,Warren Beatty
+1991,ACTOR IN A LEADING ROLE,False,Robert De Niro
+1991,ACTOR IN A LEADING ROLE,True,Anthony Hopkins
+1991,ACTOR IN A LEADING ROLE,False,Nick Nolte
+1991,ACTOR IN A LEADING ROLE,False,Robin Williams
+1991,ACTOR IN A SUPPORTING ROLE,False,Tommy Lee Jones
+1991,ACTOR IN A SUPPORTING ROLE,False,Harvey Keitel
+1991,ACTOR IN A SUPPORTING ROLE,False,Ben Kingsley
+1991,ACTOR IN A SUPPORTING ROLE,False,Michael Lerner
+1991,ACTOR IN A SUPPORTING ROLE,True,Jack Palance
+1991,ACTRESS IN A LEADING ROLE,False,Geena Davis
+1991,ACTRESS IN A LEADING ROLE,False,Laura Dern
+1991,ACTRESS IN A LEADING ROLE,True,Jodie Foster
+1991,ACTRESS IN A LEADING ROLE,False,Bette Midler
+1991,ACTRESS IN A LEADING ROLE,False,Susan Sarandon
+1991,ACTRESS IN A SUPPORTING ROLE,False,Diane Ladd
+1991,ACTRESS IN A SUPPORTING ROLE,False,Juliette Lewis
+1991,ACTRESS IN A SUPPORTING ROLE,False,Kate Nelligan
+1991,ACTRESS IN A SUPPORTING ROLE,True,Mercedes Ruehl
+1991,ACTRESS IN A SUPPORTING ROLE,False,Jessica Tandy
+1992,ACTOR IN A LEADING ROLE,False,Robert Downey Jr.
+1992,ACTOR IN A LEADING ROLE,False,Clint Eastwood
+1992,ACTOR IN A LEADING ROLE,True,Al Pacino
+1992,ACTOR IN A LEADING ROLE,False,Stephen Rea
+1992,ACTOR IN A LEADING ROLE,False,Denzel Washington
+1992,ACTOR IN A SUPPORTING ROLE,False,Jaye Davidson
+1992,ACTOR IN A SUPPORTING ROLE,True,Gene Hackman
+1992,ACTOR IN A SUPPORTING ROLE,False,Jack Nicholson
+1992,ACTOR IN A SUPPORTING ROLE,False,Al Pacino
+1992,ACTOR IN A SUPPORTING ROLE,False,David Paymer
+1992,ACTRESS IN A LEADING ROLE,False,Catherine Deneuve
+1992,ACTRESS IN A LEADING ROLE,False,Mary McDonnell
+1992,ACTRESS IN A LEADING ROLE,False,Michelle Pfeiffer
+1992,ACTRESS IN A LEADING ROLE,False,Susan Sarandon
+1992,ACTRESS IN A LEADING ROLE,True,Emma Thompson
+1992,ACTRESS IN A SUPPORTING ROLE,False,Judy Davis
+1992,ACTRESS IN A SUPPORTING ROLE,False,Joan Plowright
+1992,ACTRESS IN A SUPPORTING ROLE,False,Vanessa Redgrave
+1992,ACTRESS IN A SUPPORTING ROLE,False,Miranda Richardson
+1992,ACTRESS IN A SUPPORTING ROLE,True,Marisa Tomei
+1993,ACTOR IN A LEADING ROLE,False,Daniel Day-Lewis
+1993,ACTOR IN A LEADING ROLE,False,Laurence Fishburne
+1993,ACTOR IN A LEADING ROLE,True,Tom Hanks
+1993,ACTOR IN A LEADING ROLE,False,Anthony Hopkins
+1993,ACTOR IN A LEADING ROLE,False,Liam Neeson
+1993,ACTOR IN A SUPPORTING ROLE,False,Leonardo DiCaprio
+1993,ACTOR IN A SUPPORTING ROLE,False,Ralph Fiennes
+1993,ACTOR IN A SUPPORTING ROLE,True,Tommy Lee Jones
+1993,ACTOR IN A SUPPORTING ROLE,False,John Malkovich
+1993,ACTOR IN A SUPPORTING ROLE,False,Pete Postlethwaite
+1993,ACTRESS IN A LEADING ROLE,False,Angela Bassett
+1993,ACTRESS IN A LEADING ROLE,False,Stockard Channing
+1993,ACTRESS IN A LEADING ROLE,True,Holly Hunter
+1993,ACTRESS IN A LEADING ROLE,False,Emma Thompson
+1993,ACTRESS IN A LEADING ROLE,False,Debra Winger
+1993,ACTRESS IN A SUPPORTING ROLE,False,Holly Hunter
+1993,ACTRESS IN A SUPPORTING ROLE,True,Anna Paquin
+1993,ACTRESS IN A SUPPORTING ROLE,False,Rosie Perez
+1993,ACTRESS IN A SUPPORTING ROLE,False,Winona Ryder
+1993,ACTRESS IN A SUPPORTING ROLE,False,Emma Thompson
+1994,ACTOR IN A LEADING ROLE,False,Morgan Freeman
+1994,ACTOR IN A LEADING ROLE,True,Tom Hanks
+1994,ACTOR IN A LEADING ROLE,False,Nigel Hawthorne
+1994,ACTOR IN A LEADING ROLE,False,Paul Newman
+1994,ACTOR IN A LEADING ROLE,False,John Travolta
+1994,ACTOR IN A SUPPORTING ROLE,False,Samuel L. Jackson
+1994,ACTOR IN A SUPPORTING ROLE,True,Martin Landau
+1994,ACTOR IN A SUPPORTING ROLE,False,Chazz Palminteri
+1994,ACTOR IN A SUPPORTING ROLE,False,Paul Scofield
+1994,ACTOR IN A SUPPORTING ROLE,False,Gary Sinise
+1994,ACTRESS IN A LEADING ROLE,False,Jodie Foster
+1994,ACTRESS IN A LEADING ROLE,True,Jessica Lange
+1994,ACTRESS IN A LEADING ROLE,False,Miranda Richardson
+1994,ACTRESS IN A LEADING ROLE,False,Winona Ryder
+1994,ACTRESS IN A LEADING ROLE,False,Susan Sarandon
+1994,ACTRESS IN A SUPPORTING ROLE,False,Rosemary Harris
+1994,ACTRESS IN A SUPPORTING ROLE,False,Helen Mirren
+1994,ACTRESS IN A SUPPORTING ROLE,False,Uma Thurman
+1994,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Tilly
+1994,ACTRESS IN A SUPPORTING ROLE,True,Dianne Wiest
+1995,ACTOR IN A LEADING ROLE,True,Nicolas Cage
+1995,ACTOR IN A LEADING ROLE,False,Richard Dreyfuss
+1995,ACTOR IN A LEADING ROLE,False,Anthony Hopkins
+1995,ACTOR IN A LEADING ROLE,False,Sean Penn
+1995,ACTOR IN A LEADING ROLE,False,Massimo Troisi
+1995,ACTOR IN A SUPPORTING ROLE,False,James Cromwell
+1995,ACTOR IN A SUPPORTING ROLE,False,Ed Harris
+1995,ACTOR IN A SUPPORTING ROLE,False,Brad Pitt
+1995,ACTOR IN A SUPPORTING ROLE,False,Tim Roth
+1995,ACTOR IN A SUPPORTING ROLE,True,Kevin Spacey
+1995,ACTRESS IN A LEADING ROLE,True,Susan Sarandon
+1995,ACTRESS IN A LEADING ROLE,False,Elisabeth Shue
+1995,ACTRESS IN A LEADING ROLE,False,Sharon Stone
+1995,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1995,ACTRESS IN A LEADING ROLE,False,Emma Thompson
+1995,ACTRESS IN A SUPPORTING ROLE,False,Joan Allen
+1995,ACTRESS IN A SUPPORTING ROLE,False,Kathleen Quinlan
+1995,ACTRESS IN A SUPPORTING ROLE,True,Mira Sorvino
+1995,ACTRESS IN A SUPPORTING ROLE,False,Mare Winningham
+1995,ACTRESS IN A SUPPORTING ROLE,False,Kate Winslet
+1996,ACTOR IN A LEADING ROLE,False,Tom Cruise
+1996,ACTOR IN A LEADING ROLE,False,Ralph Fiennes
+1996,ACTOR IN A LEADING ROLE,False,Woody Harrelson
+1996,ACTOR IN A LEADING ROLE,True,Geoffrey Rush
+1996,ACTOR IN A LEADING ROLE,False,Billy Bob Thornton
+1996,ACTOR IN A SUPPORTING ROLE,True,"Cuba Gooding, Jr."
+1996,ACTOR IN A SUPPORTING ROLE,False,William H. Macy
+1996,ACTOR IN A SUPPORTING ROLE,False,Armin Mueller-Stahl
+1996,ACTOR IN A SUPPORTING ROLE,False,Edward Norton
+1996,ACTOR IN A SUPPORTING ROLE,False,James Woods
+1996,ACTRESS IN A LEADING ROLE,False,Brenda Blethyn
+1996,ACTRESS IN A LEADING ROLE,False,Diane Keaton
+1996,ACTRESS IN A LEADING ROLE,True,Frances McDormand
+1996,ACTRESS IN A LEADING ROLE,False,Kristin Scott Thomas
+1996,ACTRESS IN A LEADING ROLE,False,Emily Watson
+1996,ACTRESS IN A SUPPORTING ROLE,False,Joan Allen
+1996,ACTRESS IN A SUPPORTING ROLE,False,Lauren Bacall
+1996,ACTRESS IN A SUPPORTING ROLE,True,Juliette Binoche
+1996,ACTRESS IN A SUPPORTING ROLE,False,Barbara Hershey
+1996,ACTRESS IN A SUPPORTING ROLE,False,Marianne Jean-Baptiste
+1997,ACTOR IN A LEADING ROLE,False,Matt Damon
+1997,ACTOR IN A LEADING ROLE,False,Robert Duvall
+1997,ACTOR IN A LEADING ROLE,False,Peter Fonda
+1997,ACTOR IN A LEADING ROLE,False,Dustin Hoffman
+1997,ACTOR IN A LEADING ROLE,True,Jack Nicholson
+1997,ACTOR IN A SUPPORTING ROLE,False,Robert Forster
+1997,ACTOR IN A SUPPORTING ROLE,False,Anthony Hopkins
+1997,ACTOR IN A SUPPORTING ROLE,False,Greg Kinnear
+1997,ACTOR IN A SUPPORTING ROLE,False,Burt Reynolds
+1997,ACTOR IN A SUPPORTING ROLE,True,Robin Williams
+1997,ACTRESS IN A LEADING ROLE,False,Helena Bonham Carter
+1997,ACTRESS IN A LEADING ROLE,False,Julie Christie
+1997,ACTRESS IN A LEADING ROLE,False,Judi Dench
+1997,ACTRESS IN A LEADING ROLE,True,Helen Hunt
+1997,ACTRESS IN A LEADING ROLE,False,Kate Winslet
+1997,ACTRESS IN A SUPPORTING ROLE,True,Kim Basinger
+1997,ACTRESS IN A SUPPORTING ROLE,False,Joan Cusack
+1997,ACTRESS IN A SUPPORTING ROLE,False,Minnie Driver
+1997,ACTRESS IN A SUPPORTING ROLE,False,Julianne Moore
+1997,ACTRESS IN A SUPPORTING ROLE,False,Gloria Stuart
+1998,ACTOR IN A LEADING ROLE,True,Roberto Benigni
+1998,ACTOR IN A LEADING ROLE,False,Tom Hanks
+1998,ACTOR IN A LEADING ROLE,False,Ian McKellen
+1998,ACTOR IN A LEADING ROLE,False,Nick Nolte
+1998,ACTOR IN A LEADING ROLE,False,Edward Norton
+1998,ACTOR IN A SUPPORTING ROLE,True,James Coburn
+1998,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall
+1998,ACTOR IN A SUPPORTING ROLE,False,Ed Harris
+1998,ACTOR IN A SUPPORTING ROLE,False,Geoffrey Rush
+1998,ACTOR IN A SUPPORTING ROLE,False,Billy Bob Thornton
+1998,ACTRESS IN A LEADING ROLE,False,Cate Blanchett
+1998,ACTRESS IN A LEADING ROLE,False,Fernanda Montenegro
+1998,ACTRESS IN A LEADING ROLE,True,Gwyneth Paltrow
+1998,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1998,ACTRESS IN A LEADING ROLE,False,Emily Watson
+1998,ACTRESS IN A SUPPORTING ROLE,False,Kathy Bates
+1998,ACTRESS IN A SUPPORTING ROLE,False,Brenda Blethyn
+1998,ACTRESS IN A SUPPORTING ROLE,True,Judi Dench
+1998,ACTRESS IN A SUPPORTING ROLE,False,Rachel Griffiths
+1998,ACTRESS IN A SUPPORTING ROLE,False,Lynn Redgrave
+1999,ACTOR IN A LEADING ROLE,False,Russell Crowe
+1999,ACTOR IN A LEADING ROLE,False,Richard Farnsworth
+1999,ACTOR IN A LEADING ROLE,False,Sean Penn
+1999,ACTOR IN A LEADING ROLE,True,Kevin Spacey
+1999,ACTOR IN A LEADING ROLE,False,Denzel Washington
+1999,ACTOR IN A SUPPORTING ROLE,True,Michael Caine
+1999,ACTOR IN A SUPPORTING ROLE,False,Tom Cruise
+1999,ACTOR IN A SUPPORTING ROLE,False,Michael Clarke Duncan
+1999,ACTOR IN A SUPPORTING ROLE,False,Jude Law
+1999,ACTOR IN A SUPPORTING ROLE,False,Haley Joel Osment
+1999,ACTRESS IN A LEADING ROLE,False,Annette Bening
+1999,ACTRESS IN A LEADING ROLE,False,Janet McTeer
+1999,ACTRESS IN A LEADING ROLE,False,Julianne Moore
+1999,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+1999,ACTRESS IN A LEADING ROLE,True,Hilary Swank
+1999,ACTRESS IN A SUPPORTING ROLE,False,Toni Collette
+1999,ACTRESS IN A SUPPORTING ROLE,True,Angelina Jolie
+1999,ACTRESS IN A SUPPORTING ROLE,False,Catherine Keener
+1999,ACTRESS IN A SUPPORTING ROLE,False,Samantha Morton
+1999,ACTRESS IN A SUPPORTING ROLE,False,Chloë Sevigny
+2000,ACTOR IN A LEADING ROLE,False,Javier Bardem
+2000,ACTOR IN A LEADING ROLE,True,Russell Crowe
+2000,ACTOR IN A LEADING ROLE,False,Tom Hanks
+2000,ACTOR IN A LEADING ROLE,False,Ed Harris
+2000,ACTOR IN A LEADING ROLE,False,Geoffrey Rush
+2000,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges
+2000,ACTOR IN A SUPPORTING ROLE,False,Willem Dafoe
+2000,ACTOR IN A SUPPORTING ROLE,True,Benicio Del Toro
+2000,ACTOR IN A SUPPORTING ROLE,False,Albert Finney
+2000,ACTOR IN A SUPPORTING ROLE,False,Joaquin Phoenix
+2000,ACTRESS IN A LEADING ROLE,False,Joan Allen
+2000,ACTRESS IN A LEADING ROLE,False,Juliette Binoche
+2000,ACTRESS IN A LEADING ROLE,False,Ellen Burstyn
+2000,ACTRESS IN A LEADING ROLE,False,Laura Linney
+2000,ACTRESS IN A LEADING ROLE,True,Julia Roberts
+2000,ACTRESS IN A SUPPORTING ROLE,False,Judi Dench
+2000,ACTRESS IN A SUPPORTING ROLE,True,Marcia Gay Harden
+2000,ACTRESS IN A SUPPORTING ROLE,False,Kate Hudson
+2000,ACTRESS IN A SUPPORTING ROLE,False,Frances McDormand
+2000,ACTRESS IN A SUPPORTING ROLE,False,Julie Walters
+2001,ACTOR IN A LEADING ROLE,False,Russell Crowe
+2001,ACTOR IN A LEADING ROLE,False,Sean Penn
+2001,ACTOR IN A LEADING ROLE,False,Will Smith
+2001,ACTOR IN A LEADING ROLE,True,Denzel Washington
+2001,ACTOR IN A LEADING ROLE,False,Tom Wilkinson
+2001,ACTOR IN A SUPPORTING ROLE,True,Jim Broadbent
+2001,ACTOR IN A SUPPORTING ROLE,False,Ethan Hawke
+2001,ACTOR IN A SUPPORTING ROLE,False,Ben Kingsley
+2001,ACTOR IN A SUPPORTING ROLE,False,Ian McKellen
+2001,ACTOR IN A SUPPORTING ROLE,False,Jon Voight
+2001,ACTRESS IN A LEADING ROLE,True,Halle Berry
+2001,ACTRESS IN A LEADING ROLE,False,Judi Dench
+2001,ACTRESS IN A LEADING ROLE,False,Nicole Kidman
+2001,ACTRESS IN A LEADING ROLE,False,Sissy Spacek
+2001,ACTRESS IN A LEADING ROLE,False,Renée Zellweger
+2001,ACTRESS IN A SUPPORTING ROLE,True,Jennifer Connelly
+2001,ACTRESS IN A SUPPORTING ROLE,False,Helen Mirren
+2001,ACTRESS IN A SUPPORTING ROLE,False,Maggie Smith
+2001,ACTRESS IN A SUPPORTING ROLE,False,Marisa Tomei
+2001,ACTRESS IN A SUPPORTING ROLE,False,Kate Winslet
+2002,ACTOR IN A LEADING ROLE,True,Adrien Brody
+2002,ACTOR IN A LEADING ROLE,False,Nicolas Cage
+2002,ACTOR IN A LEADING ROLE,False,Michael Caine
+2002,ACTOR IN A LEADING ROLE,False,Daniel Day-Lewis
+2002,ACTOR IN A LEADING ROLE,False,Jack Nicholson
+2002,ACTOR IN A SUPPORTING ROLE,True,Chris Cooper
+2002,ACTOR IN A SUPPORTING ROLE,False,Ed Harris
+2002,ACTOR IN A SUPPORTING ROLE,False,Paul Newman
+2002,ACTOR IN A SUPPORTING ROLE,False,John C. Reilly
+2002,ACTOR IN A SUPPORTING ROLE,False,Christopher Walken
+2002,ACTRESS IN A LEADING ROLE,False,Salma Hayek
+2002,ACTRESS IN A LEADING ROLE,True,Nicole Kidman
+2002,ACTRESS IN A LEADING ROLE,False,Diane Lane
+2002,ACTRESS IN A LEADING ROLE,False,Julianne Moore
+2002,ACTRESS IN A LEADING ROLE,False,Renée Zellweger
+2002,ACTRESS IN A SUPPORTING ROLE,False,Kathy Bates
+2002,ACTRESS IN A SUPPORTING ROLE,False,Julianne Moore
+2002,ACTRESS IN A SUPPORTING ROLE,False,Queen Latifah
+2002,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep
+2002,ACTRESS IN A SUPPORTING ROLE,True,Catherine Zeta-Jones
+2003,ACTOR IN A LEADING ROLE,False,Johnny Depp
+2003,ACTOR IN A LEADING ROLE,False,Ben Kingsley
+2003,ACTOR IN A LEADING ROLE,False,Jude Law
+2003,ACTOR IN A LEADING ROLE,False,Bill Murray
+2003,ACTOR IN A LEADING ROLE,True,Sean Penn
+2003,ACTOR IN A SUPPORTING ROLE,False,Alec Baldwin
+2003,ACTOR IN A SUPPORTING ROLE,False,Benicio Del Toro
+2003,ACTOR IN A SUPPORTING ROLE,False,Djimon Hounsou
+2003,ACTOR IN A SUPPORTING ROLE,True,Tim Robbins
+2003,ACTOR IN A SUPPORTING ROLE,False,Ken Watanabe
+2003,ACTRESS IN A LEADING ROLE,False,Keisha Castle-Hughes
+2003,ACTRESS IN A LEADING ROLE,False,Diane Keaton
+2003,ACTRESS IN A LEADING ROLE,False,Samantha Morton
+2003,ACTRESS IN A LEADING ROLE,True,Charlize Theron
+2003,ACTRESS IN A LEADING ROLE,False,Naomi Watts
+2003,ACTRESS IN A SUPPORTING ROLE,False,Shohreh Aghdashloo
+2003,ACTRESS IN A SUPPORTING ROLE,False,Patricia Clarkson
+2003,ACTRESS IN A SUPPORTING ROLE,False,Marcia Gay Harden
+2003,ACTRESS IN A SUPPORTING ROLE,False,Holly Hunter
+2003,ACTRESS IN A SUPPORTING ROLE,True,Renée Zellweger
+2004,ACTOR IN A LEADING ROLE,False,Don Cheadle
+2004,ACTOR IN A LEADING ROLE,False,Johnny Depp
+2004,ACTOR IN A LEADING ROLE,False,Leonardo DiCaprio
+2004,ACTOR IN A LEADING ROLE,False,Clint Eastwood
+2004,ACTOR IN A LEADING ROLE,True,Jamie Foxx
+2004,ACTOR IN A SUPPORTING ROLE,False,Alan Alda
+2004,ACTOR IN A SUPPORTING ROLE,False,Thomas Haden Church
+2004,ACTOR IN A SUPPORTING ROLE,False,Jamie Foxx
+2004,ACTOR IN A SUPPORTING ROLE,True,Morgan Freeman
+2004,ACTOR IN A SUPPORTING ROLE,False,Clive Owen
+2004,ACTRESS IN A LEADING ROLE,False,Annette Bening
+2004,ACTRESS IN A LEADING ROLE,False,Catalina Sandino Moreno
+2004,ACTRESS IN A LEADING ROLE,False,Imelda Staunton
+2004,ACTRESS IN A LEADING ROLE,True,Hilary Swank
+2004,ACTRESS IN A LEADING ROLE,False,Kate Winslet
+2004,ACTRESS IN A SUPPORTING ROLE,True,Cate Blanchett
+2004,ACTRESS IN A SUPPORTING ROLE,False,Laura Linney
+2004,ACTRESS IN A SUPPORTING ROLE,False,Virginia Madsen
+2004,ACTRESS IN A SUPPORTING ROLE,False,Sophie Okonedo
+2004,ACTRESS IN A SUPPORTING ROLE,False,Natalie Portman
+2005,ACTOR IN A LEADING ROLE,True,Philip Seymour Hoffman
+2005,ACTOR IN A LEADING ROLE,False,Terrence Howard
+2005,ACTOR IN A LEADING ROLE,False,Heath Ledger
+2005,ACTOR IN A LEADING ROLE,False,Joaquin Phoenix
+2005,ACTOR IN A LEADING ROLE,False,David Strathairn
+2005,ACTOR IN A SUPPORTING ROLE,True,George Clooney
+2005,ACTOR IN A SUPPORTING ROLE,False,Matt Dillon
+2005,ACTOR IN A SUPPORTING ROLE,False,Paul Giamatti
+2005,ACTOR IN A SUPPORTING ROLE,False,Jake Gyllenhaal
+2005,ACTOR IN A SUPPORTING ROLE,False,William Hurt
+2005,ACTRESS IN A LEADING ROLE,False,Judi Dench
+2005,ACTRESS IN A LEADING ROLE,False,Felicity Huffman
+2005,ACTRESS IN A LEADING ROLE,False,Keira Knightley
+2005,ACTRESS IN A LEADING ROLE,False,Charlize Theron
+2005,ACTRESS IN A LEADING ROLE,True,Reese Witherspoon
+2005,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams
+2005,ACTRESS IN A SUPPORTING ROLE,False,Catherine Keener
+2005,ACTRESS IN A SUPPORTING ROLE,False,Frances McDormand
+2005,ACTRESS IN A SUPPORTING ROLE,True,Rachel Weisz
+2005,ACTRESS IN A SUPPORTING ROLE,False,Michelle Williams
+2006,ACTOR IN A LEADING ROLE,False,Leonardo DiCaprio
+2006,ACTOR IN A LEADING ROLE,False,Ryan Gosling
+2006,ACTOR IN A LEADING ROLE,False,Peter O'Toole
+2006,ACTOR IN A LEADING ROLE,False,Will Smith
+2006,ACTOR IN A LEADING ROLE,True,Forest Whitaker
+2006,ACTOR IN A SUPPORTING ROLE,True,Alan Arkin
+2006,ACTOR IN A SUPPORTING ROLE,False,Jackie Earle Haley
+2006,ACTOR IN A SUPPORTING ROLE,False,Djimon Hounsou
+2006,ACTOR IN A SUPPORTING ROLE,False,Eddie Murphy
+2006,ACTOR IN A SUPPORTING ROLE,False,Mark Wahlberg
+2006,ACTRESS IN A LEADING ROLE,False,Penélope Cruz
+2006,ACTRESS IN A LEADING ROLE,False,Judi Dench
+2006,ACTRESS IN A LEADING ROLE,True,Helen Mirren
+2006,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+2006,ACTRESS IN A LEADING ROLE,False,Kate Winslet
+2006,ACTRESS IN A SUPPORTING ROLE,False,Adriana Barraza
+2006,ACTRESS IN A SUPPORTING ROLE,False,Cate Blanchett
+2006,ACTRESS IN A SUPPORTING ROLE,False,Abigail Breslin
+2006,ACTRESS IN A SUPPORTING ROLE,True,Jennifer Hudson
+2006,ACTRESS IN A SUPPORTING ROLE,False,Rinko Kikuchi
+2007,ACTOR IN A LEADING ROLE,False,George Clooney
+2007,ACTOR IN A LEADING ROLE,True,Daniel Day-Lewis
+2007,ACTOR IN A LEADING ROLE,False,Johnny Depp
+2007,ACTOR IN A LEADING ROLE,False,Tommy Lee Jones
+2007,ACTOR IN A LEADING ROLE,False,Viggo Mortensen
+2007,ACTOR IN A SUPPORTING ROLE,False,Casey Affleck
+2007,ACTOR IN A SUPPORTING ROLE,True,Javier Bardem
+2007,ACTOR IN A SUPPORTING ROLE,False,Philip Seymour Hoffman
+2007,ACTOR IN A SUPPORTING ROLE,False,Hal Holbrook
+2007,ACTOR IN A SUPPORTING ROLE,False,Tom Wilkinson
+2007,ACTRESS IN A LEADING ROLE,False,Cate Blanchett
+2007,ACTRESS IN A LEADING ROLE,False,Julie Christie
+2007,ACTRESS IN A LEADING ROLE,True,Marion Cotillard
+2007,ACTRESS IN A LEADING ROLE,False,Laura Linney
+2007,ACTRESS IN A LEADING ROLE,False,Ellen Page
+2007,ACTRESS IN A SUPPORTING ROLE,False,Cate Blanchett
+2007,ACTRESS IN A SUPPORTING ROLE,False,Ruby Dee
+2007,ACTRESS IN A SUPPORTING ROLE,False,Saoirse Ronan
+2007,ACTRESS IN A SUPPORTING ROLE,False,Amy Ryan
+2007,ACTRESS IN A SUPPORTING ROLE,True,Tilda Swinton
+2008,ACTOR IN A LEADING ROLE,False,Richard Jenkins
+2008,ACTOR IN A LEADING ROLE,False,Frank Langella
+2008,ACTOR IN A LEADING ROLE,True,Sean Penn
+2008,ACTOR IN A LEADING ROLE,False,Brad Pitt
+2008,ACTOR IN A LEADING ROLE,False,Mickey Rourke
+2008,ACTOR IN A SUPPORTING ROLE,False,Josh Brolin
+2008,ACTOR IN A SUPPORTING ROLE,False,Robert Downey Jr.
+2008,ACTOR IN A SUPPORTING ROLE,False,Philip Seymour Hoffman
+2008,ACTOR IN A SUPPORTING ROLE,True,Heath Ledger
+2008,ACTOR IN A SUPPORTING ROLE,False,Michael Shannon
+2008,ACTRESS IN A LEADING ROLE,False,Anne Hathaway
+2008,ACTRESS IN A LEADING ROLE,False,Angelina Jolie
+2008,ACTRESS IN A LEADING ROLE,False,Melissa Leo
+2008,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+2008,ACTRESS IN A LEADING ROLE,True,Kate Winslet
+2008,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams
+2008,ACTRESS IN A SUPPORTING ROLE,True,Penélope Cruz
+2008,ACTRESS IN A SUPPORTING ROLE,False,Viola Davis
+2008,ACTRESS IN A SUPPORTING ROLE,False,Taraji P. Henson
+2008,ACTRESS IN A SUPPORTING ROLE,False,Marisa Tomei
+2009,ACTOR IN A LEADING ROLE,True,Jeff Bridges
+2009,ACTOR IN A LEADING ROLE,False,George Clooney
+2009,ACTOR IN A LEADING ROLE,False,Colin Firth
+2009,ACTOR IN A LEADING ROLE,False,Morgan Freeman
+2009,ACTOR IN A LEADING ROLE,False,Jeremy Renner
+2009,ACTOR IN A SUPPORTING ROLE,False,Matt Damon
+2009,ACTOR IN A SUPPORTING ROLE,False,Woody Harrelson
+2009,ACTOR IN A SUPPORTING ROLE,False,Christopher Plummer
+2009,ACTOR IN A SUPPORTING ROLE,False,Stanley Tucci
+2009,ACTOR IN A SUPPORTING ROLE,True,Christoph Waltz
+2009,ACTRESS IN A LEADING ROLE,True,Sandra Bullock
+2009,ACTRESS IN A LEADING ROLE,False,Helen Mirren
+2009,ACTRESS IN A LEADING ROLE,False,Carey Mulligan
+2009,ACTRESS IN A LEADING ROLE,False,Gabourey Sidibe
+2009,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+2009,ACTRESS IN A SUPPORTING ROLE,False,Penélope Cruz
+2009,ACTRESS IN A SUPPORTING ROLE,False,Vera Farmiga
+2009,ACTRESS IN A SUPPORTING ROLE,False,Maggie Gyllenhaal
+2009,ACTRESS IN A SUPPORTING ROLE,False,Anna Kendrick
+2009,ACTRESS IN A SUPPORTING ROLE,True,Mo'Nique
+2010,ACTOR IN A LEADING ROLE,False,Javier Bardem
+2010,ACTOR IN A LEADING ROLE,False,Jeff Bridges
+2010,ACTOR IN A LEADING ROLE,False,Jesse Eisenberg
+2010,ACTOR IN A LEADING ROLE,True,Colin Firth
+2010,ACTOR IN A LEADING ROLE,False,James Franco
+2010,ACTOR IN A SUPPORTING ROLE,True,Christian Bale
+2010,ACTOR IN A SUPPORTING ROLE,False,John Hawkes
+2010,ACTOR IN A SUPPORTING ROLE,False,Jeremy Renner
+2010,ACTOR IN A SUPPORTING ROLE,False,Mark Ruffalo
+2010,ACTOR IN A SUPPORTING ROLE,False,Geoffrey Rush
+2010,ACTRESS IN A LEADING ROLE,False,Annette Bening
+2010,ACTRESS IN A LEADING ROLE,False,Nicole Kidman
+2010,ACTRESS IN A LEADING ROLE,False,Jennifer Lawrence
+2010,ACTRESS IN A LEADING ROLE,True,Natalie Portman
+2010,ACTRESS IN A LEADING ROLE,False,Michelle Williams
+2010,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams
+2010,ACTRESS IN A SUPPORTING ROLE,False,Helena Bonham Carter
+2010,ACTRESS IN A SUPPORTING ROLE,True,Melissa Leo
+2010,ACTRESS IN A SUPPORTING ROLE,False,Hailee Steinfeld
+2010,ACTRESS IN A SUPPORTING ROLE,False,Jacki Weaver
+2011,ACTOR IN A LEADING ROLE,False,Demián Bichir
+2011,ACTOR IN A LEADING ROLE,False,George Clooney
+2011,ACTOR IN A LEADING ROLE,True,Jean Dujardin
+2011,ACTOR IN A LEADING ROLE,False,Gary Oldman
+2011,ACTOR IN A LEADING ROLE,False,Brad Pitt
+2011,ACTOR IN A SUPPORTING ROLE,False,Kenneth Branagh
+2011,ACTOR IN A SUPPORTING ROLE,False,Jonah Hill
+2011,ACTOR IN A SUPPORTING ROLE,False,Nick Nolte
+2011,ACTOR IN A SUPPORTING ROLE,True,Christopher Plummer
+2011,ACTOR IN A SUPPORTING ROLE,False,Max von Sydow
+2011,ACTRESS IN A LEADING ROLE,False,Glenn Close
+2011,ACTRESS IN A LEADING ROLE,False,Viola Davis
+2011,ACTRESS IN A LEADING ROLE,False,Rooney Mara
+2011,ACTRESS IN A LEADING ROLE,True,Meryl Streep
+2011,ACTRESS IN A LEADING ROLE,False,Michelle Williams
+2011,ACTRESS IN A SUPPORTING ROLE,False,Bérénice Bejo
+2011,ACTRESS IN A SUPPORTING ROLE,False,Jessica Chastain
+2011,ACTRESS IN A SUPPORTING ROLE,False,Melissa McCarthy
+2011,ACTRESS IN A SUPPORTING ROLE,False,Janet McTeer
+2011,ACTRESS IN A SUPPORTING ROLE,True,Octavia Spencer
+2012,ACTOR IN A LEADING ROLE,False,Bradley Cooper
+2012,ACTOR IN A LEADING ROLE,True,Daniel Day-Lewis
+2012,ACTOR IN A LEADING ROLE,False,Hugh Jackman
+2012,ACTOR IN A LEADING ROLE,False,Joaquin Phoenix
+2012,ACTOR IN A LEADING ROLE,False,Denzel Washington
+2012,ACTOR IN A SUPPORTING ROLE,False,Alan Arkin
+2012,ACTOR IN A SUPPORTING ROLE,False,Robert De Niro
+2012,ACTOR IN A SUPPORTING ROLE,False,Philip Seymour Hoffman
+2012,ACTOR IN A SUPPORTING ROLE,False,Tommy Lee Jones
+2012,ACTOR IN A SUPPORTING ROLE,True,Christoph Waltz
+2012,ACTRESS IN A LEADING ROLE,False,Jessica Chastain
+2012,ACTRESS IN A LEADING ROLE,True,Jennifer Lawrence
+2012,ACTRESS IN A LEADING ROLE,False,Emmanuelle Riva
+2012,ACTRESS IN A LEADING ROLE,False,Quvenzhané Wallis
+2012,ACTRESS IN A LEADING ROLE,False,Naomi Watts
+2012,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams
+2012,ACTRESS IN A SUPPORTING ROLE,False,Sally Field
+2012,ACTRESS IN A SUPPORTING ROLE,True,Anne Hathaway
+2012,ACTRESS IN A SUPPORTING ROLE,False,Helen Hunt
+2012,ACTRESS IN A SUPPORTING ROLE,False,Jacki Weaver
+2013,ACTOR IN A LEADING ROLE,False,Christian Bale
+2013,ACTOR IN A LEADING ROLE,False,Bruce Dern
+2013,ACTOR IN A LEADING ROLE,False,Leonardo DiCaprio
+2013,ACTOR IN A LEADING ROLE,False,Chiwetel Ejiofor
+2013,ACTOR IN A LEADING ROLE,True,Matthew McConaughey
+2013,ACTOR IN A SUPPORTING ROLE,False,Barkhad Abdi
+2013,ACTOR IN A SUPPORTING ROLE,False,Bradley Cooper
+2013,ACTOR IN A SUPPORTING ROLE,False,Michael Fassbender
+2013,ACTOR IN A SUPPORTING ROLE,False,Jonah Hill
+2013,ACTOR IN A SUPPORTING ROLE,True,Jared Leto
+2013,ACTRESS IN A LEADING ROLE,False,Amy Adams
+2013,ACTRESS IN A LEADING ROLE,True,Cate Blanchett
+2013,ACTRESS IN A LEADING ROLE,False,Sandra Bullock
+2013,ACTRESS IN A LEADING ROLE,False,Judi Dench
+2013,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+2013,ACTRESS IN A SUPPORTING ROLE,False,Sally Hawkins
+2013,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Lawrence
+2013,ACTRESS IN A SUPPORTING ROLE,True,Lupita Nyong'o
+2013,ACTRESS IN A SUPPORTING ROLE,False,Julia Roberts
+2013,ACTRESS IN A SUPPORTING ROLE,False,June Squibb
+2014,ACTOR IN A LEADING ROLE,False,Steve Carell
+2014,ACTOR IN A LEADING ROLE,False,Bradley Cooper
+2014,ACTOR IN A LEADING ROLE,False,Benedict Cumberbatch
+2014,ACTOR IN A LEADING ROLE,False,Michael Keaton
+2014,ACTOR IN A LEADING ROLE,True,Eddie Redmayne
+2014,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall
+2014,ACTOR IN A SUPPORTING ROLE,False,Ethan Hawke
+2014,ACTOR IN A SUPPORTING ROLE,False,Edward Norton
+2014,ACTOR IN A SUPPORTING ROLE,False,Mark Ruffalo
+2014,ACTOR IN A SUPPORTING ROLE,True,J.K. Simmons
+2014,ACTRESS IN A LEADING ROLE,False,Marion Cotillard
+2014,ACTRESS IN A LEADING ROLE,False,Felicity Jones
+2014,ACTRESS IN A LEADING ROLE,True,Julianne Moore
+2014,ACTRESS IN A LEADING ROLE,False,Rosamund Pike
+2014,ACTRESS IN A LEADING ROLE,False,Reese Witherspoon
+2014,ACTRESS IN A SUPPORTING ROLE,True,Patricia Arquette
+2014,ACTRESS IN A SUPPORTING ROLE,False,Laura Dern
+2014,ACTRESS IN A SUPPORTING ROLE,False,Keira Knightley
+2014,ACTRESS IN A SUPPORTING ROLE,False,Emma Stone
+2014,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep
+2015,ACTOR IN A LEADING ROLE,False,Bryan Cranston
+2015,ACTOR IN A LEADING ROLE,False,Matt Damon
+2015,ACTOR IN A LEADING ROLE,True,Leonardo DiCaprio
+2015,ACTOR IN A LEADING ROLE,False,Michael Fassbender
+2015,ACTOR IN A LEADING ROLE,False,Eddie Redmayne
+2015,ACTOR IN A SUPPORTING ROLE,False,Christian Bale
+2015,ACTOR IN A SUPPORTING ROLE,False,Tom Hardy
+2015,ACTOR IN A SUPPORTING ROLE,False,Mark Ruffalo
+2015,ACTOR IN A SUPPORTING ROLE,True,Mark Rylance
+2015,ACTOR IN A SUPPORTING ROLE,False,Sylvester Stallone
+2015,ACTRESS IN A LEADING ROLE,False,Cate Blanchett
+2015,ACTRESS IN A LEADING ROLE,True,Brie Larson
+2015,ACTRESS IN A LEADING ROLE,False,Jennifer Lawrence
+2015,ACTRESS IN A LEADING ROLE,False,Charlotte Rampling
+2015,ACTRESS IN A LEADING ROLE,False,Saoirse Ronan
+2015,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Jason Leigh
+2015,ACTRESS IN A SUPPORTING ROLE,False,Rooney Mara
+2015,ACTRESS IN A SUPPORTING ROLE,False,Rachel McAdams
+2015,ACTRESS IN A SUPPORTING ROLE,True,Alicia Vikander
+2015,ACTRESS IN A SUPPORTING ROLE,False,Kate Winslet
+2016,ACTOR IN A LEADING ROLE,True,Casey Affleck
+2016,ACTOR IN A LEADING ROLE,False,Andrew Garfield
+2016,ACTOR IN A LEADING ROLE,False,Ryan Gosling
+2016,ACTOR IN A LEADING ROLE,False,Viggo Mortensen
+2016,ACTOR IN A LEADING ROLE,False,Denzel Washington
+2016,ACTOR IN A SUPPORTING ROLE,True,Mahershala Ali
+2016,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges
+2016,ACTOR IN A SUPPORTING ROLE,False,Lucas Hedges
+2016,ACTOR IN A SUPPORTING ROLE,False,Dev Patel
+2016,ACTOR IN A SUPPORTING ROLE,False,Michael Shannon
+2016,ACTRESS IN A LEADING ROLE,False,Isabelle Huppert
+2016,ACTRESS IN A LEADING ROLE,False,Ruth Negga
+2016,ACTRESS IN A LEADING ROLE,False,Natalie Portman
+2016,ACTRESS IN A LEADING ROLE,True,Emma Stone
+2016,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+2016,ACTRESS IN A SUPPORTING ROLE,True,Viola Davis
+2016,ACTRESS IN A SUPPORTING ROLE,False,Naomie Harris
+2016,ACTRESS IN A SUPPORTING ROLE,False,Nicole Kidman
+2016,ACTRESS IN A SUPPORTING ROLE,False,Octavia Spencer
+2016,ACTRESS IN A SUPPORTING ROLE,False,Michelle Williams
+2017,ACTOR IN A LEADING ROLE,False,Timothée Chalamet
+2017,ACTOR IN A LEADING ROLE,False,Daniel Day-Lewis
+2017,ACTOR IN A LEADING ROLE,False,Daniel Kaluuya
+2017,ACTOR IN A LEADING ROLE,True,Gary Oldman
+2017,ACTOR IN A LEADING ROLE,False,Denzel Washington
+2017,ACTOR IN A SUPPORTING ROLE,False,Willem Dafoe
+2017,ACTOR IN A SUPPORTING ROLE,False,Woody Harrelson
+2017,ACTOR IN A SUPPORTING ROLE,False,Richard Jenkins
+2017,ACTOR IN A SUPPORTING ROLE,False,Christopher Plummer
+2017,ACTOR IN A SUPPORTING ROLE,True,Sam Rockwell
+2017,ACTRESS IN A LEADING ROLE,False,Sally Hawkins
+2017,ACTRESS IN A LEADING ROLE,True,Frances McDormand
+2017,ACTRESS IN A LEADING ROLE,False,Margot Robbie
+2017,ACTRESS IN A LEADING ROLE,False,Saoirse Ronan
+2017,ACTRESS IN A LEADING ROLE,False,Meryl Streep
+2017,ACTRESS IN A SUPPORTING ROLE,False,Mary J. Blige
+2017,ACTRESS IN A SUPPORTING ROLE,True,Allison Janney
+2017,ACTRESS IN A SUPPORTING ROLE,False,Lesley Manville
+2017,ACTRESS IN A SUPPORTING ROLE,False,Laurie Metcalf
+2017,ACTRESS IN A SUPPORTING ROLE,False,Octavia Spencer
