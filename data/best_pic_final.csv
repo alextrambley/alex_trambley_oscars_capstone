@@ -1,0 +1,534 @@
+Year,Category,Winner,Title,month,Rated,Runtime,Country,Director,Genre,Language,Production,Metascore,imdbRating
+1927,OUTSTANDING PICTURE,False,The Racket,11,PASSED,84,USA,Lewis Milestone,Crime,English,Paramount Pictures,,6.9
+1927,OUTSTANDING PICTURE,False,7th Heaven,10,Not Rated,110,USA,Frank Borzage,Drama,English,Fox,,7.8
+1927,OUTSTANDING PICTURE,True,Wings,1,PG-13,144,USA,"William A. Wellman, Harry d'Abbadie d'Arrast",Drama,English,Unknown,,7.5
+1928,OUTSTANDING PICTURE,False,In Old Arizona,1,PASSED,95,USA,Irving Cummings,Romance,English,20th Century Fox Film Corporation,,5.7
+1928,OUTSTANDING PICTURE,True,The Broadway Melody,6,Passed,100,USA,Harry Beaumont,Drama,English,MGM Home Entertainment,,5.7
+1929,OUTSTANDING PRODUCTION,True,All Quiet on the Western Front,8,Not Rated,136,USA,Lewis Milestone,Drama,English,Universal Pictures,91.0,8.0
+1929,OUTSTANDING PRODUCTION,False,The Big House,6,Passed,87,USA,"George W. Hill, Ward Wing",Crime,English,Warner Bros.,,7.2
+1929,OUTSTANDING PRODUCTION,False,Disraeli,11,PASSED,90,USA,Alfred E. Green,Biography,English,A & E,,6.4
+1929,OUTSTANDING PRODUCTION,False,The Divorcee,4,Passed,84,USA,Robert Z. Leonard,Romance,English,MGM,,6.8
+1929,OUTSTANDING PRODUCTION,False,The Love Parade,1,APPROVED,107,USA,Ernst Lubitsch,Comedy,English,Paramount Pictures,,7.2
+1930,OUTSTANDING PRODUCTION,True,Cimarron,2,Passed,123,USA,Wesley Ruggles,Drama,English,MGM Home Entertainment,,5.9
+1930,OUTSTANDING PRODUCTION,False,East Lynne,3,,102,USA,Frank Lloyd,Drama,English,,,6.9
+1930,OUTSTANDING PRODUCTION,False,The Front Page,4,TV-PG,101,USA,Lewis Milestone,Comedy,English,United Artists,,6.7
+1930,OUTSTANDING PRODUCTION,False,Skippy,4,Approved,85,USA,Norman Taurog,Comedy,English,Paramount Pictures,,6.3
+1930,OUTSTANDING PRODUCTION,False,Trader Horn,5,PASSED,122,USA,W.S. Van Dyke,Action,English,MGM,,6.4
+1931,OUTSTANDING PRODUCTION,False,Arrowsmith,12,PASSED,108,USA,John Ford,Drama,English,United Artists,,6.2
+1931,OUTSTANDING PRODUCTION,False,Bad Girl,9,Passed,90,USA,Frank Borzage,Drama,English,,,6.6
+1931,OUTSTANDING PRODUCTION,False,The Champ,11,Passed,86,USA,King Vidor,Drama,English,MGM,,7.3
+1931,OUTSTANDING PRODUCTION,False,Five Star Final,9,NOT RATED,89,USA,Mervyn LeRoy,Crime,English,Vitaphone Corporation,,7.3
+1931,OUTSTANDING PRODUCTION,True,Grand Hotel,9,Not Rated,112,USA,Edmund Goulding,Drama,English,MGM Home Entertainment,,7.4
+1931,OUTSTANDING PRODUCTION,False,One Hour with You,3,Passed,78,USA,"George Cukor, Ernst Lubitsch",Comedy,English,Paramount Pictures,,7.3
+1931,OUTSTANDING PRODUCTION,False,Shanghai Express,2,Approved,82,USA,Josef von Sternberg,Adventure,English,Paramount Pictures,,7.3
+1931,OUTSTANDING PRODUCTION,False,The Smiling Lieutenant,8,Passed,93,USA,Ernst Lubitsch,Comedy,English,Paramount Pictures,,7.7
+1932,OUTSTANDING PRODUCTION,True,Cavalcade,4,Passed,112,USA,Frank Lloyd,Drama,English,20th Century Fox Film Corporation,,5.9
+1932,OUTSTANDING PRODUCTION,False,A Farewell to Arms,12,Unrated,80,USA,Frank Borzage,Drama,English,Gravitas,,6.5
+1932,OUTSTANDING PRODUCTION,False,42nd Street,3,Passed,89,USA,Lloyd Bacon,Comedy,English,MGM Home Entertainment,,7.4
+1932,OUTSTANDING PRODUCTION,False,I Am a Fugitive from a Chain Gang,11,Passed,92,USA,Mervyn LeRoy,Crime,English,Vitaphone Corporation,,8.2
+1932,OUTSTANDING PRODUCTION,False,Lady for a Day,9,Passed,96,USA,Frank Capra,Comedy,English,Columbia Pictures,,7.4
+1932,OUTSTANDING PRODUCTION,False,Little Women,11,Not Rated,115,USA,George Cukor,Drama,English,WARNER BROTHERS PICTURES,92.0,7.2
+1932,OUTSTANDING PRODUCTION,False,She Done Him Wrong,2,Passed,66,USA,Lowell Sherman,Comedy,English,MCA Universal Home Video,,6.5
+1932,OUTSTANDING PRODUCTION,False,Smilin' Through,9,Approved,98,USA,Sidney Franklin,Drama,English,MGM,,6.9
+1932,OUTSTANDING PRODUCTION,False,State Fair,2,Passed,99,USA,Henry King,Comedy,English,20th Century Fox Film Corporation,,6.9
+1934,OUTSTANDING PRODUCTION,False,The Barretts of Wimpole Street,9,PASSED,109,USA,Sidney Franklin,Biography,English,MGM,,7.0
+1934,OUTSTANDING PRODUCTION,False,Cleopatra,10,Passed,100,USA,Cecil B. DeMille,Biography,English,Paramount Pictures,,6.8
+1934,OUTSTANDING PRODUCTION,False,Cleopatra,7,G,192,Switzerland,Joseph L. Mankiewicz,Biography,English,20th Century Fox,60.0,7.0
+1963,BEST PICTURE,False,Cleopatra,10,Passed,100,USA,Cecil B. DeMille,Biography,English,Paramount Pictures,,6.8
+1963,BEST PICTURE,False,Cleopatra,7,G,192,Switzerland,Joseph L. Mankiewicz,Biography,English,20th Century Fox,60.0,7.0
+1934,OUTSTANDING PRODUCTION,False,Flirtation Walk,12,NOT RATED,97,USA,Frank Borzage,Musical,English,Warner Brothers,,5.8
+1934,OUTSTANDING PRODUCTION,False,The Gay Divorcee,10,Approved,107,USA,Mark Sandrich,Comedy,English,RKO Radio Pictures,,7.5
+1934,OUTSTANDING PRODUCTION,False,Here Comes the Navy,7,APPROVED,87,USA,Lloyd Bacon,Comedy,English,Warner Bros.,,6.4
+1934,OUTSTANDING PRODUCTION,False,The House of Rothschild,4,PASSED,88,USA,"Alfred L. Werker, Sidney Lanfield",Biography,English,20th Century Fox Film Corporation,,6.8
+1934,OUTSTANDING PRODUCTION,False,Imitation of Life,11,Approved,111,USA,John M. Stahl,Drama,English,Universal Studios,,7.5
+1934,OUTSTANDING PRODUCTION,True,It Happened One Night,2,Not Rated,105,USA,Frank Capra,Comedy,English,Sony Pictures Home Entertainment,87.0,8.1
+1934,OUTSTANDING PRODUCTION,False,One Night of Love,9,PASSED,84,USA,Victor Schertzinger,Music,English,Sony Pictures Home Entertainment,,5.9
+1934,OUTSTANDING PRODUCTION,False,The Thin Man,5,Not Rated,91,USA,W.S. Van Dyke,Comedy,English,MGM,,8.0
+1934,OUTSTANDING PRODUCTION,False,Viva Villa!,4,,115,USA,"Jack Conway, Howard Hawks, William A. Wellman",Biography,English,MGM,,6.5
+1934,OUTSTANDING PRODUCTION,False,The White Parade,11,APPROVED,80,USA,Irving Cummings,Drama,English,,,7.0
+1935,OUTSTANDING PRODUCTION,False,Alice Adams,11,Passed,99,USA,George Stevens,Comedy,English,Turner Home Entertainment,,7.0
+1935,OUTSTANDING PRODUCTION,False,Broadway Melody of 1936,9,Passed,101,USA,"Roy Del Ruth, W.S. Van Dyke",Musical,English,MGM,,6.8
+1935,OUTSTANDING PRODUCTION,False,Captain Blood,12,Passed,119,USA,Michael Curtiz,Action,English,Twentieth Century Fox Home Entertainment,,7.7
+1935,OUTSTANDING PRODUCTION,False,David Copperfield,6,Passed,130,USA,George Cukor,Adventure,English,WARNER BROTHERS PICTURES,,7.5
+1935,OUTSTANDING PRODUCTION,False,The Informer,5,Approved,91,USA,John Ford,Crime,English,Media Home Entertainment,,7.5
+1935,OUTSTANDING PRODUCTION,False,The Lives of a Bengal Lancer,2,Passed,109,USA,Henry Hathaway,Adventure,English,Paramount Pictures,,7.2
+1935,OUTSTANDING PRODUCTION,False,A Midsummer Night's Dream,10,Approved,133,USA,"William Dieterle, Max Reinhardt",Comedy,English,Warner Bros.,,6.9
+1935,OUTSTANDING PRODUCTION,True,Mutiny on the Bounty,11,Not Rated,132,USA,Frank Lloyd,Adventure,English,MGM,87.0,7.7
+1935,OUTSTANDING PRODUCTION,True,Mutiny on the Bounty,11,Not Rated,178,USA,"Lewis Milestone, Carol Reed",Adventure,English,WARNER BROTHERS PICTURES,,7.3
+1962,BEST PICTURE,False,Mutiny on the Bounty,11,Not Rated,132,USA,Frank Lloyd,Adventure,English,MGM,87.0,7.7
+1962,BEST PICTURE,False,Mutiny on the Bounty,11,Not Rated,178,USA,"Lewis Milestone, Carol Reed",Adventure,English,WARNER BROTHERS PICTURES,,7.3
+1935,OUTSTANDING PRODUCTION,False,Naughty Marietta,3,G,105,USA,"Robert Z. Leonard, W.S. Van Dyke",Drama,English,MGM Home Entertainment,,6.7
+1935,OUTSTANDING PRODUCTION,False,Ruggles of Red Gap,3,NOT RATED,90,USA,Leo McCarey,Comedy,English,MCA Universal Home Video,,7.7
+1935,OUTSTANDING PRODUCTION,False,Top Hat,9,Not Rated,101,USA,Mark Sandrich,Comedy,English,Turner Home Entertainment,,7.8
+1936,OUTSTANDING PRODUCTION,False,Anthony Adverse,8,NOT RATED,141,USA,"Mervyn LeRoy, Michael Curtiz",Adventure,English,Warner Bros.,,6.5
+1936,OUTSTANDING PRODUCTION,False,Dodsworth,9,Passed,101,USA,William Wyler,Drama,English,Samuel Goldwyn Films,,7.8
+1936,OUTSTANDING PRODUCTION,True,The Great Ziegfeld,4,Not Rated,176,USA,Robert Z. Leonard,Biography,English,MGM Home Entertainment,,6.8
+1936,OUTSTANDING PRODUCTION,False,Libeled Lady,10,Not Rated,98,USA,Jack Conway,Comedy,English,Warner Home Video,,7.8
+1936,OUTSTANDING PRODUCTION,False,Mr. Deeds Goes to Town,4,Not Rated,115,USA,Frank Capra,Comedy,English,Columbia Pictures,,8.0
+1936,OUTSTANDING PRODUCTION,False,Romeo and Juliet,9,Passed,125,USA,George Cukor,Drama,English,MGM,,6.7
+1936,OUTSTANDING PRODUCTION,False,Romeo and Juliet,10,PG,138,UK,Franco Zeffirelli,Drama,English,Paramount Home Video,,7.6
+1968,BEST PICTURE,False,Romeo and Juliet,9,Passed,125,USA,George Cukor,Drama,English,MGM,,6.7
+1968,BEST PICTURE,False,Romeo and Juliet,10,PG,138,UK,Franco Zeffirelli,Drama,English,Paramount Home Video,,7.6
+1936,OUTSTANDING PRODUCTION,False,San Francisco,6,Unrated,115,USA,W.S. Van Dyke,Drama,English,MGM,,7.2
+1936,OUTSTANDING PRODUCTION,False,The Story of Louis Pasteur,2,UNRATED,86,USA,William Dieterle,Biography,English,MGM Home Entertainment,,7.4
+1936,OUTSTANDING PRODUCTION,False,A Tale of Two Cities,12,Passed,128,USA,"Jack Conway, Robert Z. Leonard",Drama,English,Warner Home Video,,7.8
+1936,OUTSTANDING PRODUCTION,False,Three Smart Girls,12,APPROVED,84,USA,Henry Koster,Comedy,English,Universal Pictures,,6.8
+1937,OUTSTANDING PRODUCTION,False,The Awful Truth,10,Not Rated,90,USA,Leo McCarey,Comedy,English,Columbia,,7.7
+1937,OUTSTANDING PRODUCTION,False,Captains Courageous,6,Passed,117,USA,Victor Fleming,Adventure,English,MGM Home Entertainment,,8.0
+1937,OUTSTANDING PRODUCTION,False,Dead End,8,Approved,93,USA,William Wyler,Crime,English,MGM,,7.4
+1937,OUTSTANDING PRODUCTION,False,The Good Earth,8,PASSED,138,USA,"Sidney Franklin, Victor Fleming, Gustav Machatý, Sam Wood",Drama,English,WARNER BROTHERS PICTURES,,7.7
+1937,OUTSTANDING PRODUCTION,False,In Old Chicago,4,APPROVED,95,USA,Henry King,Action,English,20th Century Fox Film Corporation,,6.9
+1937,OUTSTANDING PRODUCTION,True,The Life of Emile Zola,10,Not Rated,116,USA,William Dieterle,Biography,English,MGM Home Entertainment,,7.2
+1937,OUTSTANDING PRODUCTION,False,Lost Horizon,9,Approved,132,USA,Frank Capra,Adventure,English,Sony Pictures Home Entertainment,,7.7
+1937,OUTSTANDING PRODUCTION,False,One Hundred Men and a Girl,9,APPROVED,84,USA,Henry Koster,Comedy,English,Universal,,6.9
+1937,OUTSTANDING PRODUCTION,False,Stage Door,10,Approved,92,USA,Gregory La Cava,Comedy,English,Warner Home Video,,7.7
+1937,OUTSTANDING PRODUCTION,False,A Star Is Born,4,Passed,111,USA,"William A. Wellman, Jack Conway",Drama,English,Image Entertainment Inc.,77.0,7.6
+1938,OUTSTANDING PRODUCTION,False,The Adventures of Robin Hood,5,PG,102,USA,"Michael Curtiz, William Keighley",Action,English,Warner Bros.,97.0,7.9
+1938,OUTSTANDING PRODUCTION,False,Alexander's Ragtime Band,8,APPROVED,106,USA,Henry King,Drama,English,20th Century Fox Film Corporation,,7.0
+1938,OUTSTANDING PRODUCTION,False,Boys Town,9,Passed,96,USA,Norman Taurog,Biography,English,MGM Home Entertainment,,7.3
+1938,OUTSTANDING PRODUCTION,False,The Citadel,10,PASSED,110,UK,King Vidor,Drama,English,MGM Home Entertainment,,7.2
+1938,OUTSTANDING PRODUCTION,False,Four Daughters,8,Approved,90,USA,Michael Curtiz,Drama,English,Warner Brothers,,7.0
+1938,OUTSTANDING PRODUCTION,False,Jezebel,3,Approved,104,USA,William Wyler,Drama,English,MGM Home Entertainment,,7.5
+1938,OUTSTANDING PRODUCTION,False,Pygmalion,3,Not Rated,89,UK,"Anthony Asquith, Leslie Howard",Comedy,English,Criterion Collection,,7.8
+1938,OUTSTANDING PRODUCTION,False,Test Pilot,4,Passed,119,USA,Victor Fleming,Drama,English,MGM,,6.9
+1938,OUTSTANDING PRODUCTION,True,You Can't Take It with You,9,Passed,126,USA,Frank Capra,Comedy,English,Columbia Pictures,,7.9
+1939,OUTSTANDING PRODUCTION,False,Dark Victory,4,Approved,104,USA,Edmund Goulding,Drama,English,Twentieth Century Fox Home Entertainment,,7.6
+1939,OUTSTANDING PRODUCTION,True,Gone with the Wind,1,Passed,238,USA,"Victor Fleming, George Cukor, Sam Wood",Drama,English,Loew&#39;s Inc.,97.0,8.1
+1939,OUTSTANDING PRODUCTION,False,"Goodbye, Mr. Chips",7,Unrated,114,UK,"Sam Wood, Sidney Franklin",Drama,English,MGM Home Entertainment,,7.9
+1939,OUTSTANDING PRODUCTION,False,Love Affair,4,Approved,88,USA,Leo McCarey,Comedy,English,Madacy Entertainment,,7.3
+1939,OUTSTANDING PRODUCTION,False,Mr. Smith Goes to Washington,10,Not Rated,129,USA,Frank Capra,Comedy,English,ITVS,73.0,8.1
+1939,OUTSTANDING PRODUCTION,False,Ninotchka,11,Not Rated,110,USA,Ernst Lubitsch,Comedy,English,Warner Bros. Pictures,,7.9
+1939,OUTSTANDING PRODUCTION,False,Of Mice and Men,1,Approved,106,USA,Lewis Milestone,Drama,English,United Artists,,7.9
+1939,OUTSTANDING PRODUCTION,False,Stagecoach,3,Passed,96,USA,John Ford,Adventure,English,Warner Home Video,93.0,7.9
+1939,OUTSTANDING PRODUCTION,False,The Wizard of Oz,8,PG,102,USA,"Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, Richard Thorpe, King Vidor",Adventure,English,Warner Bros. Pictures,100.0,8.0
+1939,OUTSTANDING PRODUCTION,False,Wuthering Heights,4,Not Rated,104,USA,William Wyler,Drama,English,United Artists,,7.6
+1940,OUTSTANDING PRODUCTION,False,"All This, and Heaven Too",7,Approved,141,USA,Anatole Litvak,Drama,English,Warner Bros. Pictures,,7.6
+1940,OUTSTANDING PRODUCTION,False,Foreign Correspondent,8,Passed,120,USA,Alfred Hitchcock,Action,English,Warner Home Video,,7.5
+1940,OUTSTANDING PRODUCTION,False,The Grapes of Wrath,3,Passed,129,USA,John Ford,Drama,English,20th Century Fox Film Corporation,96.0,8.0
+1940,OUTSTANDING PRODUCTION,False,The Great Dictator,3,Passed,125,USA,Charles Chaplin,Comedy,English,Criterion Collection,,8.5
+1940,OUTSTANDING PRODUCTION,False,Kitty Foyle,12,Approved,108,USA,Sam Wood,Drama,English,Media Home Entertainment,,7.0
+1940,OUTSTANDING PRODUCTION,False,The Letter,11,Not Rated,95,USA,William Wyler,Crime,English,MGM Home Entertainment,,7.6
+1940,OUTSTANDING PRODUCTION,False,The Long Voyage Home,11,Approved,105,USA,John Ford,Drama,English,Criterion Collection,,7.0
+1940,OUTSTANDING PRODUCTION,False,Our Town,5,NOT RATED,90,USA,Sam Wood,Drama,English,United Artists,,6.8
+1940,OUTSTANDING PRODUCTION,False,The Philadelphia Story,1,Not Rated,112,USA,George Cukor,Comedy,English,MGM,96.0,7.9
+1940,OUTSTANDING PRODUCTION,True,Rebecca,4,Not Rated,130,USA,Alfred Hitchcock,Drama,English,United Artists,,8.1
+1941,OUTSTANDING MOTION PICTURE,False,Blossoms in the Dust,8,Approved,99,USA,Mervyn LeRoy,Biography,English,WARNER BROTHERS PICTURES,,6.9
+1941,OUTSTANDING MOTION PICTURE,False,Citizen Kane,9,PG,119,USA,Orson Welles,Drama,English,RKO Radio Pictures,100.0,8.3
+1941,OUTSTANDING MOTION PICTURE,False,Here Comes Mr. Jordan,8,Not Rated,94,USA,Alexander Hall,Comedy,English,Sony Pictures Entertainment,,7.6
+1941,OUTSTANDING MOTION PICTURE,False,Hold Back the Dawn,9,Not Rated,116,USA,Mitchell Leisen,Drama,English,Paramount Pictures,,7.4
+1941,OUTSTANDING MOTION PICTURE,True,How Green Was My Valley,4,Not Rated,118,USA,John Ford,Drama,English,Twentieth Century Fox Home Entertainment,,7.7
+1941,OUTSTANDING MOTION PICTURE,False,The Little Foxes,8,Approved,116,USA,William Wyler,Drama,English,RKO,,8.2
+1941,OUTSTANDING MOTION PICTURE,False,The Maltese Falcon,10,Not Rated,100,USA,John Huston,Film-Noir,English,Warner Bros.,96.0,8.0
+1941,OUTSTANDING MOTION PICTURE,False,One Foot in Heaven,11,Approved,108,USA,Irving Rapper,Biography,English,Warner Bros.,,7.0
+1941,OUTSTANDING MOTION PICTURE,False,Sergeant York,9,Not Rated,134,USA,Howard Hawks,Biography,English,Warner Bros. Pictures,,7.7
+1941,OUTSTANDING MOTION PICTURE,False,Suspicion,11,Not Rated,99,USA,Alfred Hitchcock,Mystery,English,WARNER BROTHERS PICTURES,83.0,7.4
+1942,OUTSTANDING MOTION PICTURE,False,Kings Row,4,Passed,127,USA,Sam Wood,Drama,English,Warner Home Video,,7.6
+1942,OUTSTANDING MOTION PICTURE,False,The Magnificent Ambersons,7,Not Rated,88,USA,"Orson Welles, Fred Fleck, Robert Wise",Drama,English,RKO Radio Pictures,93.0,7.7
+1942,OUTSTANDING MOTION PICTURE,True,Mrs. Miniver,12,Not Rated,134,USA,William Wyler,Drama,English,MGM Home Entertainment,,7.6
+1942,OUTSTANDING MOTION PICTURE,False,The Pied Piper,8,,87,USA,Irving Pichel,Drama,English,20th Century Fox Film Corporation,,7.1
+1942,OUTSTANDING MOTION PICTURE,False,The Pride of the Yankees,3,Approved,128,USA,Sam Wood,Biography,English,MGM,,7.7
+1942,OUTSTANDING MOTION PICTURE,False,Random Harvest,8,Passed,126,USA,Mervyn LeRoy,Drama,English,MGM Home Entertainment,,8.0
+1942,OUTSTANDING MOTION PICTURE,False,The Talk of the Town,8,Approved,118,USA,George Stevens,Comedy,English,Sony Pictures Entertainment,,7.5
+1942,OUTSTANDING MOTION PICTURE,False,Wake Island,8,Approved,88,USA,John Farrow,Action,English,MCA Universal Home Video,,6.8
+1942,OUTSTANDING MOTION PICTURE,False,Yankee Doodle Dandy,6,Passed,126,USA,Michael Curtiz,Biography,English,MGM Home Entertainment,,7.7
+1943,OUTSTANDING MOTION PICTURE,True,Casablanca,1,PG,102,USA,Michael Curtiz,Drama,English,Warner Bros. Pictures,100.0,8.5
+1943,OUTSTANDING MOTION PICTURE,False,For Whom the Bell Tolls,7,Passed,170,USA,Sam Wood,Adventure,English,MCA Universal Home Video,,6.9
+1943,OUTSTANDING MOTION PICTURE,False,Heaven Can Wait,8,Not Rated,112,USA,Ernst Lubitsch,Comedy,English,20th Century Fox Film Corporation,,7.5
+1943,OUTSTANDING MOTION PICTURE,False,Heaven Can Wait,6,PG,101,USA,"Warren Beatty, Buck Henry",Comedy,English,Paramount Home Video,72.0,6.9
+1978,BEST PICTURE,False,Heaven Can Wait,8,Not Rated,112,USA,Ernst Lubitsch,Comedy,English,20th Century Fox Film Corporation,,7.5
+1978,BEST PICTURE,False,Heaven Can Wait,6,PG,101,USA,"Warren Beatty, Buck Henry",Comedy,English,Paramount Home Video,72.0,6.9
+1943,OUTSTANDING MOTION PICTURE,False,The Human Comedy,2,Passed,117,USA,Clarence Brown,Comedy,English,Warner Home Video,,7.1
+1943,OUTSTANDING MOTION PICTURE,False,In Which We Serve,12,Not Rated,115,UK,"Noël Coward, David Lean",Drama,English,MCA Universal Home Video,,7.3
+1943,OUTSTANDING MOTION PICTURE,False,Madame Curie,2,Not Rated,124,USA,"Mervyn LeRoy, Albert Lewin",Biography,English,Warner Bros. Pictures,,7.2
+1943,OUTSTANDING MOTION PICTURE,False,The More the Merrier,5,Passed,104,USA,George Stevens,Comedy,English,Columbia Pictures,,7.8
+1943,OUTSTANDING MOTION PICTURE,False,The Ox-Bow Incident,5,Not Rated,75,USA,William A. Wellman,Drama,English,20th Century Fox Film Corporat,,8.0
+1943,OUTSTANDING MOTION PICTURE,False,The Song of Bernadette,4,Approved,156,USA,Henry King,Biography,English,Twentieth Century Fox Home Entertainment,,7.6
+1943,OUTSTANDING MOTION PICTURE,False,Watch on the Rhine,8,Approved,114,USA,"Herman Shumlin, Hal Mohr",Drama,English,Warner Home Video,,7.4
+1944,BEST MOTION PICTURE,False,Double Indemnity,7,Passed,107,USA,Billy Wilder,Crime,English,Paramount Pictures,95.0,8.3
+1944,BEST MOTION PICTURE,False,Gaslight,10,Not Rated,114,USA,George Cukor,Crime,English,MGM,,7.8
+1944,BEST MOTION PICTURE,True,Going My Way,10,Passed,126,USA,Leo McCarey,Comedy,English,Paramount Pictures,,7.1
+1944,BEST MOTION PICTURE,False,Since You Went Away,7,Approved,177,USA,"John Cromwell, Edward F. Cline, Tay Garnett, David O. Selznick",Drama,English,United Artists,,7.6
+1944,BEST MOTION PICTURE,False,Wilson,8,Passed,154,USA,Henry King,Biography,English,Twentieth Century Fox Film Cor,,6.8
+1945,BEST MOTION PICTURE,False,Anchors Aweigh,8,Passed,140,USA,George Sidney,Comedy,English,MGM Home Entertainment,,7.1
+1945,BEST MOTION PICTURE,False,The Bells of St. Mary's,2,Unrated,126,USA,Leo McCarey,Drama,English,RKO Radio Pictures,,7.3
+1945,BEST MOTION PICTURE,True,The Lost Weekend,1,Not Rated,101,USA,Billy Wilder,Drama,English,Paramount Pictures,,7.9
+1945,BEST MOTION PICTURE,False,Mildred Pierce,10,Passed,111,USA,Michael Curtiz,Crime,English,MGM Home Entertainment,,8.0
+1945,BEST MOTION PICTURE,False,Spellbound,12,Approved,111,USA,Alfred Hitchcock,Film-Noir,English,Twentieth Century Fox Home Entertainment,,7.6
+1946,BEST MOTION PICTURE,True,The Best Years of Our Lives,5,Approved,170,USA,William Wyler,Drama,English,RKO Radio Pictures,92.0,8.0
+1946,BEST MOTION PICTURE,False,Henry V,10,Not Rated,137,UK,Laurence Olivier,Biography,English,Paramount Home Video,,7.1
+1946,BEST MOTION PICTURE,False,It's a Wonderful Life,1,Not Rated,130,USA,Frank Capra,Drama,English,Liberty Films,89.0,8.6
+1946,BEST MOTION PICTURE,False,The Razor's Edge,12,Approved,145,USA,Edmund Goulding,Drama,English,Twentieth Century Fox,,7.4
+1946,BEST MOTION PICTURE,False,The Yearling,5,Approved,128,USA,Clarence Brown,Drama,English,MGM Home Entertainment,89.0,7.2
+1947,BEST MOTION PICTURE,False,The Bishop's Wife,2,Not Rated,109,USA,Henry Koster,Comedy,English,RKO Radio Pictures,,7.6
+1947,BEST MOTION PICTURE,False,Crossfire,8,Approved,86,USA,Edward Dmytryk,Crime,English,WARNER BROTHERS PICTURES,,7.3
+1947,BEST MOTION PICTURE,True,Gentleman's Agreement,3,Not Rated,118,USA,Elia Kazan,Drama,English,Twentieth Century Fox Home Entertainment,,7.2
+1947,BEST MOTION PICTURE,False,Great Expectations,5,Not Rated,118,UK,David Lean,Adventure,English,Universal Pictures,,7.8
+1947,BEST MOTION PICTURE,False,Miracle on 34th Street,10,Not Rated,96,USA,George Seaton,Comedy,English,20th Century Fox,88.0,7.9
+1948,BEST MOTION PICTURE,True,Hamlet,8,Not Rated,154,UK,Laurence Olivier,Drama,English,Universal,,7.7
+1948,BEST MOTION PICTURE,False,Johnny Belinda,9,Unrated,102,USA,Jean Negulesco,Drama,English,Warner Bros. Pictures,,7.8
+1948,BEST MOTION PICTURE,False,The Red Shoes,9,Not Rated,135,UK,"Michael Powell, Emeric Pressburger",Drama,English,Eagle-Lion Films,,8.2
+1948,BEST MOTION PICTURE,False,The Snake Pit,11,Not Rated,108,USA,Anatole Litvak,Drama,English,20th Century Fox Film Corporation,,7.6
+1948,BEST MOTION PICTURE,False,The Treasure of the Sierra Madre,1,Passed,126,USA,John Huston,Adventure,English,WARNER BROTHERS PICTURES,98.0,8.2
+1949,BEST MOTION PICTURE,True,All the King's Men,1,Approved,110,USA,Robert Rossen,Drama,English,Sony Pictures Home Entertainment,,7.5
+1949,BEST MOTION PICTURE,False,Battleground,1,Approved,118,USA,William A. Wellman,Action,English,MGM,,7.4
+1949,BEST MOTION PICTURE,False,The Heiress,12,Not Rated,115,USA,William Wyler,Drama,English,Paramount Pictures,,8.2
+1949,BEST MOTION PICTURE,False,A Letter to Three Wives,2,Not Rated,103,USA,Joseph L. Mankiewicz,Drama,English,Fox,,7.8
+1949,BEST MOTION PICTURE,False,Twelve O'Clock High,2,Not Rated,132,USA,Henry King,Drama,English,Twentieth Century Fox Home Entertainment,,7.7
+1950,BEST MOTION PICTURE,False,Born Yesterday,2,Not Rated,103,USA,George Cukor,Comedy,English,Columbia Pictures,,7.6
+1950,BEST MOTION PICTURE,False,Father of the Bride,6,Not Rated,92,USA,Vincente Minnelli,Comedy,English,MGM,,7.2
+1950,BEST MOTION PICTURE,False,King Solomon's Mines,11,Passed,103,USA,"Compton Bennett, Andrew Marton",Action,English,MGM Home Entertainment,,6.8
+1950,BEST MOTION PICTURE,False,Sunset Blvd.,9,Not Rated,110,USA,Billy Wilder,Drama,English,Paramount Pictures,,8.4
+1951,BEST MOTION PICTURE,True,An American in Paris,11,Passed,114,USA,Vincente Minnelli,Drama,English,MGM,84.0,7.2
+1951,BEST MOTION PICTURE,False,A Place in the Sun,10,Passed,122,USA,George Stevens,Drama,English,Paramount Pictures,76.0,7.8
+1951,BEST MOTION PICTURE,False,Quo Vadis,12,Not Rated,171,USA,"Mervyn LeRoy, Anthony Mann",Biography,English,MGM Home Entertainment,,7.2
+1951,BEST MOTION PICTURE,False,A Streetcar Named Desire,12,PG,122,USA,Elia Kazan,Drama,English,Warner Bros. Pictures,96.0,8.0
+1952,BEST MOTION PICTURE,True,The Greatest Show on Earth,5,Passed,152,USA,Cecil B. DeMille,Drama,English,Paramount Pictures,,6.6
+1952,BEST MOTION PICTURE,False,High Noon,7,PG,85,USA,Fred Zinnemann,Drama,English,United Artists,89.0,7.9
+1952,BEST MOTION PICTURE,False,Ivanhoe,2,Approved,106,UK,Richard Thorpe,Adventure,English,MGM Home Entertainment,,6.8
+1952,BEST MOTION PICTURE,False,Moulin Rouge,4,Not Rated,119,UK,John Huston,Biography,English,United Artists,,7.1
+2001,BEST PICTURE,False,Moulin Rouge,4,Not Rated,119,UK,John Huston,Biography,English,United Artists,,7.1
+1952,BEST MOTION PICTURE,False,The Quiet Man,9,Passed,129,USA,John Ford,Comedy,English,Republic Pictures,,7.8
+1953,BEST MOTION PICTURE,True,From Here to Eternity,8,Passed,118,USA,Fred Zinnemann,Drama,English,NCM Fathom,85.0,7.6
+1953,BEST MOTION PICTURE,False,Julius Caesar,6,Not Rated,120,USA,Joseph L. Mankiewicz,Biography,English,MGM Home Entertainment,,7.3
+1953,BEST MOTION PICTURE,False,The Robe,12,Unrated,135,USA,Henry Koster,Drama,English,20th Century Fox,,6.7
+1953,BEST MOTION PICTURE,False,Roman Holiday,9,Not Rated,118,USA,William Wyler,Comedy,English,Paramount Pictures,78.0,8.0
+1953,BEST MOTION PICTURE,False,Shane,10,Not Rated,118,USA,George Stevens,Drama,English,Paramount Home Video,80.0,7.6
+1954,BEST MOTION PICTURE,False,The Caine Mutiny,6,Not Rated,124,USA,Edward Dmytryk,Drama,English,Sony Pictures Home Entertainment,63.0,7.7
+1954,BEST MOTION PICTURE,False,The Country Girl,5,Unrated,104,USA,George Seaton,Drama,English,Paramount Pictures,,7.3
+1954,BEST MOTION PICTURE,True,On the Waterfront,6,Not Rated,108,USA,Elia Kazan,Crime,English,Sony Pictures,91.0,8.1
+1954,BEST MOTION PICTURE,False,Seven Brides for Seven Brothers,8,G,102,USA,Stanley Donen,Comedy,English,MGM Home Entertainment,75.0,7.4
+1954,BEST MOTION PICTURE,False,Three Coins in the Fountain,5,G,102,USA,Jean Negulesco,Drama,English,20th Century Fox Film Corporation,,6.3
+1955,BEST MOTION PICTURE,False,Love Is a Many-Splendored Thing,9,Approved,102,USA,"Henry King, Otto Lang",Biography,English,20th Century Fox Film Corporation,,6.5
+1955,BEST MOTION PICTURE,True,Marty,6,Not Rated,90,USA,Delbert Mann,Drama,English,MGM Home Entertainment,,7.7
+1955,BEST MOTION PICTURE,False,Mister Roberts,7,Not Rated,123,USA,"John Ford, Mervyn LeRoy, Joshua Logan",Comedy,English,Warner Home Video,,7.7
+1955,BEST MOTION PICTURE,False,The Rose Tattoo,12,Unrated,117,USA,Daniel Mann,Comedy,English,Paramount Pictures,,7.2
+1956,BEST MOTION PICTURE,True,Around the World in 80 Days,10,G,175,USA,"Michael Anderson, John Farrow",Adventure,English,United Artists,,6.8
+1956,BEST MOTION PICTURE,False,Friendly Persuasion,11,Passed,137,USA,William Wyler,Drama,English,Twentieth Century Fox Home Entertainment,,7.4
+1956,BEST MOTION PICTURE,False,Giant,11,G,201,USA,George Stevens,Drama,English,Warner Bros. Pictures,84.0,7.6
+1956,BEST MOTION PICTURE,False,The King and I,6,G,133,USA,Walter Lang,Biography,English,20th Century Fox,72.0,7.4
+1956,BEST MOTION PICTURE,False,The Ten Commandments,10,G,220,USA,Cecil B. DeMille,Adventure,English,Paramount Pictures,,7.8
+1957,BEST MOTION PICTURE,True,The Bridge on the River Kwai,12,PG,161,UK,David Lean,Adventure,English,Columbia Pictures,87.0,8.1
+1957,BEST MOTION PICTURE,False,Peyton Place,3,Approved,157,USA,Mark Robson,Drama,English,20th Century Fox,,7.2
+1957,BEST MOTION PICTURE,False,Sayonara,12,Not Rated,147,USA,Joshua Logan,Drama,English,MGM Home Entertainment,,7.1
+1957,BEST MOTION PICTURE,False,12 Angry Men,4,Not Rated,96,USA,Sidney Lumet,Drama,English,Criterion Collection,96.0,8.9
+1957,BEST MOTION PICTURE,False,12 Angry Men,4,Not Rated,96,USA,Sidney Lumet,Drama,English,Criterion Collection,96.0,8.9
+1957,BEST MOTION PICTURE,False,Witness for the Prosecution,2,Not Rated,116,USA,Billy Wilder,Crime,English,MGM,,8.4
+1958,BEST MOTION PICTURE,False,Auntie Mame,12,Approved,143,USA,Morton DaCosta,Comedy,English,Warner Bros. Pictures,,7.9
+1958,BEST MOTION PICTURE,False,Cat on a Hot Tin Roof,8,Not Rated,108,USA,Richard Brooks,Drama,English,MGM Home Entertainment,80.0,8.0
+1958,BEST MOTION PICTURE,False,The Defiant Ones,9,Approved,96,USA,Stanley Kramer,Crime,English,MGM Home Entertainment,69.0,7.6
+1958,BEST MOTION PICTURE,True,Gigi,6,G,115,USA,"Vincente Minnelli, Charles Walters",Comedy,English,MGM Home Entertainment,82.0,6.7
+1958,BEST MOTION PICTURE,False,Separate Tables,2,Approved,100,USA,Delbert Mann,Drama,English,MGM Home Entertainment,,7.4
+1959,BEST MOTION PICTURE,False,Anatomy of a Murder,9,Not Rated,161,USA,Otto Preminger,Crime,English,Sony Pictures Home Entertainment,95.0,8.0
+1959,BEST MOTION PICTURE,True,Ben-Hur,1,G,212,USA,William Wyler,Adventure,English,MGM,90.0,8.1
+1959,BEST MOTION PICTURE,False,The Diary of Anne Frank,4,Approved,180,USA,George Stevens,Biography,English,Fox,59.0,7.4
+1959,BEST MOTION PICTURE,False,The Nun's Story,7,Not Rated,149,USA,Fred Zinnemann,Drama,English,Warner Home Video,,7.6
+1959,BEST MOTION PICTURE,False,Room at the Top,1,Not Rated,115,UK,Jack Clayton,Drama,English,Lion International Films,,7.7
+1960,BEST MOTION PICTURE,False,The Alamo,10,Passed,162,USA,John Wayne,Adventure,English,Batjac Productions,,6.9
+1960,BEST MOTION PICTURE,True,The Apartment,9,Not Rated,125,USA,Billy Wilder,Comedy,English,United Artists,94.0,8.3
+1960,BEST MOTION PICTURE,False,Elmer Gantry,7,Approved,146,USA,Richard Brooks,Drama,English,MGM Home Entertainment,,7.8
+1960,BEST MOTION PICTURE,False,Sons and Lovers,7,Not Rated,103,UK,Jack Cardiff,Drama,English,20th Century Fox,,7.1
+1960,BEST MOTION PICTURE,False,The Sundowners,12,Unrated,133,UK,Fred Zinnemann,Drama,English,Warner Home Video,82.0,7.1
+1961,BEST MOTION PICTURE,False,Fanny,6,Not Rated,134,USA,Joshua Logan,Drama,English,Westchester Films,,7.0
+1961,BEST MOTION PICTURE,False,The Guns of Navarone,4,TV-PG,158,UK,J. Lee Thompson,Action,English,Columbia Pictures,,7.5
+1961,BEST MOTION PICTURE,False,The Hustler,9,Not Rated,134,USA,Robert Rossen,Drama,English,Fox,90.0,8.0
+1961,BEST MOTION PICTURE,False,Judgment at Nuremberg,12,Not Rated,179,USA,Stanley Kramer,Drama,English,United Artists,60.0,8.2
+1961,BEST MOTION PICTURE,True,West Side Story,12,Not Rated,153,USA,"Jerome Robbins, Robert Wise",Crime,English,United Artists Films,86.0,7.5
+1962,BEST PICTURE,True,Lawrence of Arabia,12,Approved,228,UK,David Lean,Adventure,English,Columbia Pictures,100.0,8.3
+1962,BEST PICTURE,False,The Longest Day,10,G,178,USA,"Ken Annakin, Andrew Marton, Bernhard Wicki, Gerd Oswald, Darryl F. Zanuck",Action,English,Twentieth Century Fox Home Entertainment,75.0,7.8
+1962,BEST PICTURE,False,To Kill a Mockingbird,3,Not Rated,129,USA,Robert Mulligan,Crime,English,Universal International Pictur,88.0,8.3
+1963,BEST PICTURE,False,America America,6,Not Rated,174,USA,Elia Kazan,Drama,English,Warner Home Video,,7.8
+1963,BEST PICTURE,False,How the West Was Won,2,G,164,USA,"John Ford, Henry Hathaway, George Marshall, Richard Thorpe",Western,English,Warner Home Video,56.0,7.1
+1963,BEST PICTURE,False,Lilies of the Field,7,Unrated,94,USA,Ralph Nelson,Drama,English,Twentieth Century Fox Home Entertainment,,7.6
+1963,BEST PICTURE,True,Tom Jones,6,Not Rated,129,UK,Tony Richardson,Adventure,English,Woodfall Film Productions,77.0,6.5
+1964,BEST PICTURE,False,Becket,3,PG-13,148,UK,Peter Glenville,Biography,English,Slowhand Releasing,68.0,7.8
+1964,BEST PICTURE,False,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1,PG,95,UK,Stanley Kubrick,Comedy,English,Sony Pictures,97.0,8.4
+1964,BEST PICTURE,False,Mary Poppins,6,G,139,USA,Robert Stevenson,Comedy,English,Walt Disney Productions,88.0,7.8
+1964,BEST PICTURE,True,My Fair Lady,12,G,170,USA,George Cukor,Drama,English,Warner Bros. Pictures,95.0,7.8
+1964,BEST PICTURE,False,Zorba the Greek,12,Not Rated,142,Greece,Michael Cacoyannis,Comedy,English,Fox,,7.7
+1965,BEST PICTURE,False,Darling,8,TV-MA,128,UK,John Schlesinger,Drama,English,Lionsgate,,7.2
+1965,BEST PICTURE,False,Doctor Zhivago,12,PG-13,197,USA,David Lean,Drama,English,MGM,69.0,8.0
+1965,BEST PICTURE,False,Ship of Fools,10,Not Rated,149,USA,Stanley Kramer,Drama,English,Columbia Pictures,,7.2
+1965,BEST PICTURE,True,The Sound of Music,4,G,172,USA,Robert Wise,Biography,English,20th Century-Fox,63.0,8.0
+1965,BEST PICTURE,False,A Thousand Clowns,9,Unrated,118,USA,Fred Coe,Comedy,English,Harrell Incoporated,,7.5
+1966,BEST PICTURE,False,Alfie,8,PG,114,UK,Lewis Gilbert,Comedy,English,Paramount Pictures,,7.1
+1966,BEST PICTURE,True,A Man for All Seasons,5,G,120,UK,Fred Zinnemann,Biography,English,Sony Pictures Home Entertainment,72.0,7.7
+1966,BEST PICTURE,False,The Sand Pebbles,12,PG-13,182,USA,Robert Wise,Adventure,English,Twentieth Century Fox Home Entertainment,,7.6
+1966,BEST PICTURE,False,Who's Afraid of Virginia Woolf?,6,Not Rated,131,USA,Mike Nichols,Drama,English,Warner Home Video,75.0,8.0
+1967,BEST PICTURE,False,Bonnie and Clyde,8,R,111,USA,Arthur Penn,Action,English,Warner Brothers/Seven Arts,86.0,7.8
+1967,BEST PICTURE,False,Doctor Dolittle,12,Approved,152,USA,Richard Fleischer,Adventure,English,20th Century Fox,34.0,6.2
+1967,BEST PICTURE,False,The Graduate,12,PG,106,USA,Mike Nichols,Comedy,English,Embassy Pictures/Rialto Pictures,83.0,8.0
+1967,BEST PICTURE,False,Guess Who's Coming to Dinner,12,Not Rated,108,USA,Stanley Kramer,Comedy,English,Columbia Pictures Corporation,63.0,7.8
+1967,BEST PICTURE,True,In the Heat of the Night,8,Not Rated,110,USA,Norman Jewison,Crime,English,MGM,75.0,8.0
+1968,BEST PICTURE,False,Funny Girl,9,G,151,USA,William Wyler,Biography,English,Columbia Pictures,89.0,7.4
+1968,BEST PICTURE,False,The Lion in Winter,10,PG,134,UK,Anthony Harvey,Biography,English,Nelson Entertainment,,7.9
+1968,BEST PICTURE,True,Oliver!,9,G,153,UK,Carol Reed,Drama,English,Sony Pictures Home Entertainment,74.0,7.4
+1968,BEST PICTURE,False,"Rachel, Rachel",8,APPROVED,101,USA,Paul Newman,Drama,English,Warner Bros.,,7.5
+1969,BEST PICTURE,False,Anne of the Thousand Days,12,PG,145,UK,Charles Jarrott,Biography,English,Universal Pictures,,7.5
+1969,BEST PICTURE,False,Butch Cassidy and the Sundance Kid,9,PG,110,USA,George Roy Hill,Biography,English,20th Century Fox,66.0,8.0
+1969,BEST PICTURE,False,"Hello, Dolly!",12,G,146,USA,Gene Kelly,Adventure,English,20th Century Fox,51.0,7.1
+1969,BEST PICTURE,True,Midnight Cowboy,6,R,113,USA,John Schlesinger,Drama,English,United Artists,79.0,7.8
+1969,BEST PICTURE,False,Z,12,M/PG,127,France,Costa-Gavras,Crime,French,Rialto Pictures,,8.3
+1970,BEST PICTURE,False,Airport,3,G,137,USA,"George Seaton, Henry Hathaway",Action,English,Universal Pictures,42.0,6.6
+1970,BEST PICTURE,False,Five Easy Pieces,9,R,98,USA,Bob Rafelson,Drama,English,Columbia Pictures,85.0,7.5
+1970,BEST PICTURE,False,Love Story,12,PG,100,USA,Arthur Hiller,Drama,English,Paramount Pictures,84.0,6.9
+1970,BEST PICTURE,True,Patton,4,GP,172,USA,Franklin J. Schaffner,Biography,English,Twentieth Century Fox Home Entertainment,91.0,7.9
+1971,BEST PICTURE,False,A Clockwork Orange,2,R,136,UK,Stanley Kubrick,Crime,English,Warner Bros.,80.0,8.3
+1971,BEST PICTURE,False,Fiddler on the Roof,11,G,181,USA,Norman Jewison,Drama,English,United Artists,67.0,8.0
+1971,BEST PICTURE,True,The French Connection,10,R,104,USA,William Friedkin,Action,English,20th Century Fox,94.0,7.7
+1971,BEST PICTURE,False,The Last Picture Show,10,R,118,USA,Peter Bogdanovich,Drama,English,Columbia Pictures,93.0,8.0
+1971,BEST PICTURE,False,Nicholas and Alexandra,12,GP,183,UK,Franklin J. Schaffner,Biography,English,Sony Pictures Home Entertainment,,7.2
+1972,BEST PICTURE,False,Cabaret,2,PG,124,USA,Bob Fosse,Drama,English,Twentieth Century Fox Home Entertainment,80.0,7.8
+1972,BEST PICTURE,False,Deliverance,8,R,109,USA,John Boorman,Adventure,English,Warner Bros.,82.0,7.7
+1972,BEST PICTURE,False,The Emigrants,3,PG,151,Sweden,Jan Troell,Drama,Swedish,Swedish Film Production,,8.0
+1972,BEST PICTURE,True,The Godfather,3,R,175,USA,Francis Ford Coppola,Crime,English,Paramount Pictures,100.0,9.2
+1972,BEST PICTURE,False,Sounder,4,G,105,USA,Martin Ritt,Drama,English,Rainbow Group / KOCH Entertainment,80.0,7.6
+1973,BEST PICTURE,False,American Graffiti,8,PG,110,USA,George Lucas,Comedy,English,Universal Pictures,97.0,7.4
+1973,BEST PICTURE,False,The Exorcist,12,R,122,USA,William Friedkin,Horror,English,Warner Bros. Pictures,81.0,8.0
+1973,BEST PICTURE,True,The Sting,12,PG,129,USA,George Roy Hill,Comedy,English,Universal Pictures,83.0,8.3
+1973,BEST PICTURE,False,A Touch of Class,8,PG,106,UK,Melvin Frank,Comedy,English,Media Home Entertainment,,6.5
+1974,BEST PICTURE,False,Chinatown,6,R,130,USA,Roman Polanski,Drama,English,Paramount Pictures,92.0,8.2
+1974,BEST PICTURE,False,The Conversation,6,PG,113,USA,Francis Ford Coppola,Drama,English,Paramount Pictures,85.0,7.8
+1974,BEST PICTURE,False,Lenny,12,R,111,USA,Bob Fosse,Biography,English,Twentieth Century Fox Home Entertainment,61.0,7.6
+1974,BEST PICTURE,False,The Towering Inferno,1,PG,165,USA,John Guillermin,Action,English,20th Century Fox,69.0,6.9
+1975,BEST PICTURE,False,Barry Lyndon,12,PG,185,UK,Stanley Kubrick,Adventure,English,Warner Bros.,89.0,8.1
+1975,BEST PICTURE,False,Dog Day Afternoon,12,R,125,USA,Sidney Lumet,Biography,English,WARNER BROTHERS PICTURES,86.0,8.0
+1975,BEST PICTURE,False,Jaws,6,PG,124,USA,Steven Spielberg,Adventure,English,Universal Pictures,87.0,8.0
+1975,BEST PICTURE,False,Nashville,7,R,160,USA,Robert Altman,Comedy,English,Paramount Pictures,96.0,7.7
+1976,BEST PICTURE,False,All the President's Men,4,PG,138,USA,Alan J. Pakula,Biography,English,Warner Home Video,80.0,8.0
+1976,BEST PICTURE,False,Bound for Glory,12,PG,147,USA,Hal Ashby,Biography,English,United Artists,70.0,7.3
+1976,BEST PICTURE,False,Network,11,R,121,USA,Sidney Lumet,Drama,English,MGM/United Artists,83.0,8.1
+1976,BEST PICTURE,True,Rocky,12,PG,120,USA,John G. Avildsen,Drama,English,United Artists,70.0,8.1
+1976,BEST PICTURE,False,Taxi Driver,2,R,114,USA,Martin Scorsese,Crime,English,Columbia Pictures,94.0,8.3
+1977,BEST PICTURE,True,Annie Hall,4,PG,93,USA,Woody Allen,Comedy,English,United Artists,92.0,8.0
+1977,BEST PICTURE,False,The Goodbye Girl,11,PG,111,USA,Herbert Ross,Comedy,English,MGM Home Entertainment,64.0,7.4
+1977,BEST PICTURE,False,Julia,1,PG,117,USA,Fred Zinnemann,Drama,English,20th Century Fox Film Corporation,58.0,7.2
+1977,BEST PICTURE,False,The Turning Point,11,PG,119,USA,Herbert Ross,Drama,English,Paramount Pictures,68.0,6.9
+1978,BEST PICTURE,False,Coming Home,2,R,127,USA,Hal Ashby,Drama,English,MGM Home Entertainment,61.0,7.3
+1978,BEST PICTURE,True,The Deer Hunter,2,R,183,USA,Michael Cimino,Drama,English,Universal Pictures,86.0,8.1
+1978,BEST PICTURE,False,Midnight Express,10,R,121,UK,Alan Parker,Biography,English,Sony Pictures Home Entertainment,59.0,7.6
+1978,BEST PICTURE,False,An Unmarried Woman,5,R,124,USA,Paul Mazursky,Comedy,English,20th Century Fox Film Corporation,,7.1
+1979,BEST PICTURE,False,All That Jazz,12,R,123,USA,Bob Fosse,Drama,English,20th Century Fox Film Corporation,72.0,7.9
+1979,BEST PICTURE,False,Apocalypse Now,8,R,147,USA,Francis Ford Coppola,Drama,English,United Artists,94.0,8.4
+1979,BEST PICTURE,False,Breaking Away,7,PG,101,USA,Peter Yates,Comedy,English,Twentieth Century Fox,91.0,7.7
+1979,BEST PICTURE,True,Kramer vs. Kramer,12,PG,105,USA,Robert Benton,Drama,English,Sony Pictures Home Entertainment,77.0,7.8
+1979,BEST PICTURE,False,Norma Rae,3,PG,114,USA,Martin Ritt,Drama,English,20th Century Fox Film Corporat,61.0,7.3
+1980,BEST PICTURE,False,Coal Miner's Daughter,3,PG,124,USA,Michael Apted,Biography,English,MCA Universal Home Video,87.0,7.5
+1980,BEST PICTURE,False,The Elephant Man,10,PG,124,USA,David Lynch,Biography,English,Paramount,77.0,8.1
+1980,BEST PICTURE,True,Ordinary People,2,R,124,USA,Robert Redford,Drama,English,Paramount Pictures,87.0,7.7
+1980,BEST PICTURE,False,Raging Bull,12,R,129,USA,Martin Scorsese,Biography,English,United Artists,89.0,8.2
+1980,BEST PICTURE,False,Tess,12,PG,170,UK,Roman Polanski,Drama,English,Criterion Collection,82.0,7.3
+1981,BEST PICTURE,True,Chariots of Fire,4,PG,125,UK,Hugh Hudson,Biography,English,20th Century Fox,78.0,7.2
+1981,BEST PICTURE,False,On Golden Pond,2,PG,109,UK,Mark Rydell,Drama,English,Twentieth Century Fox Home Entertainment,68.0,7.6
+1981,BEST PICTURE,False,Raiders of the Lost Ark,6,PG,115,USA,Steven Spielberg,Action,English,Paramount Pictures,85.0,8.4
+1981,BEST PICTURE,False,Reds,12,PG,195,USA,Warren Beatty,Biography,English,Paramount Home Video,76.0,7.3
+1982,BEST PICTURE,True,Gandhi,2,PG,191,UK,Richard Attenborough,Biography,English,Columbia Pictures,79.0,8.0
+1982,BEST PICTURE,False,Missing,3,PG,122,USA,Costa-Gavras,Biography,English,Universal Pictures,78.0,7.7
+1982,BEST PICTURE,False,Tootsie,12,PG,116,USA,Sydney Pollack,Comedy,English,Columbia Pictures,88.0,7.4
+1982,BEST PICTURE,False,The Verdict,12,R,129,USA,Sidney Lumet,Drama,English,Twentieth Century Fox Home Entertainment,77.0,7.7
+1983,BEST PICTURE,False,The Big Chill,9,R,105,USA,Lawrence Kasdan,Comedy,English,Columbia Pictures,61.0,7.2
+1983,BEST PICTURE,False,The Dresser,12,PG,118,UK,Peter Yates,Drama,English,Sony Pictures Entertainment,,7.7
+1983,BEST PICTURE,False,The Right Stuff,2,PG,193,USA,Philip Kaufman,Adventure,English,Warner Bros. Pictures,91.0,7.8
+1983,BEST PICTURE,False,Tender Mercies,6,PG,92,USA,Bruce Beresford,Drama,English,HBO Video,,7.4
+1983,BEST PICTURE,True,Terms of Endearment,12,PG,132,USA,James L. Brooks,Comedy,English,Paramount Pictures,79.0,7.4
+1984,BEST PICTURE,True,Amadeus,9,R,160,USA,Milos Forman,Biography,English,Warner Bros. Pictures,88.0,8.3
+1984,BEST PICTURE,False,The Killing Fields,2,R,141,UK,Roland Joffé,Biography,English,Warner Home Video,76.0,7.8
+1984,BEST PICTURE,False,A Passage to India,2,PG,164,UK,David Lean,Adventure,English,Sony Pictures Entertainment,,7.3
+1984,BEST PICTURE,False,Places in the Heart,10,PG,111,USA,Robert Benton,Drama,English,Twentieth Century Fox Home Entertainment,70.0,7.3
+1984,BEST PICTURE,False,A Soldier's Story,11,PG,101,USA,Norman Jewison,Crime,English,Sony Pictures Home Entertainment,,7.2
+1985,BEST PICTURE,False,The Color Purple,2,PG-13,154,USA,Steven Spielberg,Drama,English,Warner Home Video,78.0,7.8
+1985,BEST PICTURE,False,Kiss of the Spider Woman,7,R,120,Brazil,Hector Babenco,Drama,English,Strand Releasing,80.0,7.4
+1985,BEST PICTURE,True,Out of Africa,12,PG,161,USA,Sydney Pollack,Biography,English,Universal Pictures,69.0,7.2
+1985,BEST PICTURE,False,Prizzi's Honor,6,R,130,USA,John Huston,Comedy,English,Fox,84.0,6.7
+1985,BEST PICTURE,False,Witness,2,R,112,USA,Peter Weir,Crime,English,Paramount Pictures,76.0,7.4
+1985,BEST PICTURE,False,Witness,2,R,112,USA,Peter Weir,Crime,English,Paramount Pictures,76.0,7.4
+1986,BEST PICTURE,False,Children of a Lesser God,10,R,119,USA,Randa Haines,Drama,English,Paramount Pictures,80.0,7.2
+1986,BEST PICTURE,False,Hannah and Her Sisters,3,PG-13,107,USA,Woody Allen,Comedy,English,Orion Pictures,90.0,7.9
+1986,BEST PICTURE,False,The Mission,10,PG,125,UK,Roland Joffé,Adventure,English,Warner Home Video,55.0,7.4
+1986,BEST PICTURE,True,Platoon,2,R,120,USA,Oliver Stone,Drama,English,Orion Pictures,92.0,8.1
+1986,BEST PICTURE,False,A Room with a View,4,Not Rated,117,UK,James Ivory,Drama,English,Cinecom Pictures,80.0,7.3
+1987,BEST PICTURE,False,Broadcast News,12,R,133,USA,James L. Brooks,Comedy,English,Twentieth Century Fox Home Entertainment,84.0,7.2
+1987,BEST PICTURE,False,Fatal Attraction,9,R,119,USA,Adrian Lyne,Drama,English,Paramount Pictures,67.0,6.9
+1987,BEST PICTURE,False,Hope and Glory,2,PG-13,113,UK,John Boorman,Comedy,English,Nelson Entertainment,,7.3
+1987,BEST PICTURE,True,The Last Emperor,4,PG-13,163,UK,Bernardo Bertolucci,Biography,English,Columbia Pictures,76.0,7.7
+1987,BEST PICTURE,False,Moonstruck,1,PG,102,USA,Norman Jewison,Comedy,English,MGM Home Entertainment,83.0,7.1
+1988,BEST PICTURE,False,The Accidental Tourist,1,PG,121,USA,Lawrence Kasdan,Drama,English,Warner Home Video,53.0,6.8
+1988,BEST PICTURE,False,Dangerous Liaisons,2,R,119,USA,Stephen Frears,Drama,English,Warner Home Video,74.0,7.6
+1988,BEST PICTURE,False,Mississippi Burning,1,R,128,USA,Alan Parker,Crime,English,Orion Pictures Corporation,65.0,7.8
+1988,BEST PICTURE,True,Rain Man,12,R,133,USA,Barry Levinson,Drama,English,MGM,65.0,8.0
+1988,BEST PICTURE,False,Working Girl,12,R,113,USA,Mike Nichols,Comedy,English,20th Century Fox,73.0,6.8
+1989,BEST PICTURE,False,Born on the Fourth of July,1,R,145,USA,Oliver Stone,Biography,English,Universal Pictures,75.0,7.2
+1989,BEST PICTURE,False,Dead Poets Society,6,PG,128,USA,Peter Weir,Comedy,English,Buena Vista Pictures,79.0,8.1
+1989,BEST PICTURE,True,Driving Miss Daisy,1,PG,99,USA,Bruce Beresford,Drama,English,Fathom Events,81.0,7.4
+1989,BEST PICTURE,False,Field of Dreams,5,PG,107,USA,Phil Alden Robinson,Drama,English,Universal Pictures,57.0,7.5
+1989,BEST PICTURE,False,My Left Foot,3,R,103,Ireland,Jim Sheridan,Biography,English,HBO Video,97.0,7.9
+1990,BEST PICTURE,False,Awakenings,1,PG-13,121,USA,Penny Marshall,Biography,English,Columbia Pictures,74.0,7.8
+1990,BEST PICTURE,False,Ghost,7,PG-13,127,USA,Jerry Zucker,Drama,English,Paramount Pictures,52.0,7.0
+1991,BEST PICTURE,False,Beauty and the Beast,11,G,84,USA,"Gary Trousdale, Kirk Wise",Animation,English,Buena Vista,95.0,8.0
+1991,BEST PICTURE,False,Bugsy,12,R,136,USA,Barry Levinson,Biography,English,Sony Pictures Home Entertainment,80.0,6.8
+1991,BEST PICTURE,False,JFK,12,R,189,France,Oliver Stone,Drama,English,Warner Bros.,72.0,8.0
+1991,BEST PICTURE,False,The Prince of Tides,12,R,132,USA,Barbra Streisand,Drama,English,Sony Pictures Home Entertainment,65.0,6.7
+1991,BEST PICTURE,True,The Silence of the Lambs,2,R,118,USA,Jonathan Demme,Crime,English,Orion Pictures Corporation,85.0,8.6
+1992,BEST PICTURE,False,The Crying Game,2,R,112,UK,Neil Jordan,Crime,English,Live Home Video,90.0,7.2
+1992,BEST PICTURE,False,A Few Good Men,12,R,138,USA,Rob Reiner,Drama,English,Columbia Pictures,62.0,7.7
+1992,BEST PICTURE,False,Howards End,2,PG,142,UK,James Ivory,Drama,English,Sony Pictures Home Entertainment,89.0,7.4
+1992,BEST PICTURE,False,Scent of a Woman,1,R,156,USA,Martin Brest,Drama,English,Universal Pictures,59.0,8.0
+1992,BEST PICTURE,True,Unforgiven,8,R,130,USA,Clint Eastwood,Drama,English,Warner Bros. Pictures,85.0,8.2
+1993,BEST PICTURE,False,The Fugitive,8,PG-13,130,USA,Andrew Davis,Action,English,Warner Bros. Pictures,87.0,7.8
+1993,BEST PICTURE,False,In the Name of the Father,2,R,133,Ireland,Jim Sheridan,Biography,English,Universal Pictures,84.0,8.1
+1993,BEST PICTURE,False,The Piano,2,R,121,New Zealand,Jane Campion,Drama,English,Miramax Films,89.0,7.6
+1993,BEST PICTURE,False,The Remains of the Day,11,PG,134,USA,James Ivory,Drama,English,Sony Pictures Home Entertainment,84.0,7.8
+1993,BEST PICTURE,True,Schindler's List,2,R,195,USA,Steven Spielberg,Biography,English,Universal Pictures,94.0,8.9
+1994,BEST PICTURE,True,Forrest Gump,7,PG-13,142,USA,Robert Zemeckis,Drama,English,Paramount Pictures,82.0,8.8
+1994,BEST PICTURE,False,Four Weddings and a Funeral,4,R,117,UK,Mike Newell,Comedy,English,Gramercy Pictures,81.0,7.0
+1994,BEST PICTURE,False,Pulp Fiction,10,R,154,USA,Quentin Tarantino,Crime,English,Miramax Films,94.0,8.9
+1994,BEST PICTURE,False,Quiz Show,10,PG-13,133,USA,Robert Redford,Biography,English,Buena Vista Internationa,88.0,7.5
+1994,BEST PICTURE,False,The Shawshank Redemption,10,R,142,USA,Frank Darabont,Drama,English,Columbia Pictures,80.0,9.3
+1995,BEST PICTURE,False,Apollo 13,6,PG,140,USA,Ron Howard,Adventure,English,Universal Pictures,77.0,7.6
+1995,BEST PICTURE,False,Babe,8,G,91,Australia,Chris Noonan,Comedy,English,Universal Pictures,83.0,6.7
+1995,BEST PICTURE,True,Braveheart,5,R,178,USA,Mel Gibson,Biography,English,Paramount Pictures,68.0,8.3
+1995,BEST PICTURE,False,Sense and Sensibility,1,PG,136,USA,Ang Lee,Drama,English,Columbia Pictures,84.0,7.6
+1996,BEST PICTURE,True,The English Patient,12,R,162,USA,Anthony Minghella,Drama,English,Miramax Films,87.0,7.4
+1996,BEST PICTURE,False,Fargo,4,R,98,USA,"Joel Coen, Ethan Coen",Crime,English,MGM,85.0,8.1
+1996,BEST PICTURE,False,Jerry Maguire,12,R,139,USA,Cameron Crowe,Comedy,English,TriStar Pictures,77.0,7.3
+1996,BEST PICTURE,False,Secrets & Lies,2,R,136,UK,Mike Leigh,Drama,English,Twentieth Century Fox Home Entertainment,91.0,8.0
+1996,BEST PICTURE,False,Shine,2,PG-13,105,Australia,Scott Hicks,Biography,English,New Line Home Entertainment,87.0,7.7
+1997,BEST PICTURE,False,As Good as It Gets,12,PG-13,139,USA,James L. Brooks,Comedy,English,TriStar Pictures,67.0,7.7
+1997,BEST PICTURE,False,The Full Monty,9,R,91,UK,Peter Cattaneo,Comedy,English,Twentieth Century Fox Home Entertainment,75.0,7.2
+1997,BEST PICTURE,False,Good Will Hunting,1,R,126,USA,Gus Van Sant,Drama,English,Miramax Films,70.0,8.3
+1997,BEST PICTURE,False,L.A. Confidential,9,R,138,USA,Curtis Hanson,Crime,English,Warner Bros. Pictures,90.0,8.2
+1997,BEST PICTURE,True,Titanic,12,PG-13,194,USA,James Cameron,Drama,English,Paramount Pictures,75.0,7.8
+1998,BEST PICTURE,False,Elizabeth,2,R,124,UK,Shekhar Kapur,Biography,English,Gramercy,75.0,7.4
+1998,BEST PICTURE,False,Life Is Beautiful,2,PG-13,116,Italy,Roberto Benigni,Comedy,Italian,Miramax,59.0,8.6
+1998,BEST PICTURE,False,Saving Private Ryan,7,R,169,USA,Steven Spielberg,Drama,English,Paramount Pictures,91.0,8.6
+1998,BEST PICTURE,True,Shakespeare in Love,1,R,123,USA,John Madden,Comedy,English,Miramax,87.0,7.1
+1998,BEST PICTURE,False,The Thin Red Line,1,R,170,USA,Terrence Malick,Drama,English,20th Century Fox,78.0,7.6
+1999,BEST PICTURE,True,American Beauty,10,R,122,USA,Sam Mendes,Drama,English,Dreamworks,84.0,8.3
+1999,BEST PICTURE,False,The Cider House Rules,1,PG-13,126,USA,Lasse Hallström,Drama,English,Miramax,75.0,7.4
+1999,BEST PICTURE,False,The Green Mile,12,R,189,USA,Frank Darabont,Crime,English,Warner Bros. Pictures,61.0,8.6
+1999,BEST PICTURE,False,The Insider,11,R,157,USA,Michael Mann,Biography,English,Buena Vista Pictures,84.0,7.8
+1999,BEST PICTURE,False,The Sixth Sense,8,PG-13,107,USA,M. Night Shyamalan,Drama,English,Hollywood/Buena Vista,64.0,8.1
+2000,BEST PICTURE,False,Chocolat,1,PG-13,121,UK,Lasse Hallström,Drama,English,Miramax,64.0,7.2
+2000,BEST PICTURE,False,"Crouching Tiger, Hidden Dragon",1,PG-13,120,Taiwan,Ang Lee,Action,Mandarin,Sony Pictures Classics,93.0,7.8
+2000,BEST PICTURE,False,Erin Brockovich,3,R,131,USA,Steven Soderbergh,Biography,English,Universal Pictures,73.0,7.3
+2000,BEST PICTURE,True,Gladiator,5,R,155,USA,Ridley Scott,Action,English,Dreamworks Distribution LLC,67.0,8.5
+2000,BEST PICTURE,False,Traffic,1,R,147,USA,Steven Soderbergh,Crime,English,USA Films,86.0,7.6
+2001,BEST PICTURE,True,A Beautiful Mind,1,PG-13,135,USA,Ron Howard,Biography,English,Universal Pictures,72.0,8.2
+2001,BEST PICTURE,False,Gosford Park,1,R,131,USA,Robert Altman,Comedy,English,USA Films,90.0,7.2
+2001,BEST PICTURE,False,In the Bedroom,2,R,130,USA,Todd Field,Crime,English,Miramax Films,86.0,7.4
+2001,BEST PICTURE,False,The Lord of the Rings: The Fellowship of the Ring,12,PG-13,178,New Zealand,Peter Jackson,Adventure,English,New Line Cinema,92.0,8.8
+2002,BEST PICTURE,True,Chicago,1,PG-13,113,USA,Rob Marshall,Comedy,English,Miramax Films,82.0,7.1
+2002,BEST PICTURE,False,Gangs of New York,12,R,167,USA,Martin Scorsese,Crime,English,Miramax Films,72.0,7.5
+2002,BEST PICTURE,False,The Hours,2,PG-13,110,USA,Stephen Daldry,Drama,English,Miramax Films,80.0,7.5
+2002,BEST PICTURE,False,The Lord of the Rings: The Two Towers,12,PG-13,179,New Zealand,Peter Jackson,Adventure,English,New Line Cinema,87.0,8.7
+2002,BEST PICTURE,False,The Pianist,3,R,150,UK,Roman Polanski,Biography,English,Focus Features,85.0,8.5
+2003,BEST PICTURE,True,The Lord of the Rings: The Return of the King,12,PG-13,201,New Zealand,Peter Jackson,Adventure,English,New Line Cinema,94.0,8.9
+2003,BEST PICTURE,False,Lost in Translation,10,R,102,USA,Sofia Coppola,Drama,English,Focus Features,89.0,7.7
+2003,BEST PICTURE,False,Master and Commander: The Far Side of the World,11,PG-13,138,USA,Peter Weir,Action,English,20th Century Fox,81.0,7.4
+2003,BEST PICTURE,False,Mystic River,10,R,138,USA,Clint Eastwood,Crime,English,WB,84.0,7.9
+2003,BEST PICTURE,False,Seabiscuit,7,PG-13,140,USA,Gary Ross,Drama,English,Universal Pictures,72.0,7.3
+2004,BEST PICTURE,False,The Aviator,12,PG-13,170,USA,Martin Scorsese,Biography,English,Miramax,77.0,7.5
+2004,BEST PICTURE,False,Finding Neverland,12,PG,106,USA,Marc Forster,Biography,English,Miramax Films,67.0,7.7
+2004,BEST PICTURE,True,Million Dollar Baby,1,PG-13,132,USA,Clint Eastwood,Drama,English,Warner Bros. Pictures,86.0,8.1
+2004,BEST PICTURE,False,Ray,10,PG-13,152,USA,Taylor Hackford,Biography,English,Universal Pictures,73.0,7.7
+2004,BEST PICTURE,False,Sideways,1,R,127,USA,Alexander Payne,Comedy,English,Fox Searchlight Pictures,94.0,7.5
+2005,BEST PICTURE,False,Brokeback Mountain,1,R,134,USA,Ang Lee,Drama,English,Focus Features,87.0,7.7
+2005,BEST PICTURE,False,Capote,2,R,114,USA,Bennett Miller,Biography,English,Sony Pictures Classics,88.0,7.3
+2005,BEST PICTURE,True,Crash,3,,10,Spain,Nacho Vigalondo,Short,Spanish,,,6.3
+2005,BEST PICTURE,False,"Good Night, and Good Luck.",11,PG,93,USA,George Clooney,Biography,English,Warner Independent Pictures,80.0,7.4
+2005,BEST PICTURE,False,Munich,1,R,164,France,Steven Spielberg,Biography,English,Universal Pictures,74.0,7.5
+2006,BEST PICTURE,False,Babel,11,R,143,France,Alejandro G. Iñárritu,Drama,English,Paramount Classics,69.0,7.4
+2006,BEST PICTURE,True,The Departed,10,R,151,USA,Martin Scorsese,Crime,English,Warner Bros. Pictures,85.0,8.5
+2006,BEST PICTURE,False,Letters from Iwo Jima,2,R,141,USA,Clint Eastwood,Action,Japanese,Warner Bros. Pictures,89.0,7.9
+2006,BEST PICTURE,False,Little Miss Sunshine,8,R,101,USA,"Jonathan Dayton, Valerie Faris",Comedy,English,Fox Searchlight,80.0,7.8
+2006,BEST PICTURE,False,The Queen,11,PG-13,103,UK,Stephen Frears,Biography,English,Miramax Films,91.0,7.3
+2007,BEST PICTURE,False,Atonement,1,R,123,UK,Joe Wright,Drama,English,Focus Features,85.0,7.8
+2007,BEST PICTURE,False,Juno,12,PG-13,96,USA,Jason Reitman,Comedy,English,Fox Searchlight,81.0,7.4
+2007,BEST PICTURE,False,Michael Clayton,10,R,119,USA,Tony Gilroy,Crime,English,Warner Bros. Pictures,82.0,7.2
+2007,BEST PICTURE,True,No Country for Old Men,11,R,122,USA,"Ethan Coen, Joel Coen",Crime,English,Miramax Films,91.0,8.1
+2007,BEST PICTURE,False,There Will Be Blood,1,R,158,USA,Paul Thomas Anderson,Drama,English,Paramount Vantage,93.0,8.1
+2008,BEST PICTURE,False,The Curious Case of Benjamin Button,12,PG-13,166,USA,David Fincher,Drama,English,Paramount,70.0,7.8
+2008,BEST PICTURE,False,Frost/Nixon,1,R,122,UK,Ron Howard,Biography,English,Universal Pictures,80.0,7.7
+2008,BEST PICTURE,False,Milk,1,R,128,USA,Gus Van Sant,Biography,English,Focus Features,84.0,7.5
+2008,BEST PICTURE,False,The Reader,1,R,124,Germany,Stephen Daldry,Drama,English,The Weinstein Co./MGM,58.0,7.6
+2008,BEST PICTURE,True,Slumdog Millionaire,12,R,120,UK,"Danny Boyle, Loveleen Tandan(co-director)",Drama,English,Fox Searchlight Pictures,86.0,8.0
+2009,BEST PICTURE,False,Avatar,12,PG-13,162,USA,James Cameron,Action,English,20th Century Fox,83.0,7.8
+2009,BEST PICTURE,False,The Blind Side,11,PG-13,129,USA,John Lee Hancock,Biography,English,Warner Bros. Pictures,53.0,7.6
+2009,BEST PICTURE,False,District 9,8,R,112,South Africa,Neill Blomkamp,Action,English,Sony Pictures/Screen Gems,81.0,7.9
+2009,BEST PICTURE,False,An Education,2,PG-13,100,UK,Lone Scherfig,Drama,English,Sony Classics,85.0,7.3
+2009,BEST PICTURE,True,The Hurt Locker,7,R,131,USA,Kathryn Bigelow,Drama,English,Summit Entertainment,95.0,7.6
+2009,BEST PICTURE,False,Inglourious Basterds,8,R,153,USA,Quentin Tarantino,Adventure,English,The Weinstein Company,69.0,8.3
+2009,BEST PICTURE,False,A Serious Man,11,R,106,USA,"Ethan Coen, Joel Coen",Comedy,English,Focus Features,79.0,7.0
+2009,BEST PICTURE,False,Up,5,PG,96,USA,"Pete Docter, Bob Peterson(co-director)",Animation,English,Walt Disney Pictures,88.0,8.2
+2009,BEST PICTURE,False,Up in the Air,12,R,109,USA,Jason Reitman,Comedy,English,Paramount Pictures,83.0,7.4
+2010,BEST PICTURE,False,Black Swan,12,R,108,USA,Darren Aronofsky,Drama,English,Fox Searchlight,79.0,8.0
+2010,BEST PICTURE,False,The Fighter,12,R,116,USA,David O. Russell,Biography,English,Paramount Pictures,79.0,7.8
+2010,BEST PICTURE,False,Inception,7,PG-13,148,USA,Christopher Nolan,Action,English,Warner Bros. Pictures,74.0,8.8
+2010,BEST PICTURE,False,The Kids Are All Right,7,R,106,USA,Lisa Cholodenko,Comedy,English,Focus Features,86.0,7.0
+2010,BEST PICTURE,True,The King's Speech,12,R,118,UK,Tom Hooper,Biography,English,The Weinstein Company,88.0,8.0
+2010,BEST PICTURE,False,127 Hours,1,R,94,USA,Danny Boyle,Biography,English,Fox Searchlight,82.0,7.6
+2010,BEST PICTURE,False,The Social Network,10,PG-13,120,USA,David Fincher,Biography,English,Columbia Pictures,95.0,7.7
+2010,BEST PICTURE,False,Toy Story 3,6,G,103,USA,Lee Unkrich,Animation,English,Walt Disney Pictures,92.0,8.3
+2010,BEST PICTURE,False,True Grit,12,PG-13,110,USA,"Ethan Coen, Joel Coen",Drama,English,Paramount Pictures,80.0,7.6
+2010,BEST PICTURE,False,Winter's Bone,7,R,100,USA,Debra Granik,Drama,English,Roadside Attractions,90.0,7.2
+2011,BEST PICTURE,True,The Artist,1,PG-13,100,France,Michel Hazanavicius,Comedy,English,The Weinstein Company,89.0,7.9
+2011,BEST PICTURE,False,The Descendants,12,R,115,USA,Alexander Payne,Comedy,English,Fox Searchlight Pictures,84.0,7.3
+2011,BEST PICTURE,False,Extremely Loud & Incredibly Close,1,PG-13,129,USA,Stephen Daldry,Adventure,English,Warner Bros. Pictures,46.0,6.9
+2011,BEST PICTURE,False,The Help,8,PG-13,146,USA,Tate Taylor,Drama,English,DreamWorks Studios,62.0,8.1
+2011,BEST PICTURE,False,Hugo,11,PG,126,UK,Martin Scorsese,Drama,English,Paramount Studios,83.0,7.5
+2011,BEST PICTURE,False,Midnight in Paris,6,PG-13,94,Spain,Woody Allen,Comedy,English,Sony Pictures Classics,81.0,7.7
+2011,BEST PICTURE,False,Moneyball,9,PG-13,133,USA,Bennett Miller,Biography,English,Sony Pictures,87.0,7.6
+2011,BEST PICTURE,False,The Tree of Life,5,PG-13,139,USA,Terrence Malick,Drama,English,Fox Searchlight,85.0,6.8
+2011,BEST PICTURE,False,War Horse,12,PG-13,146,USA,Steven Spielberg,Action,English,Walt Disney Pictures,72.0,7.2
+2012,BEST PICTURE,False,Amour,9,PG-13,127,Austria,Michael Haneke,Drama,French,Sony Pictures Classics,94.0,7.9
+2012,BEST PICTURE,True,Argo,10,R,120,USA,Ben Affleck,Biography,English,Warner Bros. Pictures,86.0,7.7
+2012,BEST PICTURE,False,Beasts of the Southern Wild,7,PG-13,93,USA,Benh Zeitlin,Adventure,English,Fox Searchlight,86.0,7.3
+2012,BEST PICTURE,False,Django Unchained,12,R,165,USA,Quentin Tarantino,Drama,English,The Weinstein Co.,81.0,8.4
+2012,BEST PICTURE,False,Les Misérables,4,Approved,108,USA,Richard Boleslawski,Drama,English,20th Century Fox Film Corporation,,7.6
+2012,BEST PICTURE,False,Les Misérables,12,PG-13,158,UK,Tom Hooper,Drama,English,Universal Pictures,63.0,7.6
+2012,BEST PICTURE,False,Life of Pi,11,PG,127,USA,Ang Lee,Adventure,English,20th Century Fox,79.0,7.9
+2012,BEST PICTURE,False,Lincoln,11,PG-13,150,USA,Steven Spielberg,Biography,English,Dreamworks Pictures,86.0,7.3
+2012,BEST PICTURE,False,Silver Linings Playbook,12,R,122,USA,David O. Russell,Comedy,English,The Weinstein Company,81.0,7.7
+2012,BEST PICTURE,False,Zero Dark Thirty,1,R,157,USA,Kathryn Bigelow,Drama,English,Columbia Pictures,95.0,7.4
+2013,BEST PICTURE,False,American Hustle,12,R,138,USA,David O. Russell,Crime,English,Sony Pictures,90.0,7.2
+2013,BEST PICTURE,False,Captain Phillips,10,PG-13,134,USA,Paul Greengrass,Biography,English,Sony Pictures,83.0,7.8
+2013,BEST PICTURE,False,Dallas Buyers Club,11,R,117,USA,Jean-Marc Vallée,Biography,English,Focus Features,84.0,8.0
+2013,BEST PICTURE,False,Gravity,10,PG-13,91,UK,Alfonso Cuarón,Drama,English,Warner Bros. Pictures,96.0,7.7
+2013,BEST PICTURE,False,Her,1,R,126,USA,Spike Jonze,Drama,English,Warner Bros. Pictures,90.0,8.0
+2013,BEST PICTURE,False,Nebraska,1,R,115,USA,Alexander Payne,Adventure,English,Paramount Pictures,86.0,7.7
+2013,BEST PICTURE,False,Philomena,11,PG-13,98,UK,Stephen Frears,Biography,English,The Weinstein Company,77.0,7.6
+2013,BEST PICTURE,True,12 Years a Slave,11,R,134,USA,Steve McQueen,Biography,English,Fox Searchlight,96.0,8.1
+2013,BEST PICTURE,False,The Wolf of Wall Street,12,R,180,USA,Martin Scorsese,Biography,English,Paramount Studios,75.0,8.2
+2014,BEST PICTURE,False,American Sniper,1,R,133,USA,Clint Eastwood,Action,English,Warner Bros.,72.0,7.3
+2014,BEST PICTURE,True,Birdman or (The Unexpected Virtue of Ignorance),11,R,119,USA,Alejandro G. Iñárritu,Comedy,English,Fox Searchlight,87.0,7.7
+2014,BEST PICTURE,False,Boyhood,8,R,165,USA,Richard Linklater,Drama,English,IFC Films,100.0,7.9
+2014,BEST PICTURE,False,The Grand Budapest Hotel,3,R,99,Germany,Wes Anderson,Adventure,English,Fox Searchlight,88.0,8.1
+2014,BEST PICTURE,False,The Imitation Game,12,PG-13,114,UK,Morten Tyldum,Biography,English,The Weinstein Company,73.0,8.0
+2014,BEST PICTURE,False,Selma,1,PG-13,128,UK,Ava DuVernay,Biography,English,Paramount Pictures,88.0,7.5
+2014,BEST PICTURE,False,The Theory of Everything,11,PG-13,123,UK,James Marsh,Biography,English,Focus Features,72.0,7.7
+2014,BEST PICTURE,False,Whiplash,10,R,106,USA,Damien Chazelle,Drama,English,Sony Pictures Classics,88.0,8.5
+2015,BEST PICTURE,False,The Big Short,12,R,130,USA,Adam McKay,Biography,English,Paramount Pictures,81.0,7.8
+2015,BEST PICTURE,False,Bridge of Spies,10,PG-13,142,Germany,Steven Spielberg,Drama,English,Dreamworks Pictures,81.0,7.6
+2015,BEST PICTURE,False,Brooklyn,11,PG-13,117,UK,John Crowley,Drama,English,Fox Searchlight Pictures,88.0,7.5
+2015,BEST PICTURE,False,Mad Max: Fury Road,5,R,120,Australia,George Miller,Action,English,Warner Bros.,90.0,8.1
+2015,BEST PICTURE,False,The Martian,10,PG-13,144,UK,Ridley Scott,Adventure,English,20th Century Fox,80.0,8.0
+2015,BEST PICTURE,False,The Revenant,1,R,156,USA,Alejandro G. Iñárritu,Action,English,20th Century Fox,76.0,8.0
+2015,BEST PICTURE,False,Room,1,R,118,Ireland,Lenny Abrahamson,Drama,English,Element Pictures,86.0,8.1
+2015,BEST PICTURE,True,Spotlight,11,R,129,USA,Tom McCarthy,Biography,English,Open Road Films,93.0,8.1
+2016,BEST PICTURE,False,Arrival,11,PG-13,116,USA,Denis Villeneuve,Drama,English,21 Laps Entertainment,81.0,7.9
+2016,BEST PICTURE,False,Fences,12,PG-13,139,USA,Denzel Washington,Drama,English,Paramount Pictures,79.0,7.2
+2016,BEST PICTURE,False,Hacksaw Ridge,11,R,139,Australia,Mel Gibson,Biography,English,Summit Entertainment,71.0,8.1
+2016,BEST PICTURE,False,Hell or High Water,8,R,102,USA,David Mackenzie,Action,English,Film 44,88.0,7.6
+2016,BEST PICTURE,False,Hidden Figures,1,PG,127,USA,Theodore Melfi,Biography,English,20th Century Fox,74.0,7.8
+2016,BEST PICTURE,False,La La Land,12,PG-13,128,USA,Damien Chazelle,Comedy,English,Liongate Films,93.0,8.0
+2016,BEST PICTURE,False,Lion,1,PG-13,118,UK,Garth Davis,Biography,English,See-Saw Films,69.0,8.0
+2016,BEST PICTURE,False,Manchester by the Sea,12,R,137,USA,Kenneth Lonergan,Drama,English,Roadside Attractions ,96.0,7.8
+2016,BEST PICTURE,True,Moonlight,11,R,111,USA,Barry Jenkins,Drama,English,A24 Films,99.0,7.4
+2017,BEST PICTURE,False,Call Me by Your Name,1,R,132,Italy,Luca Guadagnino,Drama,English,Sony Pictures Classics,93.0,7.9
+2017,BEST PICTURE,False,Darkest Hour,12,PG-13,125,UK,Joe Wright,Biography,English,Focus Features,75.0,7.4
+2017,BEST PICTURE,False,Dunkirk,7,PG-13,106,UK,Christopher Nolan,Action,English,Warner Bros. Pictures,94.0,7.9
+2017,BEST PICTURE,False,Get Out,2,R,104,USA,Jordan Peele,Horror,English,Universal Pictures,84.0,7.7
+2017,BEST PICTURE,False,Lady Bird,12,R,94,USA,Greta Gerwig,Comedy,English,A24,94.0,7.4
+2017,BEST PICTURE,False,Phantom Thread,1,R,130,USA,Paul Thomas Anderson,Drama,English,Focus Features,90.0,7.5
+2017,BEST PICTURE,False,The Post,1,PG-13,116,USA,Steven Spielberg,Biography,English,20th Century Fox,83.0,7.2
+2017,BEST PICTURE,True,The Shape of Water,12,R,123,USA,Guillermo del Toro,Adventure,English,Fox Searchlight Pictures,87.0,7.3
+2017,BEST PICTURE,False,"Three Billboards Outside Ebbing, Missouri",12,R,115,UK,Martin McDonagh,Comedy,English,Fox Searchlight Pictures,88.0,8.2

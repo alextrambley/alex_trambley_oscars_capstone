@@ -1,0 +1,501 @@
+Country,Director,Genre,Language,Metascore,Production,Rated,Runtime,Title,Year,imdbRating,month
+USA,Frank Borzage,Drama,English,,Fox,Not Rated,110,7th Heaven,1927,7.8,10
+USA,"William A. Wellman, Harry d'Abbadie d'Arrast",Drama,English,,Unknown,PG-13,144,Wings,1927,7.5,1
+USA,Irving Cummings,Romance,English,,20th Century Fox Film Corporation,PASSED,95,In Old Arizona,1928,5.7,1
+USA,Alfred E. Green,Biography,English,,A & E,PASSED,90,Disraeli,1929,6.4,11
+USA,Ernst Lubitsch,Comedy,English,,Paramount Pictures,APPROVED,107,The Love Parade,1929,7.2,1
+USA,John Ford,Drama,English,,United Artists,PASSED,108,Arrowsmith,1931,6.2,12
+USA,Frank Borzage,Drama,English,,,Passed,90,Bad Girl,1931,6.6,9
+USA,King Vidor,Drama,English,,MGM,Passed,86,The Champ,1931,7.3,11
+USA,Mervyn LeRoy,Crime,English,,Vitaphone Corporation,NOT RATED,89,Five Star Final,1931,7.3,9
+USA,Ernst Lubitsch,Comedy,English,,Paramount Pictures,Passed,93,The Smiling Lieutenant,1931,7.7,8
+USA,Frank Borzage,Drama,English,,Gravitas,Unrated,80,A Farewell to Arms,1932,6.5,12
+USA,Mervyn LeRoy,Crime,English,,Vitaphone Corporation,Passed,92,I Am a Fugitive from a Chain Gang,1932,8.2,11
+USA,Sidney Franklin,Drama,English,,MGM,Approved,98,Smilin' Through,1932,6.9,9
+USA,Sidney Franklin,Biography,English,,MGM,PASSED,109,The Barretts of Wimpole Street,1934,7,9
+USA,Cecil B. DeMille,Biography,English,,Paramount Pictures,Passed,100,Cleopatra,1934,6.8,10
+USA,Frank Borzage,Musical,English,,Warner Brothers,NOT RATED,97,Flirtation Walk,1934,5.8,12
+USA,Mark Sandrich,Comedy,English,,RKO Radio Pictures,Approved,107,The Gay Divorcee,1934,7.5,10
+USA,Lloyd Bacon,Comedy,English,,Warner Bros.,APPROVED,87,Here Comes the Navy,1934,6.4,7
+USA,"Alfred L. Werker, Sidney Lanfield",Biography,English,,20th Century Fox Film Corporation,PASSED,88,The House of Rothschild,1934,6.8,4
+USA,John M. Stahl,Drama,English,,Universal Studios,Approved,111,Imitation of Life,1934,7.5,11
+USA,Frank Capra,Comedy,English,87,Sony Pictures Home Entertainment,Not Rated,105,It Happened One Night,1934,8.1,2
+USA,Victor Schertzinger,Music,English,,Sony Pictures Home Entertainment,PASSED,84,One Night of Love,1934,5.9,9
+USA,W.S. Van Dyke,Comedy,English,,MGM,Not Rated,91,The Thin Man,1934,8,5
+USA,"Jack Conway, Howard Hawks, William A. Wellman",Biography,English,,MGM,,115,Viva Villa!,1934,6.5,4
+USA,Irving Cummings,Drama,English,,,APPROVED,80,The White Parade,1934,7,11
+USA,George Stevens,Comedy,English,,Turner Home Entertainment,Passed,99,Alice Adams,1935,7,11
+USA,"Roy Del Ruth, W.S. Van Dyke",Musical,English,,MGM,Passed,101,Broadway Melody of 1936,1935,6.8,9
+USA,Michael Curtiz,Action,English,,Twentieth Century Fox Home Entertainment,Passed,119,Captain Blood,1935,7.7,12
+USA,George Cukor,Adventure,English,,WARNER BROTHERS PICTURES,Passed,130,David Copperfield,1935,7.5,6
+USA,John Ford,Crime,English,,Media Home Entertainment,Approved,91,The Informer,1935,7.5,5
+USA,Richard Boleslawski,Drama,English,,20th Century Fox Film Corporation,Approved,108,Les Misérables,1935,7.6,4
+USA,Henry Hathaway,Adventure,English,,Paramount Pictures,Passed,109,The Lives of a Bengal Lancer,1935,7.2,2
+USA,"William Dieterle, Max Reinhardt",Comedy,English,,Warner Bros.,Approved,133,A Midsummer Night's Dream,1935,6.9,10
+USA,Frank Lloyd,Adventure,English,87,MGM,Not Rated,132,Mutiny on the Bounty,1935,7.7,11
+USA,"Robert Z. Leonard, W.S. Van Dyke",Drama,English,,MGM Home Entertainment,G,105,Naughty Marietta,1935,6.7,3
+USA,Leo McCarey,Comedy,English,,MCA Universal Home Video,NOT RATED,90,Ruggles of Red Gap,1935,7.7,3
+USA,Mark Sandrich,Comedy,English,,Turner Home Entertainment,Not Rated,101,Top Hat,1935,7.8,9
+USA,"Mervyn LeRoy, Michael Curtiz",Adventure,English,,Warner Bros.,NOT RATED,141,Anthony Adverse,1936,6.5,8
+USA,William Wyler,Drama,English,,Samuel Goldwyn Films,Passed,101,Dodsworth,1936,7.8,9
+USA,Robert Z. Leonard,Biography,English,,MGM Home Entertainment,Not Rated,176,The Great Ziegfeld,1936,6.8,4
+USA,Jack Conway,Comedy,English,,Warner Home Video,Not Rated,98,Libeled Lady,1936,7.8,10
+USA,Frank Capra,Comedy,English,,Columbia Pictures,Not Rated,115,Mr. Deeds Goes to Town,1936,8,4
+USA,George Cukor,Drama,English,,MGM,Passed,125,Romeo and Juliet,1936,6.7,9
+USA,W.S. Van Dyke,Drama,English,,MGM,Unrated,115,San Francisco,1936,7.2,6
+USA,William Dieterle,Biography,English,,MGM Home Entertainment,UNRATED,86,The Story of Louis Pasteur,1936,7.4,2
+USA,Henry Koster,Comedy,English,,Universal Pictures,APPROVED,84,Three Smart Girls,1936,6.8,12
+USA,Leo McCarey,Comedy,English,,Columbia,Not Rated,90,The Awful Truth,1937,7.7,10
+USA,Victor Fleming,Adventure,English,,MGM Home Entertainment,Passed,117,Captains Courageous,1937,8,6
+USA,William Wyler,Crime,English,,MGM,Approved,93,Dead End,1937,7.4,8
+USA,"Sidney Franklin, Victor Fleming, Gustav Machatý, Sam Wood",Drama,English,,WARNER BROTHERS PICTURES,PASSED,138,The Good Earth,1937,7.7,8
+USA,William Dieterle,Biography,English,,MGM Home Entertainment,Not Rated,116,The Life of Emile Zola,1937,7.2,10
+USA,Frank Capra,Adventure,English,,Sony Pictures Home Entertainment,Approved,132,Lost Horizon,1937,7.7,9
+USA,Henry Koster,Comedy,English,,Universal,APPROVED,84,One Hundred Men and a Girl,1937,6.9,9
+USA,Gregory La Cava,Comedy,English,,Warner Home Video,Approved,92,Stage Door,1937,7.7,10
+USA,"William A. Wellman, Jack Conway",Drama,English,77,Image Entertainment Inc.,Passed,111,A Star Is Born,1937,7.6,4
+USA,"Michael Curtiz, William Keighley",Action,English,97,Warner Bros.,PG,102,The Adventures of Robin Hood,1938,7.9,5
+USA,Henry King,Drama,English,,20th Century Fox Film Corporation,APPROVED,106,Alexander's Ragtime Band,1938,7,8
+USA,Norman Taurog,Biography,English,,MGM Home Entertainment,Passed,96,Boys Town,1938,7.3,9
+UK,King Vidor,Drama,English,,MGM Home Entertainment,PASSED,110,The Citadel,1938,7.2,10
+USA,Michael Curtiz,Drama,English,,Warner Brothers,Approved,90,Four Daughters,1938,7,8
+USA,William Wyler,Drama,English,,MGM Home Entertainment,Approved,104,Jezebel,1938,7.5,3
+UK,"Anthony Asquith, Leslie Howard",Comedy,English,,Criterion Collection,Not Rated,89,Pygmalion,1938,7.8,3
+USA,Victor Fleming,Drama,English,,MGM,Passed,119,Test Pilot,1938,6.9,4
+USA,Frank Capra,Comedy,English,,Columbia Pictures,Passed,126,You Can't Take It with You,1938,7.9,9
+USA,Edmund Goulding,Drama,English,,Twentieth Century Fox Home Entertainment,Approved,104,Dark Victory,1939,7.6,4
+USA,"Victor Fleming, George Cukor, Sam Wood",Drama,English,97,Loew&#39;s Inc.,Passed,238,Gone with the Wind,1939,8.1,1
+UK,"Sam Wood, Sidney Franklin",Drama,English,,MGM Home Entertainment,Unrated,114,"Goodbye, Mr. Chips",1939,7.9,7
+USA,Leo McCarey,Comedy,English,,Madacy Entertainment,Approved,88,Love Affair,1939,7.3,4
+USA,Frank Capra,Comedy,English,73,ITVS,Not Rated,129,Mr. Smith Goes to Washington,1939,8.1,10
+USA,Ernst Lubitsch,Comedy,English,,Warner Bros. Pictures,Not Rated,110,Ninotchka,1939,7.9,11
+USA,Lewis Milestone,Drama,English,,United Artists,Approved,106,Of Mice and Men,1939,7.9,1
+USA,John Ford,Adventure,English,93,Warner Home Video,Passed,96,Stagecoach,1939,7.9,3
+USA,"Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, Richard Thorpe, King Vidor",Adventure,English,100,Warner Bros. Pictures,PG,102,The Wizard of Oz,1939,8,8
+USA,William Wyler,Drama,English,,United Artists,Not Rated,104,Wuthering Heights,1939,7.6,4
+USA,Anatole Litvak,Drama,English,,Warner Bros. Pictures,Approved,141,"All This, and Heaven Too",1940,7.6,7
+USA,Alfred Hitchcock,Action,English,,Warner Home Video,Passed,120,Foreign Correspondent,1940,7.5,8
+USA,John Ford,Drama,English,96,20th Century Fox Film Corporation,Passed,129,The Grapes of Wrath,1940,8,3
+USA,Charles Chaplin,Comedy,English,,Criterion Collection,Passed,125,The Great Dictator,1940,8.5,3
+USA,Sam Wood,Drama,English,,Media Home Entertainment,Approved,108,Kitty Foyle,1940,7,12
+USA,William Wyler,Crime,English,,MGM Home Entertainment,Not Rated,95,The Letter,1940,7.6,11
+USA,John Ford,Drama,English,,Criterion Collection,Approved,105,The Long Voyage Home,1940,7,11
+USA,Sam Wood,Drama,English,,United Artists,NOT RATED,90,Our Town,1940,6.8,5
+USA,George Cukor,Comedy,English,96,MGM,Not Rated,112,The Philadelphia Story,1940,7.9,1
+USA,Alfred Hitchcock,Drama,English,,United Artists,Not Rated,130,Rebecca,1940,8.1,4
+USA,Mervyn LeRoy,Biography,English,,WARNER BROTHERS PICTURES,Approved,99,Blossoms in the Dust,1941,6.9,8
+USA,Orson Welles,Drama,English,100,RKO Radio Pictures,PG,119,Citizen Kane,1941,8.3,9
+USA,Alexander Hall,Comedy,English,,Sony Pictures Entertainment,Not Rated,94,Here Comes Mr. Jordan,1941,7.6,8
+USA,Mitchell Leisen,Drama,English,,Paramount Pictures,Not Rated,116,Hold Back the Dawn,1941,7.4,9
+USA,John Ford,Drama,English,,Twentieth Century Fox Home Entertainment,Not Rated,118,How Green Was My Valley,1941,7.7,4
+USA,William Wyler,Drama,English,,RKO,Approved,116,The Little Foxes,1941,8.2,8
+USA,John Huston,Film-Noir,English,96,Warner Bros.,Not Rated,100,The Maltese Falcon,1941,8,10
+USA,Irving Rapper,Biography,English,,Warner Bros.,Approved,108,One Foot in Heaven,1941,7,11
+USA,Howard Hawks,Biography,English,,Warner Bros. Pictures,Not Rated,134,Sergeant York,1941,7.7,9
+USA,Alfred Hitchcock,Mystery,English,83,WARNER BROTHERS PICTURES,Not Rated,99,Suspicion,1941,7.4,11
+USA,Sam Wood,Drama,English,,Warner Home Video,Passed,127,Kings Row,1942,7.6,4
+USA,"Orson Welles, Fred Fleck, Robert Wise",Drama,English,93,RKO Radio Pictures,Not Rated,88,The Magnificent Ambersons,1942,7.7,7
+USA,William Wyler,Drama,English,,MGM Home Entertainment,Not Rated,134,Mrs. Miniver,1942,7.6,12
+USA,Irving Pichel,Drama,English,,20th Century Fox Film Corporation,,87,The Pied Piper,1942,7.1,8
+USA,Sam Wood,Biography,English,,MGM,Approved,128,The Pride of the Yankees,1942,7.7,3
+USA,Mervyn LeRoy,Drama,English,,MGM Home Entertainment,Passed,126,Random Harvest,1942,8,8
+USA,George Stevens,Comedy,English,,Sony Pictures Entertainment,Approved,118,The Talk of the Town,1942,7.5,8
+USA,John Farrow,Action,English,,MCA Universal Home Video,Approved,88,Wake Island,1942,6.8,8
+USA,Michael Curtiz,Biography,English,,MGM Home Entertainment,Passed,126,Yankee Doodle Dandy,1942,7.7,6
+USA,Sam Wood,Adventure,English,,MCA Universal Home Video,Passed,170,For Whom the Bell Tolls,1943,6.9,7
+USA,Ernst Lubitsch,Comedy,English,,20th Century Fox Film Corporation,Not Rated,112,Heaven Can Wait,1943,7.5,8
+USA,Clarence Brown,Comedy,English,,Warner Home Video,Passed,117,The Human Comedy,1943,7.1,2
+USA,"Mervyn LeRoy, Albert Lewin",Biography,English,,Warner Bros. Pictures,Not Rated,124,Madame Curie,1943,7.2,2
+USA,George Stevens,Comedy,English,,Columbia Pictures,Passed,104,The More the Merrier,1943,7.8,5
+USA,Henry King,Biography,English,,Twentieth Century Fox Home Entertainment,Approved,156,The Song of Bernadette,1943,7.6,4
+USA,"Herman Shumlin, Hal Mohr",Drama,English,,Warner Home Video,Approved,114,Watch on the Rhine,1943,7.4,8
+USA,Billy Wilder,Crime,English,95,Paramount Pictures,Passed,107,Double Indemnity,1944,8.3,7
+USA,George Cukor,Crime,English,,MGM,Not Rated,114,Gaslight,1944,7.8,10
+USA,Leo McCarey,Comedy,English,,Paramount Pictures,Passed,126,Going My Way,1944,7.1,10
+USA,"John Cromwell, Edward F. Cline, Tay Garnett, David O. Selznick",Drama,English,,United Artists,Approved,177,Since You Went Away,1944,7.6,7
+USA,Henry King,Biography,English,,Twentieth Century Fox Film Cor,Passed,154,Wilson,1944,6.8,8
+USA,George Sidney,Comedy,English,,MGM Home Entertainment,Passed,140,Anchors Aweigh,1945,7.1,8
+USA,Leo McCarey,Drama,English,,RKO Radio Pictures,Unrated,126,The Bells of St. Mary's,1945,7.3,2
+USA,Billy Wilder,Drama,English,,Paramount Pictures,Not Rated,101,The Lost Weekend,1945,7.9,1
+USA,Michael Curtiz,Crime,English,,MGM Home Entertainment,Passed,111,Mildred Pierce,1945,8,10
+USA,Alfred Hitchcock,Film-Noir,English,,Twentieth Century Fox Home Entertainment,Approved,111,Spellbound,1945,7.6,12
+USA,William Wyler,Drama,English,92,RKO Radio Pictures,Approved,170,The Best Years of Our Lives,1946,8,5
+USA,Frank Capra,Drama,English,89,Liberty Films,Not Rated,130,It's a Wonderful Life,1946,8.6,1
+USA,Edmund Goulding,Drama,English,,Twentieth Century Fox,Approved,145,The Razor's Edge,1946,7.4,12
+USA,Clarence Brown,Drama,English,89,MGM Home Entertainment,Approved,128,The Yearling,1946,7.2,5
+USA,Henry Koster,Comedy,English,,RKO Radio Pictures,Not Rated,109,The Bishop's Wife,1947,7.6,2
+USA,Edward Dmytryk,Crime,English,,WARNER BROTHERS PICTURES,Approved,86,Crossfire,1947,7.3,8
+USA,Elia Kazan,Drama,English,,Twentieth Century Fox Home Entertainment,Not Rated,118,Gentleman's Agreement,1947,7.2,3
+USA,George Seaton,Comedy,English,88,20th Century Fox,Not Rated,96,Miracle on 34th Street,1947,7.9,10
+UK,Laurence Olivier,Drama,English,,Universal,Not Rated,154,Hamlet,1948,7.7,8
+USA,Jean Negulesco,Drama,English,,Warner Bros. Pictures,Unrated,102,Johnny Belinda,1948,7.8,9
+UK,"Michael Powell, Emeric Pressburger",Drama,English,,Eagle-Lion Films,Not Rated,135,The Red Shoes,1948,8.2,9
+USA,Anatole Litvak,Drama,English,,20th Century Fox Film Corporation,Not Rated,108,The Snake Pit,1948,7.6,11
+USA,John Huston,Adventure,English,98,WARNER BROTHERS PICTURES,Passed,126,The Treasure of the Sierra Madre,1948,8.2,1
+USA,Robert Rossen,Drama,English,,Sony Pictures Home Entertainment,Approved,110,All the King's Men,1949,7.5,1
+USA,William A. Wellman,Action,English,,MGM,Approved,118,Battleground,1949,7.4,1
+USA,William Wyler,Drama,English,,Paramount Pictures,Not Rated,115,The Heiress,1949,8.2,12
+USA,Joseph L. Mankiewicz,Drama,English,,Fox,Not Rated,103,A Letter to Three Wives,1949,7.8,2
+USA,Henry King,Drama,English,,Twentieth Century Fox Home Entertainment,Not Rated,132,Twelve O'Clock High,1949,7.7,2
+USA,Joseph L. Mankiewicz,Drama,English,98,20th Century Fox,Passed,138,All About Eve,1950,8.2,10
+USA,George Cukor,Comedy,English,,Columbia Pictures,Not Rated,103,Born Yesterday,1950,7.6,2
+USA,Vincente Minnelli,Comedy,English,,MGM,Not Rated,92,Father of the Bride,1950,7.2,6
+USA,"Compton Bennett, Andrew Marton",Action,English,,MGM Home Entertainment,Passed,103,King Solomon's Mines,1950,6.8,11
+USA,Billy Wilder,Drama,English,,Paramount Pictures,Not Rated,110,Sunset Blvd.,1950,8.4,9
+USA,Vincente Minnelli,Drama,English,84,MGM,Passed,114,An American in Paris,1951,7.2,11
+USA,Anatole Litvak,Drama,English,,20th Century Fox Film Corporation,Not Rated,119,Decision Before Dawn,1951,7.3,2
+USA,George Stevens,Drama,English,76,Paramount Pictures,Passed,122,A Place in the Sun,1951,7.8,10
+USA,"Mervyn LeRoy, Anthony Mann",Biography,English,,MGM Home Entertainment,Not Rated,171,Quo Vadis,1951,7.2,12
+USA,Elia Kazan,Drama,English,96,Warner Bros. Pictures,PG,122,A Streetcar Named Desire,1951,8,12
+USA,Cecil B. DeMille,Drama,English,,Paramount Pictures,Passed,152,The Greatest Show on Earth,1952,6.6,5
+USA,Fred Zinnemann,Drama,English,89,United Artists,PG,85,High Noon,1952,7.9,7
+UK,Richard Thorpe,Adventure,English,,MGM Home Entertainment,Approved,106,Ivanhoe,1952,6.8,2
+UK,John Huston,Biography,English,,United Artists,Not Rated,119,Moulin Rouge,1952,7.1,4
+USA,John Ford,Comedy,English,,Republic Pictures,Passed,129,The Quiet Man,1952,7.8,9
+USA,Fred Zinnemann,Drama,English,85,NCM Fathom,Passed,118,From Here to Eternity,1953,7.6,8
+USA,Joseph L. Mankiewicz,Biography,English,,MGM Home Entertainment,Not Rated,120,Julius Caesar,1953,7.3,6
+USA,Henry Koster,Drama,English,,20th Century Fox,Unrated,135,The Robe,1953,6.7,12
+USA,William Wyler,Comedy,English,78,Paramount Pictures,Not Rated,118,Roman Holiday,1953,8,9
+USA,George Stevens,Drama,English,80,Paramount Home Video,Not Rated,118,Shane,1953,7.6,10
+USA,Edward Dmytryk,Drama,English,63,Sony Pictures Home Entertainment,Not Rated,124,The Caine Mutiny,1954,7.7,6
+USA,George Seaton,Drama,English,,Paramount Pictures,Unrated,104,The Country Girl,1954,7.3,5
+USA,Elia Kazan,Crime,English,91,Sony Pictures,Not Rated,108,On the Waterfront,1954,8.1,6
+USA,Stanley Donen,Comedy,English,75,MGM Home Entertainment,G,102,Seven Brides for Seven Brothers,1954,7.4,8
+USA,Jean Negulesco,Drama,English,,20th Century Fox Film Corporation,G,102,Three Coins in the Fountain,1954,6.3,5
+USA,"Henry King, Otto Lang",Biography,English,,20th Century Fox Film Corporation,Approved,102,Love Is a Many-Splendored Thing,1955,6.5,9
+USA,Delbert Mann,Drama,English,,MGM Home Entertainment,Not Rated,90,Marty,1955,7.7,6
+USA,"John Ford, Mervyn LeRoy, Joshua Logan",Comedy,English,,Warner Home Video,Not Rated,123,Mister Roberts,1955,7.7,7
+USA,"Joseph Barbera, William Hanna",Animation,English,,,Approved,7,Pup on a Picnic,1955,7.4,4
+USA,Daniel Mann,Comedy,English,,Paramount Pictures,Unrated,117,The Rose Tattoo,1955,7.2,12
+USA,"Michael Anderson, John Farrow",Adventure,English,,United Artists,G,175,Around the World in 80 Days,1956,6.8,10
+USA,William Wyler,Drama,English,,Twentieth Century Fox Home Entertainment,Passed,137,Friendly Persuasion,1956,7.4,11
+USA,George Stevens,Drama,English,84,Warner Bros. Pictures,G,201,Giant,1956,7.6,11
+USA,Walter Lang,Biography,English,72,20th Century Fox,G,133,The King and I,1956,7.4,6
+USA,Cecil B. DeMille,Adventure,English,,Paramount Pictures,G,220,The Ten Commandments,1956,7.8,10
+UK,David Lean,Adventure,English,87,Columbia Pictures,PG,161,The Bridge on the River Kwai,1957,8.1,12
+USA,Mark Robson,Drama,English,,20th Century Fox,Approved,157,Peyton Place,1957,7.2,3
+USA,Joshua Logan,Drama,English,,MGM Home Entertainment,Not Rated,147,Sayonara,1957,7.1,12
+USA,Sidney Lumet,Drama,English,96,Criterion Collection,Not Rated,96,12 Angry Men,1957,8.9,4
+USA,Billy Wilder,Crime,English,,MGM,Not Rated,116,Witness for the Prosecution,1957,8.4,2
+USA,Morton DaCosta,Comedy,English,,Warner Bros. Pictures,Approved,143,Auntie Mame,1958,7.9,12
+USA,Richard Brooks,Drama,English,80,MGM Home Entertainment,Not Rated,108,Cat on a Hot Tin Roof,1958,8,8
+USA,Stanley Kramer,Crime,English,69,MGM Home Entertainment,Approved,96,The Defiant Ones,1958,7.6,9
+USA,"Vincente Minnelli, Charles Walters",Comedy,English,82,MGM Home Entertainment,G,115,Gigi,1958,6.7,6
+USA,Delbert Mann,Drama,English,,MGM Home Entertainment,Approved,100,Separate Tables,1958,7.4,2
+USA,Otto Preminger,Crime,English,95,Sony Pictures Home Entertainment,Not Rated,161,Anatomy of a Murder,1959,8,9
+USA,William Wyler,Adventure,English,90,MGM,G,212,Ben-Hur,1959,8.1,1
+USA,George Stevens,Biography,English,59,Fox,Approved,180,The Diary of Anne Frank,1959,7.4,4
+USA,Fred Zinnemann,Drama,English,,Warner Home Video,Not Rated,149,The Nun's Story,1959,7.6,7
+UK,Jack Clayton,Drama,English,,Lion International Films,Not Rated,115,Room at the Top,1959,7.7,1
+USA,John Wayne,Adventure,English,,Batjac Productions,Passed,162,The Alamo,1960,6.9,10
+USA,Billy Wilder,Comedy,English,94,United Artists,Not Rated,125,The Apartment,1960,8.3,9
+USA,Richard Brooks,Drama,English,,MGM Home Entertainment,Approved,146,Elmer Gantry,1960,7.8,7
+UK,Jack Cardiff,Drama,English,,20th Century Fox,Not Rated,103,Sons and Lovers,1960,7.1,7
+UK,Fred Zinnemann,Drama,English,82,Warner Home Video,Unrated,133,The Sundowners,1960,7.1,12
+USA,Joshua Logan,Drama,English,,Westchester Films,Not Rated,134,Fanny,1961,7,6
+UK,J. Lee Thompson,Action,English,,Columbia Pictures,TV-PG,158,The Guns of Navarone,1961,7.5,4
+USA,Robert Rossen,Drama,English,90,Fox,Not Rated,134,The Hustler,1961,8,9
+USA,Stanley Kramer,Drama,English,60,United Artists,Not Rated,179,Judgment at Nuremberg,1961,8.2,12
+USA,"Jerome Robbins, Robert Wise",Crime,English,86,United Artists Films,Not Rated,153,West Side Story,1961,7.5,12
+UK,David Lean,Adventure,English,100,Columbia Pictures,Approved,228,Lawrence of Arabia,1962,8.3,12
+USA,"Ken Annakin, Andrew Marton, Bernhard Wicki, Gerd Oswald, Darryl F. Zanuck",Action,English,75,Twentieth Century Fox Home Entertainment,G,178,The Longest Day,1962,7.8,10
+USA,"Lewis Milestone, Carol Reed",Adventure,English,,WARNER BROTHERS PICTURES,Not Rated,178,Mutiny on the Bounty,1962,7.3,11
+USA,Robert Mulligan,Crime,English,88,Universal International Pictur,Not Rated,129,To Kill a Mockingbird,1962,8.3,3
+USA,Elia Kazan,Drama,English,,Warner Home Video,Not Rated,174,America America,1963,7.8,6
+Switzerland,Joseph L. Mankiewicz,Biography,English,60,20th Century Fox,G,192,Cleopatra,1963,7,7
+USA,Ralph Nelson,Drama,English,,Twentieth Century Fox Home Entertainment,Unrated,94,Lilies of the Field,1963,7.6,7
+UK,Tony Richardson,Adventure,English,77,Woodfall Film Productions,Not Rated,129,Tom Jones,1963,6.5,6
+UK,Peter Glenville,Biography,English,68,Slowhand Releasing,PG-13,148,Becket,1964,7.8,3
+UK,Stanley Kubrick,Comedy,English,97,Sony Pictures,PG,95,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,1
+USA,Robert Stevenson,Comedy,English,88,Walt Disney Productions,G,139,Mary Poppins,1964,7.8,6
+USA,George Cukor,Drama,English,95,Warner Bros. Pictures,G,170,My Fair Lady,1964,7.8,12
+Greece,Michael Cacoyannis,Comedy,English,,Fox,Not Rated,142,Zorba the Greek,1964,7.7,12
+UK,John Schlesinger,Drama,English,,Lionsgate,TV-MA,128,Darling,1965,7.2,8
+USA,David Lean,Drama,English,69,MGM,PG-13,197,Doctor Zhivago,1965,8,12
+USA,Stanley Kramer,Drama,English,,Columbia Pictures,Not Rated,149,Ship of Fools,1965,7.2,10
+USA,Robert Wise,Biography,English,63,20th Century-Fox,G,172,The Sound of Music,1965,8,4
+USA,Fred Coe,Comedy,English,,Harrell Incoporated,Unrated,118,A Thousand Clowns,1965,7.5,9
+UK,Lewis Gilbert,Comedy,English,,Paramount Pictures,PG,114,Alfie,1966,7.1,8
+UK,Fred Zinnemann,Biography,English,72,Sony Pictures Home Entertainment,G,120,A Man for All Seasons,1966,7.7,5
+USA,Robert Wise,Adventure,English,,Twentieth Century Fox Home Entertainment,PG-13,182,The Sand Pebbles,1966,7.6,12
+USA,Mike Nichols,Drama,English,75,Warner Home Video,Not Rated,131,Who's Afraid of Virginia Woolf?,1966,8,6
+USA,Arthur Penn,Action,English,86,Warner Brothers/Seven Arts,R,111,Bonnie and Clyde,1967,7.8,8
+USA,Richard Fleischer,Adventure,English,34,20th Century Fox,Approved,152,Doctor Dolittle,1967,6.2,12
+USA,Mike Nichols,Comedy,English,83,Embassy Pictures/Rialto Pictures,PG,106,The Graduate,1967,8,12
+USA,Stanley Kramer,Comedy,English,63,Columbia Pictures Corporation,Not Rated,108,Guess Who's Coming to Dinner,1967,7.8,12
+USA,Norman Jewison,Crime,English,75,MGM,Not Rated,110,In the Heat of the Night,1967,8,8
+USA,William Wyler,Biography,English,89,Columbia Pictures,G,151,Funny Girl,1968,7.4,9
+UK,Anthony Harvey,Biography,English,,Nelson Entertainment,PG,134,The Lion in Winter,1968,7.9,10
+UK,Carol Reed,Drama,English,74,Sony Pictures Home Entertainment,G,153,Oliver!,1968,7.4,9
+USA,Paul Newman,Drama,English,,Warner Bros.,APPROVED,101,"Rachel, Rachel",1968,7.5,8
+UK,Franco Zeffirelli,Drama,English,,Paramount Home Video,PG,138,Romeo and Juliet,1968,7.6,10
+UK,Charles Jarrott,Biography,English,,Universal Pictures,PG,145,Anne of the Thousand Days,1969,7.5,12
+USA,George Roy Hill,Biography,English,66,20th Century Fox,PG,110,Butch Cassidy and the Sundance Kid,1969,8,9
+USA,Gene Kelly,Adventure,English,51,20th Century Fox,G,146,"Hello, Dolly!",1969,7.1,12
+USA,John Schlesinger,Drama,English,79,United Artists,R,113,Midnight Cowboy,1969,7.8,6
+France,Costa-Gavras,Crime,French,,Rialto Pictures,M/PG,127,Z,1969,8.3,12
+USA,"George Seaton, Henry Hathaway",Action,English,42,Universal Pictures,G,137,Airport,1970,6.6,3
+USA,Bob Rafelson,Drama,English,85,Columbia Pictures,R,98,Five Easy Pieces,1970,7.5,9
+USA,Arthur Hiller,Drama,English,84,Paramount Pictures,PG,100,Love Story,1970,6.9,12
+USA,Franklin J. Schaffner,Biography,English,91,Twentieth Century Fox Home Entertainment,GP,172,Patton,1970,7.9,4
+UK,Stanley Kubrick,Crime,English,80,Warner Bros.,R,136,A Clockwork Orange,1971,8.3,2
+USA,Norman Jewison,Drama,English,67,United Artists,G,181,Fiddler on the Roof,1971,8,11
+USA,William Friedkin,Action,English,94,20th Century Fox,R,104,The French Connection,1971,7.7,10
+USA,Peter Bogdanovich,Drama,English,93,Columbia Pictures,R,118,The Last Picture Show,1971,8,10
+UK,Franklin J. Schaffner,Biography,English,,Sony Pictures Home Entertainment,GP,183,Nicholas and Alexandra,1971,7.2,12
+USA,Bob Fosse,Drama,English,80,Twentieth Century Fox Home Entertainment,PG,124,Cabaret,1972,7.8,2
+USA,John Boorman,Adventure,English,82,Warner Bros.,R,109,Deliverance,1972,7.7,8
+USA,Francis Ford Coppola,Crime,English,100,Paramount Pictures,R,175,The Godfather,1972,9.2,3
+USA,Martin Ritt,Drama,English,80,Rainbow Group / KOCH Entertainment,G,105,Sounder,1972,7.6,4
+USA,George Lucas,Comedy,English,97,Universal Pictures,PG,110,American Graffiti,1973,7.4,8
+USA,William Friedkin,Horror,English,81,Warner Bros. Pictures,R,122,The Exorcist,1973,8,12
+USA,George Roy Hill,Comedy,English,83,Universal Pictures,PG,129,The Sting,1973,8.3,12
+UK,Melvin Frank,Comedy,English,,Media Home Entertainment,PG,106,A Touch of Class,1973,6.5,8
+USA,Roman Polanski,Drama,English,92,Paramount Pictures,R,130,Chinatown,1974,8.2,6
+USA,Francis Ford Coppola,Drama,English,85,Paramount Pictures,PG,113,The Conversation,1974,7.8,6
+USA,Francis Ford Coppola,Crime,English,90,Paramount Pictures,R,202,The Godfather: Part II,1974,9,12
+USA,Bob Fosse,Biography,English,61,Twentieth Century Fox Home Entertainment,R,111,Lenny,1974,7.6,12
+USA,John Guillermin,Action,English,69,20th Century Fox,PG,165,The Towering Inferno,1974,6.9,1
+UK,Stanley Kubrick,Adventure,English,89,Warner Bros.,PG,185,Barry Lyndon,1975,8.1,12
+USA,Sidney Lumet,Biography,English,86,WARNER BROTHERS PICTURES,R,125,Dog Day Afternoon,1975,8,12
+USA,Steven Spielberg,Adventure,English,87,Universal Pictures,PG,124,Jaws,1975,8,6
+USA,Robert Altman,Comedy,English,96,Paramount Pictures,R,160,Nashville,1975,7.7,7
+USA,Milos Forman,Drama,English,83,United Artists,R,133,One Flew Over the Cuckoo's Nest,1975,8.7,11
+USA,Alan J. Pakula,Biography,English,80,Warner Home Video,PG,138,All the President's Men,1976,8,4
+USA,Hal Ashby,Biography,English,70,United Artists,PG,147,Bound for Glory,1976,7.3,12
+USA,Sidney Lumet,Drama,English,83,MGM/United Artists,R,121,Network,1976,8.1,11
+USA,John G. Avildsen,Drama,English,70,United Artists,PG,120,Rocky,1976,8.1,12
+USA,Martin Scorsese,Crime,English,94,Columbia Pictures,R,114,Taxi Driver,1976,8.3,2
+USA,Woody Allen,Comedy,English,92,United Artists,PG,93,Annie Hall,1977,8,4
+USA,Herbert Ross,Comedy,English,64,MGM Home Entertainment,PG,111,The Goodbye Girl,1977,7.4,11
+USA,Fred Zinnemann,Drama,English,58,20th Century Fox Film Corporation,PG,117,Julia,1977,7.2,1
+USA,George Lucas,Action,English,90,20th Century Fox,PG,121,Star Wars: Episode IV - A New Hope,1977,8.6,5
+USA,Herbert Ross,Drama,English,68,Paramount Pictures,PG,119,The Turning Point,1977,6.9,11
+USA,Hal Ashby,Drama,English,61,MGM Home Entertainment,R,127,Coming Home,1978,7.3,2
+USA,Michael Cimino,Drama,English,86,Universal Pictures,R,183,The Deer Hunter,1978,8.1,2
+USA,"Warren Beatty, Buck Henry",Comedy,English,72,Paramount Home Video,PG,101,Heaven Can Wait,1978,6.9,6
+UK,Alan Parker,Biography,English,59,Sony Pictures Home Entertainment,R,121,Midnight Express,1978,7.6,10
+USA,Paul Mazursky,Comedy,English,,20th Century Fox Film Corporation,R,124,An Unmarried Woman,1978,7.1,5
+USA,Bob Fosse,Drama,English,72,20th Century Fox Film Corporation,R,123,All That Jazz,1979,7.9,12
+USA,Francis Ford Coppola,Drama,English,94,United Artists,R,147,Apocalypse Now,1979,8.4,8
+USA,Peter Yates,Comedy,English,91,Twentieth Century Fox,PG,101,Breaking Away,1979,7.7,7
+USA,Robert Benton,Drama,English,77,Sony Pictures Home Entertainment,PG,105,Kramer vs. Kramer,1979,7.8,12
+USA,Martin Ritt,Drama,English,61,20th Century Fox Film Corporat,PG,114,Norma Rae,1979,7.3,3
+USA,Michael Apted,Biography,English,87,MCA Universal Home Video,PG,124,Coal Miner's Daughter,1980,7.5,3
+USA,David Lynch,Biography,English,77,Paramount,PG,124,The Elephant Man,1980,8.1,10
+USA,Robert Redford,Drama,English,87,Paramount Pictures,R,124,Ordinary People,1980,7.7,2
+USA,Martin Scorsese,Biography,English,89,United Artists,R,129,Raging Bull,1980,8.2,12
+UK,Hugh Hudson,Biography,English,78,20th Century Fox,PG,125,Chariots of Fire,1981,7.2,4
+UK,Mark Rydell,Drama,English,68,Twentieth Century Fox Home Entertainment,PG,109,On Golden Pond,1981,7.6,2
+USA,Steven Spielberg,Action,English,85,Paramount Pictures,PG,115,Raiders of the Lost Ark,1981,8.4,6
+USA,Warren Beatty,Biography,English,76,Paramount Home Video,PG,195,Reds,1981,7.3,12
+USA,Steven Spielberg,Family,English,91,Universal Pictures,PG,115,E.T. the Extra-Terrestrial,1982,7.8,6
+UK,Richard Attenborough,Biography,English,79,Columbia Pictures,PG,191,Gandhi,1982,8,2
+USA,Costa-Gavras,Biography,English,78,Universal Pictures,PG,122,Missing,1982,7.7,3
+USA,Sydney Pollack,Comedy,English,88,Columbia Pictures,PG,116,Tootsie,1982,7.4,12
+USA,Sidney Lumet,Drama,English,77,Twentieth Century Fox Home Entertainment,R,129,The Verdict,1982,7.7,12
+USA,Lawrence Kasdan,Comedy,English,61,Columbia Pictures,R,105,The Big Chill,1983,7.2,9
+UK,Peter Yates,Drama,English,,Sony Pictures Entertainment,PG,118,The Dresser,1983,7.7,12
+USA,Philip Kaufman,Adventure,English,91,Warner Bros. Pictures,PG,193,The Right Stuff,1983,7.8,2
+USA,Bruce Beresford,Drama,English,,HBO Video,PG,92,Tender Mercies,1983,7.4,6
+USA,James L. Brooks,Comedy,English,79,Paramount Pictures,PG,132,Terms of Endearment,1983,7.4,12
+USA,Milos Forman,Biography,English,88,Warner Bros. Pictures,R,160,Amadeus,1984,8.3,9
+UK,Roland Joffé,Biography,English,76,Warner Home Video,R,141,The Killing Fields,1984,7.8,2
+UK,David Lean,Adventure,English,,Sony Pictures Entertainment,PG,164,A Passage to India,1984,7.3,2
+USA,Robert Benton,Drama,English,70,Twentieth Century Fox Home Entertainment,PG,111,Places in the Heart,1984,7.3,10
+USA,Norman Jewison,Crime,English,,Sony Pictures Home Entertainment,PG,101,A Soldier's Story,1984,7.2,11
+USA,Steven Spielberg,Drama,English,78,Warner Home Video,PG-13,154,The Color Purple,1985,7.8,2
+Brazil,Hector Babenco,Drama,English,80,Strand Releasing,R,120,Kiss of the Spider Woman,1985,7.4,7
+USA,Sydney Pollack,Biography,English,69,Universal Pictures,PG,161,Out of Africa,1985,7.2,12
+USA,John Huston,Comedy,English,84,Fox,R,130,Prizzi's Honor,1985,6.7,6
+USA,Peter Weir,Crime,English,76,Paramount Pictures,R,112,Witness,1985,7.4,2
+USA,Randa Haines,Drama,English,80,Paramount Pictures,R,119,Children of a Lesser God,1986,7.2,10
+USA,Woody Allen,Comedy,English,90,Orion Pictures,PG-13,107,Hannah and Her Sisters,1986,7.9,3
+UK,Roland Joffé,Adventure,English,55,Warner Home Video,PG,125,The Mission,1986,7.4,10
+USA,Oliver Stone,Drama,English,92,Orion Pictures,R,120,Platoon,1986,8.1,2
+USA,James L. Brooks,Comedy,English,84,Twentieth Century Fox Home Entertainment,R,133,Broadcast News,1987,7.2,12
+USA,Adrian Lyne,Drama,English,67,Paramount Pictures,R,119,Fatal Attraction,1987,6.9,9
+UK,John Boorman,Comedy,English,,Nelson Entertainment,PG-13,113,Hope and Glory,1987,7.3,2
+UK,Bernardo Bertolucci,Biography,English,76,Columbia Pictures,PG-13,163,The Last Emperor,1987,7.7,4
+USA,Norman Jewison,Comedy,English,83,MGM Home Entertainment,PG,102,Moonstruck,1987,7.1,1
+USA,Lawrence Kasdan,Drama,English,53,Warner Home Video,PG,121,The Accidental Tourist,1988,6.8,1
+USA,Stephen Frears,Drama,English,74,Warner Home Video,R,119,Dangerous Liaisons,1988,7.6,2
+USA,Alan Parker,Crime,English,65,Orion Pictures Corporation,R,128,Mississippi Burning,1988,7.8,1
+USA,Barry Levinson,Drama,English,65,MGM,R,133,Rain Man,1988,8,12
+USA,Mike Nichols,Comedy,English,73,20th Century Fox,R,113,Working Girl,1988,6.8,12
+USA,Oliver Stone,Biography,English,75,Universal Pictures,R,145,Born on the Fourth of July,1989,7.2,1
+USA,Peter Weir,Comedy,English,79,Buena Vista Pictures,PG,128,Dead Poets Society,1989,8.1,6
+USA,Bruce Beresford,Drama,English,81,Fathom Events,PG,99,Driving Miss Daisy,1989,7.4,1
+USA,Phil Alden Robinson,Drama,English,57,Universal Pictures,PG,107,Field of Dreams,1989,7.5,5
+Ireland,Jim Sheridan,Biography,English,97,HBO Video,R,103,My Left Foot,1989,7.9,3
+USA,Penny Marshall,Biography,English,74,Columbia Pictures,PG-13,121,Awakenings,1990,7.8,1
+USA,Kevin Costner,Adventure,English,72,Orion Pictures,PG-13,181,Dances with Wolves,1990,8,11
+USA,Jerry Zucker,Drama,English,52,Paramount Pictures,PG-13,127,Ghost,1990,7,7
+USA,Francis Ford Coppola,Crime,English,60,Paramount Pictures,R,162,The Godfather: Part III,1990,7.6,12
+USA,"Gary Trousdale, Kirk Wise",Animation,English,95,Buena Vista,G,84,Beauty and the Beast,1991,8,11
+USA,Barry Levinson,Biography,English,80,Sony Pictures Home Entertainment,R,136,Bugsy,1991,6.8,12
+France,Oliver Stone,Drama,English,72,Warner Bros.,R,189,JFK,1991,8,12
+USA,Barbra Streisand,Drama,English,65,Sony Pictures Home Entertainment,R,132,The Prince of Tides,1991,6.7,12
+USA,Jonathan Demme,Crime,English,85,Orion Pictures Corporation,R,118,The Silence of the Lambs,1991,8.6,2
+UK,Neil Jordan,Crime,English,90,Live Home Video,R,112,The Crying Game,1992,7.2,2
+USA,Rob Reiner,Drama,English,62,Columbia Pictures,R,138,A Few Good Men,1992,7.7,12
+UK,James Ivory,Drama,English,89,Sony Pictures Home Entertainment,PG,142,Howards End,1992,7.4,2
+USA,Martin Brest,Drama,English,59,Universal Pictures,R,156,Scent of a Woman,1992,8,1
+USA,Clint Eastwood,Drama,English,85,Warner Bros. Pictures,R,130,Unforgiven,1992,8.2,8
+USA,Andrew Davis,Action,English,87,Warner Bros. Pictures,PG-13,130,The Fugitive,1993,7.8,8
+Ireland,Jim Sheridan,Biography,English,84,Universal Pictures,R,133,In the Name of the Father,1993,8.1,2
+New Zealand,Jane Campion,Drama,English,89,Miramax Films,R,121,The Piano,1993,7.6,2
+USA,James Ivory,Drama,English,84,Sony Pictures Home Entertainment,PG,134,The Remains of the Day,1993,7.8,11
+USA,Steven Spielberg,Biography,English,94,Universal Pictures,R,195,Schindler's List,1993,8.9,2
+USA,Robert Zemeckis,Drama,English,82,Paramount Pictures,PG-13,142,Forrest Gump,1994,8.8,7
+UK,Mike Newell,Comedy,English,81,Gramercy Pictures,R,117,Four Weddings and a Funeral,1994,7,4
+USA,Quentin Tarantino,Crime,English,94,Miramax Films,R,154,Pulp Fiction,1994,8.9,10
+USA,Robert Redford,Biography,English,88,Buena Vista Internationa,PG-13,133,Quiz Show,1994,7.5,10
+USA,Frank Darabont,Drama,English,80,Columbia Pictures,R,142,The Shawshank Redemption,1994,9.3,10
+USA,Ron Howard,Adventure,English,77,Universal Pictures,PG,140,Apollo 13,1995,7.6,6
+Australia,Chris Noonan,Comedy,English,83,Universal Pictures,G,91,Babe,1995,6.7,8
+USA,Mel Gibson,Biography,English,68,Paramount Pictures,R,178,Braveheart,1995,8.3,5
+USA,Ang Lee,Drama,English,84,Columbia Pictures,PG,136,Sense and Sensibility,1995,7.6,1
+USA,Anthony Minghella,Drama,English,87,Miramax Films,R,162,The English Patient,1996,7.4,12
+USA,"Joel Coen, Ethan Coen",Crime,English,85,MGM,R,98,Fargo,1996,8.1,4
+USA,Cameron Crowe,Comedy,English,77,TriStar Pictures,R,139,Jerry Maguire,1996,7.3,12
+UK,Mike Leigh,Drama,English,91,Twentieth Century Fox Home Entertainment,R,136,Secrets & Lies,1996,8,2
+Australia,Scott Hicks,Biography,English,87,New Line Home Entertainment,PG-13,105,Shine,1996,7.7,2
+USA,James L. Brooks,Comedy,English,67,TriStar Pictures,PG-13,139,As Good as It Gets,1997,7.7,12
+UK,Peter Cattaneo,Comedy,English,75,Twentieth Century Fox Home Entertainment,R,91,The Full Monty,1997,7.2,9
+USA,Gus Van Sant,Drama,English,70,Miramax Films,R,126,Good Will Hunting,1997,8.3,1
+USA,Curtis Hanson,Crime,English,90,Warner Bros. Pictures,R,138,L.A. Confidential,1997,8.2,9
+USA,James Cameron,Drama,English,75,Paramount Pictures,PG-13,194,Titanic,1997,7.8,12
+UK,Shekhar Kapur,Biography,English,75,Gramercy,R,124,Elizabeth,1998,7.4,2
+USA,Steven Spielberg,Drama,English,91,Paramount Pictures,R,169,Saving Private Ryan,1998,8.6,7
+USA,John Madden,Comedy,English,87,Miramax,R,123,Shakespeare in Love,1998,7.1,1
+USA,Terrence Malick,Drama,English,78,20th Century Fox,R,170,The Thin Red Line,1998,7.6,1
+USA,Sam Mendes,Drama,English,84,Dreamworks,R,122,American Beauty,1999,8.3,10
+USA,Lasse Hallström,Drama,English,75,Miramax,PG-13,126,The Cider House Rules,1999,7.4,1
+USA,Frank Darabont,Crime,English,61,Warner Bros. Pictures,R,189,The Green Mile,1999,8.6,12
+USA,Michael Mann,Biography,English,84,Buena Vista Pictures,R,157,The Insider,1999,7.8,11
+USA,M. Night Shyamalan,Drama,English,64,Hollywood/Buena Vista,PG-13,107,The Sixth Sense,1999,8.1,8
+UK,Lasse Hallström,Drama,English,64,Miramax,PG-13,121,Chocolat,2000,7.2,1
+Taiwan,Ang Lee,Action,Mandarin,93,Sony Pictures Classics,PG-13,120,"Crouching Tiger, Hidden Dragon",2000,7.8,1
+USA,Steven Soderbergh,Biography,English,73,Universal Pictures,R,131,Erin Brockovich,2000,7.3,3
+USA,Ridley Scott,Action,English,67,Dreamworks Distribution LLC,R,155,Gladiator,2000,8.5,5
+USA,Steven Soderbergh,Crime,English,86,USA Films,R,147,Traffic,2000,7.6,1
+USA,Ron Howard,Biography,English,72,Universal Pictures,PG-13,135,A Beautiful Mind,2001,8.2,1
+USA,Robert Altman,Comedy,English,90,USA Films,R,131,Gosford Park,2001,7.2,1
+USA,Todd Field,Crime,English,86,Miramax Films,R,130,In the Bedroom,2001,7.4,2
+New Zealand,Peter Jackson,Adventure,English,92,New Line Cinema,PG-13,178,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,12
+Australia,Baz Luhrmann,Drama,English,66,20th Century Fox,PG-13,127,Moulin Rouge!,2001,7.6,6
+USA,Rob Marshall,Comedy,English,82,Miramax Films,PG-13,113,Chicago,2002,7.1,1
+USA,Martin Scorsese,Crime,English,72,Miramax Films,R,167,Gangs of New York,2002,7.5,12
+USA,Stephen Daldry,Drama,English,80,Miramax Films,PG-13,110,The Hours,2002,7.5,2
+New Zealand,Peter Jackson,Adventure,English,87,New Line Cinema,PG-13,179,The Lord of the Rings: The Two Towers,2002,8.7,12
+UK,Roman Polanski,Biography,English,85,Focus Features,R,150,The Pianist,2002,8.5,3
+New Zealand,Peter Jackson,Adventure,English,94,New Line Cinema,PG-13,201,The Lord of the Rings: The Return of the King,2003,8.9,12
+USA,Sofia Coppola,Drama,English,89,Focus Features,R,102,Lost in Translation,2003,7.7,10
+USA,Peter Weir,Action,English,81,20th Century Fox,PG-13,138,Master and Commander: The Far Side of the World,2003,7.4,11
+USA,Clint Eastwood,Crime,English,84,WB,R,138,Mystic River,2003,7.9,10
+USA,Gary Ross,Drama,English,72,Universal Pictures,PG-13,140,Seabiscuit,2003,7.3,7
+USA,Martin Scorsese,Biography,English,77,Miramax,PG-13,170,The Aviator,2004,7.5,12
+USA,Marc Forster,Biography,English,67,Miramax Films,PG,106,Finding Neverland,2004,7.7,12
+USA,Clint Eastwood,Drama,English,86,Warner Bros. Pictures,PG-13,132,Million Dollar Baby,2004,8.1,1
+USA,Taylor Hackford,Biography,English,73,Universal Pictures,PG-13,152,Ray,2004,7.7,10
+USA,Alexander Payne,Comedy,English,94,Fox Searchlight Pictures,R,127,Sideways,2004,7.5,1
+USA,Ang Lee,Drama,English,87,Focus Features,R,134,Brokeback Mountain,2005,7.7,1
+USA,Bennett Miller,Biography,English,88,Sony Pictures Classics,R,114,Capote,2005,7.3,2
+Spain,Nacho Vigalondo,Short,Spanish,,,,10,Crash,2005,6.3,3
+USA,George Clooney,Biography,English,80,Warner Independent Pictures,PG,93,"Good Night, and Good Luck.",2005,7.4,11
+France,Steven Spielberg,Biography,English,74,Universal Pictures,R,164,Munich,2005,7.5,1
+France,Alejandro G. Iñárritu,Drama,English,69,Paramount Classics,R,143,Babel,2006,7.4,11
+USA,Martin Scorsese,Crime,English,85,Warner Bros. Pictures,R,151,The Departed,2006,8.5,10
+USA,Clint Eastwood,Action,Japanese,89,Warner Bros. Pictures,R,141,Letters from Iwo Jima,2006,7.9,2
+USA,"Jonathan Dayton, Valerie Faris",Comedy,English,80,Fox Searchlight,R,101,Little Miss Sunshine,2006,7.8,8
+UK,Stephen Frears,Biography,English,91,Miramax Films,PG-13,103,The Queen,2006,7.3,11
+UK,Joe Wright,Drama,English,85,Focus Features,R,123,Atonement,2007,7.8,1
+USA,Jason Reitman,Comedy,English,81,Fox Searchlight,PG-13,96,Juno,2007,7.4,12
+USA,Tony Gilroy,Crime,English,82,Warner Bros. Pictures,R,119,Michael Clayton,2007,7.2,10
+USA,"Ethan Coen, Joel Coen",Crime,English,91,Miramax Films,R,122,No Country for Old Men,2007,8.1,11
+USA,Paul Thomas Anderson,Drama,English,93,Paramount Vantage,R,158,There Will Be Blood,2007,8.1,1
+USA,David Fincher,Drama,English,70,Paramount,PG-13,166,The Curious Case of Benjamin Button,2008,7.8,12
+UK,Ron Howard,Biography,English,80,Universal Pictures,R,122,Frost/Nixon,2008,7.7,1
+USA,Gus Van Sant,Biography,English,84,Focus Features,R,128,Milk,2008,7.5,1
+Germany,Stephen Daldry,Drama,English,58,The Weinstein Co./MGM,R,124,The Reader,2008,7.6,1
+UK,"Danny Boyle, Loveleen Tandan(co-director)",Drama,English,86,Fox Searchlight Pictures,R,120,Slumdog Millionaire,2008,8,12
+USA,James Cameron,Action,English,83,20th Century Fox,PG-13,162,Avatar,2009,7.8,12
+USA,John Lee Hancock,Biography,English,53,Warner Bros. Pictures,PG-13,129,The Blind Side,2009,7.6,11
+South Africa,Neill Blomkamp,Action,English,81,Sony Pictures/Screen Gems,R,112,District 9,2009,7.9,8
+UK,Lone Scherfig,Drama,English,85,Sony Classics,PG-13,100,An Education,2009,7.3,2
+USA,Quentin Tarantino,Adventure,English,69,The Weinstein Company,R,153,Inglourious Basterds,2009,8.3,8
+USA,"Ethan Coen, Joel Coen",Comedy,English,79,Focus Features,R,106,A Serious Man,2009,7,11
+USA,"Pete Docter, Bob Peterson(co-director)",Animation,English,88,Walt Disney Pictures,PG,96,Up,2009,8.2,5
+USA,Jason Reitman,Comedy,English,83,Paramount Pictures,R,109,Up in the Air,2009,7.4,12
+USA,Darren Aronofsky,Drama,English,79,Fox Searchlight,R,108,Black Swan,2010,8,12
+USA,David O. Russell,Biography,English,79,Paramount Pictures,R,116,The Fighter,2010,7.8,12
+USA,Christopher Nolan,Action,English,74,Warner Bros. Pictures,PG-13,148,Inception,2010,8.8,7
+USA,Lisa Cholodenko,Comedy,English,86,Focus Features,R,106,The Kids Are All Right,2010,7,7
+UK,Tom Hooper,Biography,English,88,The Weinstein Company,R,118,The King's Speech,2010,8,12
+USA,Danny Boyle,Biography,English,82,Fox Searchlight,R,94,127 Hours,2010,7.6,1
+USA,David Fincher,Biography,English,95,Columbia Pictures,PG-13,120,The Social Network,2010,7.7,10
+USA,Lee Unkrich,Animation,English,92,Walt Disney Pictures,G,103,Toy Story 3,2010,8.3,6
+USA,"Ethan Coen, Joel Coen",Drama,English,80,Paramount Pictures,PG-13,110,True Grit,2010,7.6,12
+USA,Debra Granik,Drama,English,90,Roadside Attractions,R,100,Winter's Bone,2010,7.2,7
+France,Michel Hazanavicius,Comedy,English,89,The Weinstein Company,PG-13,100,The Artist,2011,7.9,1
+USA,Alexander Payne,Comedy,English,84,Fox Searchlight Pictures,R,115,The Descendants,2011,7.3,12
+USA,Stephen Daldry,Adventure,English,46,Warner Bros. Pictures,PG-13,129,Extremely Loud & Incredibly Close,2011,6.9,1
+USA,Tate Taylor,Drama,English,62,DreamWorks Studios,PG-13,146,The Help,2011,8.1,8
+UK,Martin Scorsese,Drama,English,83,Paramount Studios,PG,126,Hugo,2011,7.5,11
+Spain,Woody Allen,Comedy,English,81,Sony Pictures Classics,PG-13,94,Midnight in Paris,2011,7.7,6
+USA,Bennett Miller,Biography,English,87,Sony Pictures,PG-13,133,Moneyball,2011,7.6,9
+USA,Terrence Malick,Drama,English,85,Fox Searchlight,PG-13,139,The Tree of Life,2011,6.8,5
+USA,Steven Spielberg,Action,English,72,Walt Disney Pictures,PG-13,146,War Horse,2011,7.2,12
+Austria,Michael Haneke,Drama,French,94,Sony Pictures Classics,PG-13,127,Amour,2012,7.9,9
+USA,Ben Affleck,Biography,English,86,Warner Bros. Pictures,R,120,Argo,2012,7.7,10
+USA,Benh Zeitlin,Adventure,English,86,Fox Searchlight,PG-13,93,Beasts of the Southern Wild,2012,7.3,7
+USA,Quentin Tarantino,Drama,English,81,The Weinstein Co.,R,165,Django Unchained,2012,8.4,12
+UK,Tom Hooper,Drama,English,63,Universal Pictures,PG-13,158,Les Misérables,2012,7.6,12
+USA,Ang Lee,Adventure,English,79,20th Century Fox,PG,127,Life of Pi,2012,7.9,11
+USA,Steven Spielberg,Biography,English,86,Dreamworks Pictures,PG-13,150,Lincoln,2012,7.3,11
+USA,David O. Russell,Comedy,English,81,The Weinstein Company,R,122,Silver Linings Playbook,2012,7.7,12
+USA,Kathryn Bigelow,Drama,English,95,Columbia Pictures,R,157,Zero Dark Thirty,2012,7.4,1
+USA,David O. Russell,Crime,English,90,Sony Pictures,R,138,American Hustle,2013,7.2,12
+USA,Paul Greengrass,Biography,English,83,Sony Pictures,PG-13,134,Captain Phillips,2013,7.8,10
+USA,Jean-Marc Vallée,Biography,English,84,Focus Features,R,117,Dallas Buyers Club,2013,8,11
+UK,Alfonso Cuarón,Drama,English,96,Warner Bros. Pictures,PG-13,91,Gravity,2013,7.7,10
+USA,Spike Jonze,Drama,English,90,Warner Bros. Pictures,R,126,Her,2013,8,1
+USA,Alexander Payne,Adventure,English,86,Paramount Pictures,R,115,Nebraska,2013,7.7,1
+UK,Stephen Frears,Biography,English,77,The Weinstein Company,PG-13,98,Philomena,2013,7.6,11
+USA,Steve McQueen,Biography,English,96,Fox Searchlight,R,134,12 Years a Slave,2013,8.1,11
+USA,Martin Scorsese,Biography,English,75,Paramount Studios,R,180,The Wolf of Wall Street,2013,8.2,12
+USA,Clint Eastwood,Action,English,72,Warner Bros.,R,133,American Sniper,2014,7.3,1
+USA,Alejandro G. Iñárritu,Comedy,English,87,Fox Searchlight,R,119,Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,11
+USA,Richard Linklater,Drama,English,100,IFC Films,R,165,Boyhood,2014,7.9,8
+Germany,Wes Anderson,Adventure,English,88,Fox Searchlight,R,99,The Grand Budapest Hotel,2014,8.1,3
+UK,Morten Tyldum,Biography,English,73,The Weinstein Company,PG-13,114,The Imitation Game,2014,8,12
+UK,Ava DuVernay,Biography,English,88,Paramount Pictures,PG-13,128,Selma,2014,7.5,1
+UK,James Marsh,Biography,English,72,Focus Features,PG-13,123,The Theory of Everything,2014,7.7,11
+USA,Damien Chazelle,Drama,English,88,Sony Pictures Classics,R,106,Whiplash,2014,8.5,10
+USA,Adam McKay,Biography,English,81,Paramount Pictures,R,130,The Big Short,2015,7.8,12
+Germany,Steven Spielberg,Drama,English,81,Dreamworks Pictures,PG-13,142,Bridge of Spies,2015,7.6,10
+UK,John Crowley,Drama,English,88,Fox Searchlight Pictures,PG-13,117,Brooklyn,2015,7.5,11
+Australia,George Miller,Action,English,90,Warner Bros.,R,120,Mad Max: Fury Road,2015,8.1,5
+UK,Ridley Scott,Adventure,English,80,20th Century Fox,PG-13,144,The Martian,2015,8,10
+USA,Alejandro G. Iñárritu,Action,English,76,20th Century Fox,R,156,The Revenant,2015,8,1
+Ireland,Lenny Abrahamson,Drama,English,86,Element Pictures,R,118,Room,2015,8.1,1
+USA,Tom McCarthy,Biography,English,93,Open Road Films,R,129,Spotlight,2015,8.1,11
+USA,Denis Villeneuve,Drama,English,81,21 Laps Entertainment,PG-13,116,Arrival,2016,7.9,11
+USA,Denzel Washington,Drama,English,79,Paramount Pictures,PG-13,139,Fences,2016,7.2,12
+Australia,Mel Gibson,Biography,English,71,Summit Entertainment,R,139,Hacksaw Ridge,2016,8.1,11
+USA,David Mackenzie,Action,English,88,Film 44,R,102,Hell or High Water,2016,7.6,8
+USA,Theodore Melfi,Biography,English,74,20th Century Fox,PG,127,Hidden Figures,2016,7.8,1
+USA,Damien Chazelle,Comedy,English,93,Liongate Films,PG-13,128,La La Land,2016,8,12
+UK,Garth Davis,Biography,English,69,See-Saw Films,PG-13,118,Lion,2016,8,1
+USA,Kenneth Lonergan,Drama,English,96,Roadside Attractions ,R,137,Manchester by the Sea,2016,7.8,12
+USA,Barry Jenkins,Drama,English,99,A24 Films,R,111,Moonlight,2016,7.4,11
+Italy,Luca Guadagnino,Drama,English,93,Sony Pictures Classics,R,132,Call Me by Your Name,2017,7.9,1
+UK,Joe Wright,Biography,English,75,Focus Features,PG-13,125,Darkest Hour,2017,7.4,12
+UK,Christopher Nolan,Action,English,94,Warner Bros. Pictures,PG-13,106,Dunkirk,2017,7.9,7
+USA,Jordan Peele,Horror,English,84,Universal Pictures,R,104,Get Out,2017,7.7,2
+USA,Greta Gerwig,Comedy,English,94,A24,R,94,Lady Bird,2017,7.4,12
+USA,Paul Thomas Anderson,Drama,English,90,Focus Features,R,130,Phantom Thread,2017,7.5,1
+USA,Steven Spielberg,Biography,English,83,20th Century Fox,PG-13,116,The Post,2017,7.2,1
+USA,Guillermo del Toro,Adventure,English,87,Fox Searchlight Pictures,R,123,The Shape of Water,2017,7.3,12
+UK,Martin McDonagh,Comedy,English,88,Fox Searchlight Pictures,R,115,"Three Billboards Outside Ebbing, Missouri",2017,8.2,12
