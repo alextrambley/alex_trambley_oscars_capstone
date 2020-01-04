@@ -3,7 +3,20 @@
 </p>
 
 # Alex Trambley's Oscars Capstone
-This is my Capstone project for the Data Analytics Cohort 1. I decided to focus on films that were nominated for the Best Picture Academy Award, and look at what makes a winner!
+
+### Project Summary
+This project will look at the historical data of all films that have been nominated for an Academy Award (Oscar), and attempt to determine if there are any trends or patterns that may drive a film toward being more likely to win the Best Picture award. Looking at different associated factors of each film, and pairing with outside data, I plan to pitch a “sweet spot” film that has the best theoretical chance to be nominated, and win, a Best Picture Oscar. Given my knowledge of the recent history of this category, I expect that there will be some genres and categories that are often ignored by the Academy when choosing a winner, while other factors like release date (time of the year) and film/title length may have less of an effect.
+
+### Motivation
+I chose this project as I have recently gained a love for film and appreciation all of the different aspects associated with films and film creation. The Academy Awards, or Oscars, as they are frequently called, are considered by some to be the quintessential award showcasing the quality and achievement within a year of film. One of the more interesting aspects of the Oscars is not only examination of the films nominated, but why specific films win over others. Could you have an absolute masterpiece film loved by all, but because it is a certain genre that it may have less of a chance to win Best Picture? These are the questions that I want to answer!
+
+### Data Question
+Are there factors that can be used to determine the likelihood (or lack thereof) of a film winning an Oscar? Things like category/genre, film length, title length, country of origin, release date, etc. Are there trends with the winners that could inform a film maker or a film production company on how they could craft a winner? Also, does being nominated in other categories (or certain categories) increase the likelihood of winning?
+
+## Tools Used
+* Excel
+* Python
+* Tableau
 
 -----
 # Sourcing the Data
@@ -38,7 +51,7 @@ This was necessary as the names of the categories changed over time.
 
 -----
 Then, I filtered out the categories associated with acting (any categories that included the letters "ACT" in the title) so that I could use this table as a source of nominations in categories other than Best Picture. I also did this same filtering for all of the other categories __NOT__ associated with acting as their own dataframe so that their values could be referenced against the Best Picture values in a separate table.
------
+
 After obtaining the list of films nominated for the Best Picture (or associated name) award, I then created a function within Python to pull all of the information for each film from the OMDb API. During this process, I discovered that there were some films that either had naming or release year issues when referencing the OMDb API. To remedy this, as part of the function I created, an "error" list was generated so that I could manually address any film titles that did not work with a normal pull.
 
 With the error list I had to manually check the film release year against IMDb and make sure that I had the correct film and IMDb ID. This was done with about 45 films.
