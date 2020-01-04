@@ -11,7 +11,7 @@ This project will look at the historical data of all films that have been nomina
 I chose this project as I have recently gained a love for film and appreciation all of the different aspects associated with films and film creation. The Academy Awards, or Oscars, as they are frequently called, are considered by some to be the quintessential award showcasing the quality and achievement within a year of film. One of the more interesting aspects of the Oscars is not only examination of the films nominated, but why specific films win over others. Could you have an absolute masterpiece film loved by all, but because it is a certain genre that it may have less of a chance to win Best Picture? These are the questions that I want to answer!
 
 ### Data Question
-Are there factors that can be used to determine the likelihood (or lack thereof) of a film winning an Oscar? Things like category/genre, film length, title length, country of origin, release date, etc. Are there trends with the winners that could inform a film maker or a film production company on how they could craft a winner? Also, does being nominated in other categories (or certain categories) increase the likelihood of winning?
+Are there factors that can be used to determine the likelihood (or lack thereof) of a film winning an Oscar? Things like category/genre, film length, title length, country of origin, release date, etc. Are there trends with the winners that could inform a film maker or a film production company on how they could craft a winner? Also, does being nominated in other categories increase the likelihood of winning?
 
 ## Tools Used
 * Excel
