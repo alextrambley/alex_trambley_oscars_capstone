@@ -56,3 +56,9 @@ After obtaining the list of films nominated for the Best Picture (or associated 
 With the error list I had to manually check the film release year against IMDb and make sure that I had the correct film and IMDb ID. This was done with about 45 films.
 
 Now that the error list was completed and fixed, I was able to start cleaning up the data frames within Python to include a new piece of information, release month, as well as trimming down categorical variables like Language, Country, Genre, and more. These changes were completed by going back and forth between Python and Excel with the Python generated CSVs.
+
+# Working in Tableau
+
+To visualize and present the findings of the data, I chose to use Tableau. I felt that Tableau was a great tool to showcase the data in an interactive format (instead of a Powerpoint) that could also be easily shared and accessible to anyone.
+
+## [Click here to see the findings of my project, and what a great Best Picture contender looks like!](https://public.tableau.com/profile/alex.trambley#!/vizhome/alex_trambley_oscars_capstone/Dashboard1?publish=yes)
