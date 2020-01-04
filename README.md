@@ -13,6 +13,9 @@ I chose this project as I have recently gained a love for film and appreciation 
 ### Data Question
 Are there factors that can be used to determine the likelihood (or lack thereof) of a film winning an Oscar? Things like category/genre, film length, title length, country of origin, release date, etc. Are there trends with the winners that could inform a film maker or a film production company on how they could craft a winner? Also, does being nominated in other categories increase the likelihood of winning?
 
+### Data Struggles
+Some sources of difficulty within this project were contained within the data sourced and compared between multiple sources. I often had to change formatting like dates and titles so that the separate sources could be linked to one another via table joins, etc.. Much of the time of this project was spent trying to format the data correctly so that tidy versions of the data could effectively be visualized in the final product.
+
 ## Tools Used
 * Excel
 * Python
@@ -49,7 +52,7 @@ To start working with the data, I imported my complete films table into a Jupyte
 This was necessary as the names of the categories changed over time. 
 
 -----
-Then, I filtered out the categories associated with acting (any categories that included the letters "ACT" in the title) so that I could use this table as a source of nominations in categories other than Best Picture. I also did this same filtering for all of the other categories __NOT__ associated with acting as their own dataframe so that their values could be referenced against the Best Picture values in a separate table.
+Then, I filtered out the categories associated with acting (any categories that included the letters "ACT" in the title) so that I could use the remaining categories for comparison within the final Tableau project.
 
 After obtaining the list of films nominated for the Best Picture (or associated name) award, I then created a function within Python to pull all of the information for each film from the OMDb API. During this process, I discovered that there were some films that either had naming or release year issues when referencing the OMDb API. To remedy this, as part of the function I created, an "error" list was generated so that I could manually address any film titles that did not work with a normal pull.
 
