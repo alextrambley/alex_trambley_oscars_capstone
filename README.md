@@ -31,10 +31,9 @@ I sourced this search via a table I found on [another Github sourcing all of the
 ![omdb_logo](https://github.com/alextrambley/alex_trambley_oscars_capstone/blob/master/omdb_api_logo.png)
 
 ## OMDb API Is Where It's At
-> From here I found the [OMDb API Database](http://www.omdbapi.com/) as a location that I could use to get information about each film 
-> including Genre, Release Data, Country of Origin, Language, Director, Actors, etc.
+From here I found the [OMDb API Database](http://www.omdbapi.com/) as a location that I could use to get information about each film including Genre, Release Data, Country of Origin, Language, Director, Actors, etc.
 
-> This API is sourced using information found from [the IMDB official site](https://www.imdb.com/). 
+This API is sourced using information found from [the IMDB official site](https://www.imdb.com/). 
 
 -----
 # Working With The Data
