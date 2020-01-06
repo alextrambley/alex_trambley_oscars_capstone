@@ -64,4 +64,4 @@ Now that the error list was completed and fixed, I was able to start cleaning up
 
 To visualize and present the findings of the data, I chose to use Tableau. I felt that Tableau was a great tool to showcase the data in an interactive format (instead of a Powerpoint) that could also be easily shared and accessible to anyone.
 
-## [Click here to see the findings of my project, and what a great "Best Picture" contender looks like!](https://public.tableau.com/profile/alex.trambley#!/vizhome/alex_trambley_oscars_capstone/DASHBOARD?publish=yes)
+## [Click here to see the findings of my project, and what a great "Best Picture" contender looks like!](https://public.tableau.com/profile/alex.trambley#!/vizhome/alex_trambley_oscars_capstone/DASHBOARD)
